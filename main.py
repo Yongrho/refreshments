@@ -3,7 +3,15 @@ import dash_core_components as dcc
 import dash_html_components as html
 import plotly.graph_objects as go
 import plotly.express as px
+from plotly.subplots import make_subplots
 import pandas as pd
+import numpy as np
+import plotly.figure_factory as ff
+from plotly.subplots import make_subplots
+
+years = ['2013', '2014', '2015']
+quarters = [('01', '03'), ('04', '06'), ('07', '09'), ('10', '12')]
+months = ['01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12']
 
 def chart_revenue_by_city_with_geo(df):
     df.set_index('LocationName', inplace=True)
@@ -50,81 +58,62 @@ def chart_revenue_by_city_with_geo(df):
     fig.write_html("chart/chart_revenue_by_city_with_geo.html")
 
 def chart_overall_revenue_profit_by_quarter(df):
-    quarter = 1
-    year = 2013
     columns = ['Quarter','Revenue', 'Profit']
-    dfObj = pd.DataFrame(columns=columns)
-    for i in range(12):
-        if quarter == 1:
-            start_month = '01'
-            end_month = '03'
-        elif quarter == 2:
-            start_month = '04'
-            end_month = '06'
-        elif quarter == 3:
-            start_month = '07'
-            end_month = '09'
-        else:
-            start_month = '10'
-            end_month = '12'
-        start_quarter = str(year) + start_month
-        end_quarter = str(year) + end_month
+    dff = pd.DataFrame(columns=columns)
 
-        period = df[(df['Date'] >= int(start_quarter)) & (df['Date'] <= int(end_quarter))]
-        revenue = period['OriginalSalesPrice'].sum()
-        profit = period['GrossMargin'].sum()
+    for year in years:
+        i = 1
+        for quarter in quarters:
+            start_quarter = year + quarter[0]
+            end_quarter = year + quarter[1]
 
-        col_quarter = 'Q' + str(quarter) + '/' + str(year)
-        dfObj = dfObj.append({'Quarter': col_quarter, 'Revenue': revenue, 'Profit': profit}, ignore_index=True)
-        if quarter == 4:
-            quarter = 1
-            year += 1
-        else:
-            quarter += 1
-    print(dfObj)
+            period = df[(df['Date'] >= int(start_quarter)) & (df['Date'] <= int(end_quarter))]
 
-    fig = px.line(dfObj, x="Quarter", y=dfObj.columns,
-                  hover_data={"Quarter": "|%B %s, %Y"},
-                  title='custom tick labels with ticklabelmode="period"')
-    fig.update_xaxes(
-        dtick="Q1",
-        tickformat="%b\n%Y",
-        ticklabelmode="period")
-    fig.show()
+            col_quarter = 'Q' + str(i) + '/' + str(year)
+            dff = dff.append({'Quarter': col_quarter,
+                              'Revenue': period['OriginalSalesPrice'].sum(),
+                              'Profit': period['GrossMargin'].sum()}, ignore_index=True)
+            i = i + 1
+
+    fig = px.line(dff, x="Quarter", y=dff.columns,
+                  title='The revenue and profit from 2013 to 2015 by quater')
+
+    fig.update_traces(mode="markers+lines", hovertemplate=None)
+    fig.update_yaxes(title='Revenue-Profit')
+    fig.update_layout(width=1000, height=500, hovermode='x unified', legend_title='Legend')
+#    fig.show()
+    fig.write_html("chart/chart_revenue_profit_by_quarter.html")
 
 def chart_overall_revenue_profit_by_month(df):
-    s = 2013
-    e = 2016
-    month_format = ['01','02','03','04','05','06','07','08','09','10','11','12']
     columns = ['Month', 'Revenue', 'Profit']
-    dfObj = pd.DataFrame(columns=columns)
-    for year in range(s, e):
-        print (year)
-        for month in range(1, 13):
-            year_month = str(year) + month_format[month - 1]
-            period = df[(df['Date'] == int(year_month))]
-            revenue = period['OriginalSalesPrice'].sum()
-            profit = period['GrossMargin'].sum()
+    ddf = pd.DataFrame(columns=columns)
 
-            month_col = str(year) + '-' + str(month)
-            dfObj = dfObj.append({'Month': month_col, 'Revenue': revenue, 'Profit': profit}, ignore_index=True)
-    print(dfObj)
-    fig = px.line(dfObj, x="Month", y=dfObj.columns,
+    for year in years:
+        for month in months:
+            year_month = year + month
+            period = df[(df['Date'] == int(year_month))]
+
+            month_col = year + '-' + month
+            ddf = ddf.append({'Month': month_col,
+                              'Revenue': period['OriginalSalesPrice'].sum(),
+                              'Profit': period['GrossMargin'].sum()}, ignore_index=True)
+
+    fig = px.line(ddf, x='Month', y=ddf.columns,
                   hover_data={"Month": "|%B, %Y"},
-                  title='custom tick labels with ticklabelmode="period"')
-    fig.update_xaxes(
-        dtick="M1",
-        tickformat="%b\n%Y",
-        ticklabelmode="period")
-    fig.update_layout(hovermode="x", width=1000, height=500)
-    fig.show()
+                  title='The revenue and profit from 2013 to 2015 by month')
+
+    fig.update_traces(mode="markers+lines", hovertemplate=None)
+    fig.update_xaxes(dtick="M1", tickformat="%b\n%Y", ticklabelmode="period")
+    fig.update_yaxes(title='Revenue-Profit')
+    fig.update_layout(width=1000, height=500, hovermode="x", legend_title='Legend')
+#    fig.show()
+    fig.write_html("chart/chart_revenue_profit_by_month.html")
+
 
 if __name__ == '__main__':
-#    df = pd.read_csv('data/sales1.csv')
     df = pd.read_csv('data/BestRunrefreshmentsales.csv')
     df.head()
 
-#    chart_revenue_by_city_with_geo(df)
-#    chart_overall_revenue_profit_by_quarter(df)
-#    chart_overall_revenue_profit_by_month(df)
-
+#   chart_revenue_by_city_with_geo(df)
+    chart_overall_revenue_profit_by_quarter(df)
+    chart_overall_revenue_profit_by_month(df)
