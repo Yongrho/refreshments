@@ -1,6 +1,3 @@
-import dash
-import dash_core_components as dcc
-import dash_html_components as html
 import plotly.graph_objects as go
 import plotly.express as px
 from plotly.subplots import make_subplots
@@ -109,11 +106,44 @@ def chart_overall_revenue_profit_by_month(df):
 #    fig.show()
     fig.write_html("chart/chart_revenue_profit_by_month.html")
 
+def chart_revenue_profit_by_state(df):
+    df.set_index('StateName', inplace=True)
+    revenue_by_state = df.groupby(level='StateName')['OriginalSalesPrice'].sum().reset_index()
+    profit_by_state = df.groupby(level='StateName')['GrossMargin'].sum().reset_index()
+    fig = make_subplots(rows=1, cols=2, specs=[[{'type':'domain'}, {'type':'domain'}]])
+    fig.add_trace(go.Pie(labels=revenue_by_state.StateName, values=revenue_by_state.OriginalSalesPrice, name='Revenue'), 1, 1)
+    fig.add_trace(go.Pie(labels=profit_by_state.StateName, values=profit_by_state.GrossMargin, name='Profit'), 1, 2)
+
+    # Use `hole` to create a donut-like pie chart
+    fig.update_traces(hole=.4, hoverinfo='label+value')
+    fig.update_layout(width=1000, height=500, title='Revenue and Profit by State',
+                         annotations = [dict(text='Revenue', x=0.17, y=0.5, font_size=20, showarrow=False),
+                                        dict(text='Profit', x=0.81, y=0.5, font_size=20, showarrow=False)])
+#    fig.show()
+    fig.write_html("chart/chart_revenue_profit_by_state.html")
+
+def chart_revenue_profit_by_product_category(df):
+    df.set_index('ProductCategoryName', inplace=True)
+    revenue_by_state = df.groupby(level='ProductCategoryName')['OriginalSalesPrice'].sum().reset_index()
+    profit_by_state = df.groupby(level='ProductCategoryName')['GrossMargin'].sum().reset_index()
+    fig = make_subplots(rows=1, cols=2, specs=[[{'type':'domain'}, {'type':'domain'}]])
+    fig.add_trace(go.Pie(labels=revenue_by_state.ProductCategoryName, values=revenue_by_state.OriginalSalesPrice, name='Revenue'), 1, 1)
+    fig.add_trace(go.Pie(labels=profit_by_state.ProductCategoryName, values=profit_by_state.GrossMargin, name='Profit'), 1, 2)
+
+    # Use `hole` to create a donut-like pie chart
+    fig.update_traces(hole=.4, hoverinfo='label+value')
+    fig.update_layout(width=1000, height=500, title='Revenue and Profit by State',
+                         annotations = [dict(text='Revenue', x=0.17, y=0.5, font_size=20, showarrow=False),
+                                        dict(text='Profit', x=0.81, y=0.5, font_size=20, showarrow=False)])
+#    fig.show()
+    fig.write_html("chart/chart_revenue_profit_by_product_category.html")
 
 if __name__ == '__main__':
     df = pd.read_csv('data/BestRunrefreshmentsales.csv')
     df.head()
 
-#   chart_revenue_by_city_with_geo(df)
+    chart_revenue_by_city_with_geo(df)
     chart_overall_revenue_profit_by_quarter(df)
     chart_overall_revenue_profit_by_month(df)
+    chart_revenue_profit_by_state(df)
+    chart_revenue_profit_by_product_category(df)
