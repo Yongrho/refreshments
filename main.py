@@ -132,7 +132,7 @@ def chart_revenue_profit_by_product_category(df):
 
     # Use `hole` to create a donut-like pie chart
     fig.update_traces(hole=.4, hoverinfo='label+value')
-    fig.update_layout(width=1000, height=500, title='Revenue and Profit by State',
+    fig.update_layout(width=1000, height=500, title='Revenue and Profit by Product Category',
                          annotations = [dict(text='Revenue', x=0.17, y=0.5, font_size=20, showarrow=False),
                                         dict(text='Profit', x=0.81, y=0.5, font_size=20, showarrow=False)])
 #    fig.show()
