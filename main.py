@@ -138,6 +138,50 @@ def chart_revenue_profit_by_product_category(df):
 #    fig.show()
     fig.write_html("chart/chart_revenue_profit_by_product_category.html")
 
+def chart_revenue_by_city(df):
+    df.set_index('LocationName', inplace=True)
+    revenue_by_city = df.groupby(level='LocationName')['OriginalSalesPrice'].sum().reset_index()
+    revenue_by_city = revenue_by_city.sort_values(by='OriginalSalesPrice', ascending=False)
+    revenue_by_city["CumPercentage"] = revenue_by_city["OriginalSalesPrice"].cumsum() / revenue_by_city["OriginalSalesPrice"].sum()*100
+    # Create figure with secondary y-axis
+    fig = make_subplots(specs=[[{"secondary_y": True}]])
+    fig.add_trace(go.Bar(x=revenue_by_city.LocationName, y=revenue_by_city.OriginalSalesPrice, name="Revenue"), secondary_y=False)
+    fig.add_trace(go.Scatter(x=revenue_by_city.LocationName, y=revenue_by_city.CumPercentage, name="Cumualtive Percentage"), secondary_y=True)
+    # Add figure title
+    fig.update_layout(width=1000, height=500, title_text="Revenue by City", showlegend=False)
+    # Set x-axis title
+    fig.update_xaxes(title_text="City")
+    # Set y-axes titles
+    fig.update_yaxes(title_text="Revenue", secondary_y=False)
+    fig.update_yaxes(title_text="Cumualtive Percentage", secondary_y=True)
+#    fig.show()
+    fig.write_html("chart/chart_revenue_by_city.html")
+
+def chart_revenue_profit_by_product_name(df):
+    category = ['Juices', 'Alcohol', 'Carbonated Drinks']
+    df.set_index(['ProductCategoryName', 'ProductName'], inplace=True)
+    revenue_by_product_category_name = df.groupby(level=['ProductCategoryName', 'ProductName'])['OriginalSalesPrice'].sum().reset_index()
+    fig = make_subplots(rows=1, cols=3, specs=[[{"secondary_y": True}, {"secondary_y": True}, {"secondary_y": True}]],
+                         subplot_titles=category)
+    for i in range(len(category)):
+        category_name = category[i]
+        revenue_by_category_name = revenue_by_product_category_name.loc[revenue_by_product_category_name['ProductCategoryName']==category_name]
+        revenue_by_category_name = revenue_by_category_name.sort_values(by='OriginalSalesPrice', ascending=False)
+        revenue_by_category_name['CumPercentage'] = revenue_by_category_name['OriginalSalesPrice'].cumsum() / revenue_by_category_name['OriginalSalesPrice'].sum() * 100
+        fig.add_trace(go.Bar(x=revenue_by_category_name.ProductName, y=revenue_by_category_name.OriginalSalesPrice, name=category_name), 1, i+1, secondary_y=False)
+        fig.add_trace(go.Scatter(x=revenue_by_category_name.ProductName, y=revenue_by_category_name.CumPercentage, name="Cumualtive Percentage"), 1, i+1, secondary_y=True)
+    # Add figure title
+    fig.update_layout(width=1500, height=500, title_text="Revenue by Product name", showlegend=False)
+    #
+    # Set x-axis title
+#    fig.update_xaxes(title_text="Product Name")
+    #
+    # Set y-axes titles
+    fig.update_yaxes(title_text="Revenue", secondary_y=False)
+    fig.update_yaxes(title_text="Cumualtive Percentage", secondary_y=True)
+#    fig.show()
+    fig.write_html("chart/chart_revenue_profit_by_product_name.html")
+
 if __name__ == '__main__':
     df = pd.read_csv('data/BestRunrefreshmentsales.csv')
     df.head()
@@ -147,3 +191,6 @@ if __name__ == '__main__':
     chart_overall_revenue_profit_by_month(df)
     chart_revenue_profit_by_state(df)
     chart_revenue_profit_by_product_category(df)
+
+    chart_revenue_by_city(df)
+    chart_revenue_profit_by_product_name(df)
