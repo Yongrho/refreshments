@@ -182,6 +182,24 @@ def chart_revenue_profit_by_product_name(df):
 #    fig.show()
     fig.write_html("chart/chart_revenue_profit_by_product_name.html")
 
+def chart_revenue_by_categories(df):
+    category = ['Juices','Alcohol','Carbonated Drinks','Energy Drinks','Others']
+    month = []
+    df.set_index(['ProductCategoryName', 'Date'], inplace=True)
+    revenue_by_product_category_name = df.groupby(['ProductCategoryName', 'Date'])['OriginalSalesPrice'].sum().reset_index(name='Revenue')
+    fig = go.Figure()
+    for name_category in category:
+        revenue_by_category = revenue_by_product_category_name.loc[revenue_by_product_category_name['ProductCategoryName'] == name_category]
+        month = revenue_by_category['Date'].astype(str).tolist()
+        for i in range(len(month)):
+            e_month = month[i]
+            month[i] = e_month[0:4] + '-' + e_month[4:6]
+        fig.add_trace(go.Scatter(x=month, y=revenue_by_category['Revenue'], name=name_category))
+    fig.update_traces(mode="markers+lines", hovertemplate=None)
+    fig.update_layout(width=1000, height=500, title='Revenue by Product Category')
+#    fig.show()
+    fig.write_html("chart/chart_revenue_by_categories.html")
+
 if __name__ == '__main__':
     df = pd.read_csv('data/BestRunrefreshmentsales.csv')
     df.head()
@@ -191,6 +209,6 @@ if __name__ == '__main__':
     chart_overall_revenue_profit_by_month(df)
     chart_revenue_profit_by_state(df)
     chart_revenue_profit_by_product_category(df)
-
     chart_revenue_by_city(df)
     chart_revenue_profit_by_product_name(df)
+    chart_revenue_by_categories(df)
