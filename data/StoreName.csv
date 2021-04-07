@@ -1,0 +1,2641 @@
+,StateName,LocationName,StoreName,Quarter,Revenue,Profit
+0,California,Sacramento,Steve Adda,Q1/2013,239434.3,63353.05
+1,California,Sacramento,Steve Adda,Q2/2013,378031.0,84332.61000000002
+2,California,Sacramento,Steve Adda,Q3/2013,813841.16,194688.59
+3,California,Sacramento,Steve Adda,Q4/2013,233473.14,57828.26000000001
+4,California,Sacramento,Steve Adda,Q1/2014,272504.52,61655.66
+5,California,Sacramento,Steve Adda,Q2/2014,74509.79999999999,19125.850000000002
+6,California,Sacramento,Steve Adda,Q3/2014,204916.69999999998,44708.33
+7,California,Sacramento,Steve Adda,Q4/2014,155277.46999999997,43943.83
+8,California,Sacramento,Steve Adda,Q1/2015,601660.01,150049.71
+9,California,Sacramento,Steve Adda,Q2/2015,1133668.02,247164.84000000003
+10,California,Sacramento,Steve Adda,Q3/2015,518014.51,114810.41
+11,California,Sacramento,Steve Adda,Q4/2015,679296.71,156951.2
+12,California,Sacramento,Steves,Q1/2013,229455.18000000002,49532.07
+13,California,Sacramento,Steves,Q2/2013,379975.15,76436.79999999999
+14,California,Sacramento,Steves,Q3/2013,113988.69999999998,27413.66
+15,California,Sacramento,Steves,Q4/2013,234886.66999999998,52437.740000000005
+16,California,Sacramento,Steves,Q1/2014,212265.39,58964.87
+17,California,Sacramento,Steves,Q2/2014,93585.86,25200.309999999998
+18,California,Sacramento,Steves,Q3/2014,190990.25999999998,46397.42
+19,California,Sacramento,Steves,Q4/2014,203785.52000000002,56431.229999999996
+20,California,Sacramento,Steves,Q1/2015,243218.26,63786.17
+21,California,Sacramento,Steves,Q2/2015,234239.32,54729.33
+22,California,Sacramento,Steves,Q3/2015,488838.78,113743.81
+23,California,Sacramento,Steves,Q4/2015,422377.27999999997,119756.52000000002
+24,California,Sacramento,Mstore,Q1/2013,718413.94,181611.16000000003
+25,California,Sacramento,Mstore,Q2/2013,439884.61000000004,97314.1
+26,California,Sacramento,Mstore,Q3/2013,271667.87,66188.94
+27,California,Sacramento,Mstore,Q4/2013,60577.27,17562.899999999998
+28,California,Sacramento,Mstore,Q1/2014,151856.78999999998,31663.52
+29,California,Sacramento,Mstore,Q2/2014,228903.4,50622.16
+30,California,Sacramento,Mstore,Q3/2014,461250.16000000003,99954.32
+31,California,Sacramento,Mstore,Q4/2014,384230.26,92612.6
+32,California,Sacramento,Mstore,Q1/2015,474672.2,103735.79000000001
+33,California,Sacramento,Mstore,Q2/2015,499117.45,117913.16999999998
+34,California,Sacramento,Mstore,Q3/2015,540361.21,136961.19
+35,California,Sacramento,Mstore,Q4/2015,375157.45,85878.84
+36,California,Sacramento,English Bay depot,Q1/2013,448945.75,106139.98
+37,California,Sacramento,English Bay depot,Q2/2013,350588.41000000003,63888.40000000001
+38,California,Sacramento,English Bay depot,Q3/2013,639849.99,138910.51
+39,California,Sacramento,English Bay depot,Q4/2013,442253.36,109363.92
+40,California,Sacramento,English Bay depot,Q1/2014,351224.02,79492.76
+41,California,Sacramento,English Bay depot,Q2/2014,280623.18,72688.97
+42,California,Sacramento,English Bay depot,Q3/2014,337623.42,72642.56
+43,California,Sacramento,English Bay depot,Q4/2014,493788.93000000005,120770.47
+44,California,Sacramento,English Bay depot,Q1/2015,237878.57,85647.63
+45,California,Sacramento,English Bay depot,Q2/2015,527445.3400000001,140780.41999999998
+46,California,Sacramento,English Bay depot,Q3/2015,365542.43,111964.79999999999
+47,California,Sacramento,English Bay depot,Q4/2015,465174.66000000003,107903.81
+48,California,Sacramento,A&A,Q1/2013,776536.5,180288.74
+49,California,Sacramento,A&A,Q2/2013,346722.2,90105.0
+50,California,Sacramento,A&A,Q3/2013,683197.4500000001,162933.64
+51,California,Sacramento,A&A,Q4/2013,761815.8500000001,148563.29
+52,California,Sacramento,A&A,Q1/2014,122001.57,39224.65
+53,California,Sacramento,A&A,Q2/2014,450833.19000000006,97338.47
+54,California,Sacramento,A&A,Q3/2014,460897.7899999999,123843.37
+55,California,Sacramento,A&A,Q4/2014,487502.28,113817.59999999999
+56,California,Sacramento,A&A,Q1/2015,601644.1699999999,154749.16
+57,California,Sacramento,A&A,Q2/2015,194347.25,53736.17
+58,California,Sacramento,A&A,Q3/2015,917111.03,234810.67
+59,California,Sacramento,A&A,Q4/2015,408266.17000000004,110196.53999999998
+60,California,Sacramento,Skyway Mart,Q1/2013,599722.3099999999,153636.11
+61,California,Sacramento,Skyway Mart,Q2/2013,471336.02,112082.52
+62,California,Sacramento,Skyway Mart,Q3/2013,215327.65000000002,54722.25
+63,California,Sacramento,Skyway Mart,Q4/2013,204357.15,52920.75
+64,California,Sacramento,Skyway Mart,Q1/2014,98390.97,27732.87
+65,California,Sacramento,Skyway Mart,Q2/2014,748704.45,178310.46000000002
+66,California,Sacramento,Skyway Mart,Q3/2014,720746.24,174095.74
+67,California,Sacramento,Skyway Mart,Q4/2014,410526.6,117383.19
+68,California,Sacramento,Skyway Mart,Q1/2015,1013977.0,221334.06
+69,California,Sacramento,Skyway Mart,Q2/2015,719187.1100000001,151062.04
+70,California,Sacramento,Skyway Mart,Q3/2015,483588.99,88904.15
+71,California,Sacramento,Skyway Mart,Q4/2015,744772.53,200278.77000000002
+72,California,Sacramento,W-Mart S,Q1/2013,261583.18999999997,62654.33
+73,California,Sacramento,W-Mart S,Q2/2013,179652.58,50895.229999999996
+74,California,Sacramento,W-Mart S,Q3/2013,192980.38,47308.909999999996
+75,California,Sacramento,W-Mart S,Q4/2013,433804.43,93409.12
+76,California,Sacramento,W-Mart S,Q1/2014,405863.25,93937.35
+77,California,Sacramento,W-Mart S,Q2/2014,476732.57,93573.10999999999
+78,California,Sacramento,W-Mart S,Q3/2014,350895.65,85385.93
+79,California,Sacramento,W-Mart S,Q4/2014,588789.86,138646.44
+80,California,Sacramento,W-Mart S,Q1/2015,501607.5399999999,110643.14000000001
+81,California,Sacramento,W-Mart S,Q2/2015,752600.92,199696.9
+82,California,Sacramento,W-Mart S,Q3/2015,649818.61,150188.06
+83,California,Sacramento,W-Mart S,Q4/2015,608434.79,171266.47999999998
+84,California,Los Angeles,Second Hand,Q1/2013,253264.66000000003,70878.01000000001
+85,California,Los Angeles,Second Hand,Q2/2013,381248.1999999999,87998.90000000001
+86,California,Los Angeles,Second Hand,Q3/2013,263454.01,65017.45
+87,California,Los Angeles,Second Hand,Q4/2013,260334.62,69218.56
+88,California,Los Angeles,Second Hand,Q1/2014,575643.12,89680.4
+89,California,Los Angeles,Second Hand,Q2/2014,574233.1,117530.34
+90,California,Los Angeles,Second Hand,Q3/2014,203990.06999999998,46848.9
+91,California,Los Angeles,Second Hand,Q4/2014,198572.07,55219.21
+92,California,Los Angeles,Second Hand,Q1/2015,1000464.1799999999,232316.55
+93,California,Los Angeles,Second Hand,Q2/2015,452384.80000000005,124586.87
+94,California,Los Angeles,Second Hand,Q3/2015,183773.76,52071.37
+95,California,Los Angeles,Second Hand,Q4/2015,289899.65,76138.20000000001
+96,California,Los Angeles,Dora Tolleson,Q1/2013,239434.3,70983.35
+97,California,Los Angeles,Dora Tolleson,Q2/2013,378031.0,85235.11
+98,California,Los Angeles,Dora Tolleson,Q3/2013,813841.16,213302.56
+99,California,Los Angeles,Dora Tolleson,Q4/2013,233473.14,55064.759999999995
+100,California,Los Angeles,Dora Tolleson,Q1/2014,272504.52,61348.62999999999
+101,California,Los Angeles,Dora Tolleson,Q2/2014,74509.79999999999,20548.18
+102,California,Los Angeles,Dora Tolleson,Q3/2014,204916.69999999998,48805.83
+103,California,Los Angeles,Dora Tolleson,Q4/2014,155277.46999999997,41926.59
+104,California,Los Angeles,Dora Tolleson,Q1/2015,601660.01,123767.72
+105,California,Los Angeles,Dora Tolleson,Q2/2015,1133668.02,287453.13
+106,California,Los Angeles,Dora Tolleson,Q3/2015,518014.51,111282.84
+107,California,Los Angeles,Dora Tolleson,Q4/2015,679296.71,163756.26
+108,California,Los Angeles,C-Mart,Q1/2013,229455.18000000002,48015.17
+109,California,Los Angeles,C-Mart,Q2/2013,379975.15,83875.52
+110,California,Los Angeles,C-Mart,Q3/2013,113988.69999999998,27647.91
+111,California,Los Angeles,C-Mart,Q4/2013,234886.66999999998,55743.649999999994
+112,California,Los Angeles,C-Mart,Q1/2014,212265.39,47990.92
+113,California,Los Angeles,C-Mart,Q2/2014,93585.86,23972.04
+114,California,Los Angeles,C-Mart,Q3/2014,190990.25999999998,46671.979999999996
+115,California,Los Angeles,C-Mart,Q4/2014,203785.52000000002,57529.08
+116,California,Los Angeles,C-Mart,Q1/2015,243218.26,68535.62
+117,California,Los Angeles,C-Mart,Q2/2015,234239.32,55377.58
+118,California,Los Angeles,C-Mart,Q3/2015,488838.78,120851.81
+119,California,Los Angeles,C-Mart,Q4/2015,422377.27999999997,115598.28000000001
+120,California,Los Angeles,Park Market,Q1/2013,718413.94,171800.82
+121,California,Los Angeles,Park Market,Q2/2013,439884.61000000004,99085.54000000001
+122,California,Los Angeles,Park Market,Q3/2013,271667.87,65069.2
+123,California,Los Angeles,Park Market,Q4/2013,60577.27,17364.43
+124,California,Los Angeles,Park Market,Q1/2014,151856.78999999998,31620.05
+125,California,Los Angeles,Park Market,Q2/2014,228903.4,41863.380000000005
+126,California,Los Angeles,Park Market,Q3/2014,461250.16000000003,111630.71999999999
+127,California,Los Angeles,Park Market,Q4/2014,384230.26,86973.40999999999
+128,California,Los Angeles,Park Market,Q1/2015,474672.2,115117.20999999999
+129,California,Los Angeles,Park Market,Q2/2015,499117.45,109248.29
+130,California,Los Angeles,Park Market,Q3/2015,540361.21,155510.84000000003
+131,California,Los Angeles,Park Market,Q4/2015,375157.45,88696.83
+132,California,Los Angeles,Bayview Thriftway,Q1/2013,448945.75,98738.07999999999
+133,California,Los Angeles,Bayview Thriftway,Q2/2013,350588.41000000003,59991.119999999995
+134,California,Los Angeles,Bayview Thriftway,Q3/2013,639849.99,140080.77000000002
+135,California,Los Angeles,Bayview Thriftway,Q4/2013,442253.36,94065.39
+136,California,Los Angeles,Bayview Thriftway,Q1/2014,351224.02,81585.76
+137,California,Los Angeles,Bayview Thriftway,Q2/2014,280623.18,73030.42
+138,California,Los Angeles,Bayview Thriftway,Q3/2014,337623.42,67056.03
+139,California,Los Angeles,Bayview Thriftway,Q4/2014,493788.93000000005,125769.72
+140,California,Los Angeles,Bayview Thriftway,Q1/2015,237878.57,79030.59999999999
+141,California,Los Angeles,Bayview Thriftway,Q2/2015,527445.3400000001,149003.72999999998
+142,California,Los Angeles,Bayview Thriftway,Q3/2015,365542.43,117346.73999999999
+143,California,Los Angeles,Bayview Thriftway,Q4/2015,465174.66000000003,116049.81
+144,California,Los Angeles,Crossy,Q1/2013,776536.5,191363.47
+145,California,Los Angeles,Crossy,Q2/2013,346722.2,94242.42
+146,California,Los Angeles,Crossy,Q3/2013,683197.4500000001,162293.51
+147,California,Los Angeles,Crossy,Q4/2013,761815.8500000001,158227.14
+148,California,Los Angeles,Crossy,Q1/2014,122001.57,36893.45
+149,California,Los Angeles,Crossy,Q2/2014,450833.19000000006,92866.01
+150,California,Los Angeles,Crossy,Q3/2014,460897.7899999999,126610.68
+151,California,Los Angeles,Crossy,Q4/2014,487502.28,113834.74
+152,California,Los Angeles,Crossy,Q1/2015,601644.1699999999,135877.03
+153,California,Los Angeles,Crossy,Q2/2015,194347.25,56370.1
+154,California,Los Angeles,Crossy,Q3/2015,917111.03,210432.27999999997
+155,California,Los Angeles,Crossy,Q4/2015,408266.17000000004,104281.98000000001
+156,California,San Jose,Johnson Store,Q1/2013,599722.31,149361.51
+157,California,San Jose,Johnson Store,Q2/2013,471336.02,112044.41
+158,California,San Jose,Johnson Store,Q3/2013,215327.65000000002,57973.100000000006
+159,California,San Jose,Johnson Store,Q4/2013,204357.15,56497.8
+160,California,San Jose,Johnson Store,Q1/2014,98390.97,24256.91
+161,California,San Jose,Johnson Store,Q2/2014,748704.45,177830.63
+162,California,San Jose,Johnson Store,Q3/2014,720746.24,196757.11000000002
+163,California,San Jose,Johnson Store,Q4/2014,410526.6,123707.55
+164,California,San Jose,Johnson Store,Q1/2015,1013977.0,228100.21
+165,California,San Jose,Johnson Store,Q2/2015,719187.1100000001,159896.35
+166,California,San Jose,Johnson Store,Q3/2015,483588.99,89633.45999999999
+167,California,San Jose,Johnson Store,Q4/2015,744772.53,178260.65999999997
+168,California,San Jose,Hooli,Q1/2013,261583.19,59653.009999999995
+169,California,San Jose,Hooli,Q2/2013,179652.58,51169.91
+170,California,San Jose,Hooli,Q3/2013,192980.38,45731.11
+171,California,San Jose,Hooli,Q4/2013,433804.43,90823.75
+172,California,San Jose,Hooli,Q1/2014,405863.25,84534.75
+173,California,San Jose,Hooli,Q2/2014,476732.57,112118.69
+174,California,San Jose,Hooli,Q3/2014,350895.65,77013.69
+175,California,San Jose,Hooli,Q4/2014,588789.86,151838.23
+176,California,San Jose,Hooli,Q1/2015,501607.5399999999,127880.84000000001
+177,California,San Jose,Hooli,Q2/2015,752600.92,195896.11
+178,California,San Jose,Hooli,Q3/2015,649818.61,167571.1
+179,California,San Jose,Hooli,Q4/2015,608434.79,164320.73
+180,California,San Jose,Renfrew,Q1/2013,253264.66,71385.61
+181,California,San Jose,Renfrew,Q2/2013,381248.1999999999,91197.87999999999
+182,California,San Jose,Renfrew,Q3/2013,263454.01,63504.15
+183,California,San Jose,Renfrew,Q4/2013,260334.62,68732.61
+184,California,San Jose,Renfrew,Q1/2014,575643.12,106947.68
+185,California,San Jose,Renfrew,Q2/2014,574233.1,133453.7
+186,California,San Jose,Renfrew,Q3/2014,203990.06999999998,45891.490000000005
+187,California,San Jose,Renfrew,Q4/2014,198572.07,54720.33
+188,California,San Jose,Renfrew,Q1/2015,1000464.1799999999,236263.53
+189,California,San Jose,Renfrew,Q2/2015,452384.80000000005,121486.47999999998
+190,California,San Jose,Renfrew,Q3/2015,183773.76,51965.75
+191,California,San Jose,Renfrew,Q4/2015,289899.65,70710.97
+192,California,San Jose,Roys Inc,Q1/2013,239434.3,59528.89
+193,California,San Jose,Roys Inc,Q2/2013,378031.0,82068.14
+194,California,San Jose,Roys Inc,Q3/2013,813841.16,170162.36
+195,California,San Jose,Roys Inc,Q4/2013,233473.14,59715.48
+196,California,San Jose,Roys Inc,Q1/2014,272504.52,55710.3
+197,California,San Jose,Roys Inc,Q2/2014,74509.79999999999,20848.53
+198,California,San Jose,Roys Inc,Q3/2014,204916.69999999998,48523.25
+199,California,San Jose,Roys Inc,Q4/2014,155277.46999999997,40944.09
+200,California,San Jose,Roys Inc,Q1/2015,601660.01,150753.67
+201,California,San Jose,Roys Inc,Q2/2015,1133668.02,274415.67
+202,California,San Jose,Roys Inc,Q3/2015,518014.51,106423.28
+203,California,San Jose,Roys Inc,Q4/2015,679296.71,180599.13999999998
+204,California,San Jose,Commercial Corner Store,Q1/2013,229455.18000000002,50241.899999999994
+205,California,San Jose,Commercial Corner Store,Q2/2013,379975.15,75627.17000000001
+206,California,San Jose,Commercial Corner Store,Q3/2013,113988.69999999998,28878.739999999998
+207,California,San Jose,Commercial Corner Store,Q4/2013,234886.66999999998,61331.420000000006
+208,California,San Jose,Commercial Corner Store,Q1/2014,212265.39,47841.37
+209,California,San Jose,Commercial Corner Store,Q2/2014,93585.86,24106.54
+210,California,San Jose,Commercial Corner Store,Q3/2014,190990.25999999998,45762.0
+211,California,San Jose,Commercial Corner Store,Q4/2014,203785.52000000002,60013.65
+212,California,San Jose,Commercial Corner Store,Q1/2015,243218.26,64726.71
+213,California,San Jose,Commercial Corner Store,Q2/2015,234239.32,60728.58
+214,California,San Jose,Commercial Corner Store,Q3/2015,488838.78,103760.69
+215,California,San Jose,Commercial Corner Store,Q4/2015,422377.27999999997,108681.15
+216,California,Los Angeles,Traders Joe,Q1/2013,718413.94,163600.42
+217,California,Los Angeles,Traders Joe,Q2/2013,439884.61000000004,92793.44
+218,California,Los Angeles,Traders Joe,Q3/2013,271667.87,72652.49
+219,California,Los Angeles,Traders Joe,Q4/2013,60577.27,18207.77
+220,California,Los Angeles,Traders Joe,Q1/2014,151856.78999999998,34636.48
+221,California,Los Angeles,Traders Joe,Q2/2014,228903.4,40457.48
+222,California,Los Angeles,Traders Joe,Q3/2014,461250.16000000003,120868.45999999999
+223,California,Los Angeles,Traders Joe,Q4/2014,384230.26,89082.79000000001
+224,California,Los Angeles,Traders Joe,Q1/2015,474672.2,116012.35999999999
+225,California,Los Angeles,Traders Joe,Q2/2015,499117.45,113071.31000000001
+226,California,Los Angeles,Traders Joe,Q3/2015,540361.21,163556.74
+227,California,Los Angeles,Traders Joe,Q4/2015,375157.45,88358.32
+228,California,Los Angeles,United Supermarket,Q1/2013,448945.75,106535.73000000001
+229,California,Los Angeles,United Supermarket,Q2/2013,350588.41000000003,74531.32
+230,California,Los Angeles,United Supermarket,Q3/2013,639849.99,130020.52
+231,California,Los Angeles,United Supermarket,Q4/2013,442253.36,114331.18
+232,California,Los Angeles,United Supermarket,Q1/2014,351224.02,81629.11
+233,California,Los Angeles,United Supermarket,Q2/2014,280623.18,69643.04000000001
+234,California,Los Angeles,United Supermarket,Q3/2014,337623.42,76608.66
+235,California,Los Angeles,United Supermarket,Q4/2014,493788.93000000005,133506.01
+236,California,Los Angeles,United Supermarket,Q1/2015,237878.57,85227.04000000001
+237,California,Los Angeles,United Supermarket,Q2/2015,527445.3400000001,131530.8
+238,California,Los Angeles,United Supermarket,Q3/2015,365542.43,105273.97
+239,California,Los Angeles,United Supermarket,Q4/2015,465174.66000000003,113283.33
+240,California,Los Angeles,Inter Mart,Q1/2013,776536.5,158346.9
+241,California,Los Angeles,Inter Mart,Q2/2013,346722.2,78559.08
+242,California,Los Angeles,Inter Mart,Q3/2013,683197.4500000001,160824.35
+243,California,Los Angeles,Inter Mart,Q4/2013,761815.8500000001,152950.2
+244,California,Los Angeles,Inter Mart,Q1/2014,122001.57,39815.44
+245,California,Los Angeles,Inter Mart,Q2/2014,450833.19000000006,87331.95999999999
+246,California,Los Angeles,Inter Mart,Q3/2014,460897.7899999999,124550.48000000001
+247,California,Los Angeles,Inter Mart,Q4/2014,487502.28,128997.15
+248,California,Los Angeles,Inter Mart,Q1/2015,601644.1699999999,136693.52
+249,California,Los Angeles,Inter Mart,Q2/2015,194347.25,53656.700000000004
+250,California,Los Angeles,Inter Mart,Q3/2015,917111.03,229358.57
+251,California,Los Angeles,Inter Mart,Q4/2015,408266.17000000004,100630.98
+252,California,Los Angeles,Hudsons,Q1/2013,599722.31,131305.57
+253,California,Los Angeles,Hudsons,Q2/2013,471336.02,113641.79
+254,California,Los Angeles,Hudsons,Q3/2013,215327.65000000002,56059.72
+255,California,Los Angeles,Hudsons,Q4/2013,204357.15,53662.06
+256,California,Los Angeles,Hudsons,Q1/2014,98390.97,24884.370000000003
+257,California,Los Angeles,Hudsons,Q2/2014,748704.45,175513.14
+258,California,Los Angeles,Hudsons,Q3/2014,720746.24,173908.60000000003
+259,California,Los Angeles,Hudsons,Q4/2014,410526.6,107381.6
+260,California,Los Angeles,Hudsons,Q1/2015,1013977.0,216366.41999999998
+261,California,Los Angeles,Hudsons,Q2/2015,719187.1100000001,151854.71
+262,California,Los Angeles,Hudsons,Q3/2015,483588.99,87941.16
+263,California,Los Angeles,Hudsons,Q4/2015,744772.53,180349.00000000003
+264,California,Oakland,Night Stop ,Q1/2013,261583.19,60945.97
+265,California,Oakland,Night Stop ,Q2/2013,179652.58,48015.07
+266,California,Oakland,Night Stop ,Q3/2013,192980.38,40878.63
+267,California,Oakland,Night Stop ,Q4/2013,433804.43,92809.73999999999
+268,California,Oakland,Night Stop ,Q1/2014,405863.25,88821.12000000001
+269,California,Oakland,Night Stop ,Q2/2014,476732.57,91812.49
+270,California,Oakland,Night Stop ,Q3/2014,350895.65,76143.46
+271,California,Oakland,Night Stop ,Q4/2014,588789.86,151435.41
+272,California,Oakland,Night Stop ,Q1/2015,501607.5399999999,122104.89
+273,California,Oakland,Night Stop ,Q2/2015,752600.92,204099.84000000003
+274,California,Oakland,Night Stop ,Q3/2015,649818.61,164416.18
+275,California,Oakland,Night Stop ,Q4/2015,608434.79,148269.83000000002
+276,California,Santa Barbara,Crown Groceries,Q1/2013,253264.66,72271.34
+277,California,Santa Barbara,Crown Groceries,Q2/2013,381248.1999999999,80882.5
+278,California,Santa Barbara,Crown Groceries,Q3/2013,263454.01,66482.43
+279,California,Santa Barbara,Crown Groceries,Q4/2013,260334.62,63739.03
+280,California,Santa Barbara,Crown Groceries,Q1/2014,575643.12,114991.53
+281,California,Santa Barbara,Crown Groceries,Q2/2014,574233.1,115914.37
+282,California,Santa Barbara,Crown Groceries,Q3/2014,203990.06999999998,50124.95
+283,California,Santa Barbara,Crown Groceries,Q4/2014,198572.07,54301.97
+284,California,Santa Barbara,Crown Groceries,Q1/2015,1000464.1799999999,253054.25999999998
+285,California,Santa Barbara,Crown Groceries,Q2/2015,452384.80000000005,123605.45999999999
+286,California,Santa Barbara,Crown Groceries,Q3/2015,183773.76,53161.9
+287,California,Santa Barbara,Crown Groceries,Q4/2015,289899.65,79791.15
+288,California,Santa Barbara,Lotte Mart,Q1/2013,239434.3,60720.78999999999
+289,California,Santa Barbara,Lotte Mart,Q2/2013,378031.0,73160.54000000001
+290,California,Santa Barbara,Lotte Mart,Q3/2013,813841.16,157265.08000000002
+291,California,Santa Barbara,Lotte Mart,Q4/2013,233473.14,62596.71000000001
+292,California,Santa Barbara,Lotte Mart,Q1/2014,272504.52,57376.78
+293,California,Santa Barbara,Lotte Mart,Q2/2014,74509.79999999999,21331.63
+294,California,Santa Barbara,Lotte Mart,Q3/2014,204916.69999999998,49875.87000000001
+295,California,Santa Barbara,Lotte Mart,Q4/2014,155277.46999999997,40194.310000000005
+296,California,Santa Barbara,Lotte Mart,Q1/2015,601660.01,147695.58
+297,California,Santa Barbara,Lotte Mart,Q2/2015,1133668.02,229187.99
+298,California,Santa Barbara,Lotte Mart,Q3/2015,518014.51,105499.37
+299,California,Santa Barbara,Lotte Mart,Q4/2015,679296.71,170914.12
+300,California,Santa Barbara,Harps Supermart,Q1/2013,229455.18000000002,52289.9
+301,California,Santa Barbara,Harps Supermart,Q2/2013,379975.15,67313.5
+302,California,Santa Barbara,Harps Supermart,Q3/2013,113988.69999999998,28693.519999999997
+303,California,Santa Barbara,Harps Supermart,Q4/2013,234886.66999999998,56952.19
+304,California,Santa Barbara,Harps Supermart,Q1/2014,212265.39,49258.69
+305,California,Santa Barbara,Harps Supermart,Q2/2014,93585.86,24251.28
+306,California,Santa Barbara,Harps Supermart,Q3/2014,190990.25999999998,47055.049999999996
+307,California,Santa Barbara,Harps Supermart,Q4/2014,203785.52000000002,54506.81
+308,California,Santa Barbara,Harps Supermart,Q1/2015,243218.26,63743.47
+309,California,Santa Barbara,Harps Supermart,Q2/2015,234239.32,52295.07
+310,California,Santa Barbara,Harps Supermart,Q3/2015,488838.78,103118.64000000001
+311,California,Santa Barbara,Harps Supermart,Q4/2015,422377.27999999997,120759.3
+312,California,Santa Barbara,Island Mini-Mart,Q1/2013,718413.94,195687.45
+313,California,Santa Barbara,Island Mini-Mart,Q2/2013,439884.61000000004,118127.15999999999
+314,California,Santa Barbara,Island Mini-Mart,Q3/2013,271667.87,61125.82
+315,California,Santa Barbara,Island Mini-Mart,Q4/2013,60577.27,17521.96
+316,California,Santa Barbara,Island Mini-Mart,Q1/2014,151856.78999999998,31862.02
+317,California,Santa Barbara,Island Mini-Mart,Q2/2014,228903.4,49818.17
+318,California,Santa Barbara,Island Mini-Mart,Q3/2014,461250.16000000003,116038.81999999999
+319,California,Santa Barbara,Island Mini-Mart,Q4/2014,384230.26,95359.76000000001
+320,California,Santa Barbara,Island Mini-Mart,Q1/2015,474672.2,116254.99
+321,California,Santa Barbara,Island Mini-Mart,Q2/2015,499117.45,116809.70000000001
+322,California,Santa Barbara,Island Mini-Mart,Q3/2015,540361.21,148855.49
+323,California,Santa Barbara,Island Mini-Mart,Q4/2015,375157.451892,89149.76000000001
+324,California,Santa Barbara,Hillcrest,Q1/2013,448945.75,107946.7
+325,California,Santa Barbara,Hillcrest,Q2/2013,350588.41000000003,59444.22
+326,California,Santa Barbara,Hillcrest,Q3/2013,639849.99,148159.46
+327,California,Santa Barbara,Hillcrest,Q4/2013,442253.36,101120.98000000001
+328,California,Santa Barbara,Hillcrest,Q1/2014,351224.02,82801.35
+329,California,Santa Barbara,Hillcrest,Q2/2014,280623.18,80836.65
+330,California,Santa Barbara,Hillcrest,Q3/2014,337623.42,75687.67
+331,California,Santa Barbara,Hillcrest,Q4/2014,493788.93000000005,115705.89
+332,California,Santa Barbara,Hillcrest,Q1/2015,237878.57,84181.43
+333,California,Santa Barbara,Hillcrest,Q2/2015,527445.3400000001,123973.78999999998
+334,California,Santa Barbara,Hillcrest,Q3/2015,365542.43,117023.91
+335,California,Santa Barbara,Hillcrest,Q4/2015,465174.66000000003,112382.34
+336,California,Santa Barbara,Duhlers Plaza,Q1/2013,776536.5,168816.33000000002
+337,California,Santa Barbara,Duhlers Plaza,Q2/2013,346722.2,78519.75
+338,California,Santa Barbara,Duhlers Plaza,Q3/2013,683197.4500000001,145373.84
+339,California,Santa Barbara,Duhlers Plaza,Q4/2013,761815.8500000001,161147.87
+340,California,Santa Barbara,Duhlers Plaza,Q1/2014,122001.57,38174.07000000001
+341,California,Santa Barbara,Duhlers Plaza,Q2/2014,450833.19000000006,98187.73
+342,California,Santa Barbara,Duhlers Plaza,Q3/2014,460897.7899999999,120702.37
+343,California,Santa Barbara,Duhlers Plaza,Q4/2014,487502.28,112220.14
+344,California,Santa Barbara,Duhlers Plaza,Q1/2015,601644.1699999999,146457.58000000002
+345,California,Santa Barbara,Duhlers Plaza,Q2/2015,194347.25,55935.420000000006
+346,California,Santa Barbara,Duhlers Plaza,Q3/2015,917111.03,225929.7
+347,California,Santa Barbara,Duhlers Plaza,Q4/2015,408266.17000000004,111750.66999999998
+348,California,Beverly Hills,Mary Lee Gilster Inc,Q1/2013,599722.31,129166.62999999999
+349,California,Beverly Hills,Mary Lee Gilster Inc,Q2/2013,471336.02,118423.41
+350,California,Beverly Hills,Mary Lee Gilster Inc,Q3/2013,215327.65000000002,57904.520000000004
+351,California,Beverly Hills,Mary Lee Gilster Inc,Q4/2013,204357.15,54720.58
+352,California,Beverly Hills,Mary Lee Gilster Inc,Q1/2014,98390.97,26365.36
+353,California,Beverly Hills,Mary Lee Gilster Inc,Q2/2014,748704.45,154571.38999999998
+354,California,Beverly Hills,Mary Lee Gilster Inc,Q3/2014,720746.24,186488.2
+355,California,Beverly Hills,Mary Lee Gilster Inc,Q4/2014,410526.6,111847.06
+356,California,Beverly Hills,Mary Lee Gilster Inc,Q1/2015,1013977.0,219511.21000000002
+357,California,Beverly Hills,Mary Lee Gilster Inc,Q2/2015,719187.1100000001,158964.84
+358,California,Beverly Hills,Mary Lee Gilster Inc,Q3/2015,483588.99,75827.23000000001
+359,California,Beverly Hills,Mary Lee Gilster Inc,Q4/2015,744772.53,171318.84999999998
+360,California,Beverly Hills,Old Riverton Corner Store,Q1/2013,261583.19,62003.590000000004
+361,California,Beverly Hills,Old Riverton Corner Store,Q2/2013,179652.58,44897.89
+362,California,Beverly Hills,Old Riverton Corner Store,Q3/2013,192980.38,42364.29
+363,California,Beverly Hills,Old Riverton Corner Store,Q4/2013,433804.43,96803.38
+364,California,Beverly Hills,Old Riverton Corner Store,Q1/2014,405863.25,88685.65
+365,California,Beverly Hills,Old Riverton Corner Store,Q2/2014,476732.57,99715.55
+366,California,Beverly Hills,Old Riverton Corner Store,Q3/2014,350895.65,80173.74
+367,California,Beverly Hills,Old Riverton Corner Store,Q4/2014,588789.86,135143.81
+368,California,Beverly Hills,Old Riverton Corner Store,Q1/2015,501607.5399999999,126375.65000000001
+369,California,Beverly Hills,Old Riverton Corner Store,Q2/2015,752600.92,205457.63
+370,California,Beverly Hills,Old Riverton Corner Store,Q3/2015,649818.61,161189.94
+371,California,Beverly Hills,Old Riverton Corner Store,Q4/2015,608434.79,152616.01
+372,California,Los Angeles,Rosauers Food & Drug Center,Q1/2013,253264.66,77280.22
+373,California,Los Angeles,Rosauers Food & Drug Center,Q2/2013,381248.1999999999,102733.79999999999
+374,California,Los Angeles,Rosauers Food & Drug Center,Q3/2013,263454.01,59645.840000000004
+375,California,Los Angeles,Rosauers Food & Drug Center,Q4/2013,260334.62,63398.450000000004
+376,California,Los Angeles,Rosauers Food & Drug Center,Q1/2014,575643.12,126426.45000000001
+377,California,Los Angeles,Rosauers Food & Drug Center,Q2/2014,574233.1,136693.56
+378,California,Los Angeles,Rosauers Food & Drug Center,Q3/2014,203990.06999999998,46330.92
+379,California,Los Angeles,Rosauers Food & Drug Center,Q4/2014,198572.07,54473.79
+380,California,Los Angeles,Rosauers Food & Drug Center,Q1/2015,1000464.1799999999,224203.38
+381,California,Los Angeles,Rosauers Food & Drug Center,Q2/2015,452384.80000000005,130228.98000000001
+382,California,Los Angeles,Rosauers Food & Drug Center,Q3/2015,183773.76,54572.23999999999
+383,California,Los Angeles,Rosauers Food & Drug Center,Q4/2015,289899.65,71536.28
+384,California,Sacramento,Mussers Market,Q1/2013,317826.14,65828.77
+385,California,Sacramento,Mussers Market,Q2/2013,423814.66,94776.06
+386,California,Sacramento,Mussers Market,Q3/2013,128102.43,36586.06
+387,California,Sacramento,Mussers Market,Q4/2013,206762.05,57490.56
+388,California,Sacramento,Mussers Market,Q1/2014,791355.44,156520.46999999997
+389,California,Sacramento,Mussers Market,Q2/2014,101751.77,27148.019999999997
+390,California,Sacramento,Mussers Market,Q3/2014,151763.93,39390.9
+391,California,Sacramento,Mussers Market,Q4/2014,597653.2800000001,169078.09
+392,California,Sacramento,Mussers Market,Q1/2015,467116.43,113930.63
+393,California,Sacramento,Mussers Market,Q2/2015,173633.25,48549.100000000006
+394,California,Sacramento,Mussers Market,Q3/2015,285935.70999999996,71359.43
+395,California,Sacramento,Mussers Market,Q4/2015,175668.64,34905.159999999996
+396,California,Sacramento,Ozzy,Q1/2013,236472.83000000002,46898.35999999999
+397,California,Sacramento,Ozzy,Q2/2013,170752.99,37792.869999999995
+398,California,Sacramento,Ozzy,Q3/2013,309952.51,70829.09
+399,California,Sacramento,Ozzy,Q4/2013,304370.15,81936.09
+400,California,Sacramento,Ozzy,Q1/2014,117828.38,26256.83
+401,California,Sacramento,Ozzy,Q2/2014,49427.51,14555.88
+402,California,Sacramento,Ozzy,Q3/2014,192537.84999999998,50278.25
+403,California,Sacramento,Ozzy,Q4/2014,435808.72,96645.77
+404,California,Sacramento,Ozzy,Q1/2015,571241.9299999999,108713.51
+405,California,Sacramento,Ozzy,Q2/2015,304331.18,78617.23999999999
+406,California,Sacramento,Ozzy,Q3/2015,1124081.3,257321.78999999998
+407,California,Sacramento,Ozzy,Q4/2015,333505.92000000004,80773.41
+408,California,San Diego,Browns Superstore,Q1/2013,602899.09,127783.73000000001
+409,California,San Diego,Browns Superstore,Q2/2013,207530.88999999998,50101.11
+410,California,San Diego,Browns Superstore,Q3/2013,315254.68,67642.81999999999
+411,California,San Diego,Browns Superstore,Q4/2013,396899.57,87563.93
+412,California,San Diego,Browns Superstore,Q1/2014,365494.12,72132.69
+413,California,San Diego,Browns Superstore,Q2/2014,613307.64,116152.5
+414,California,San Diego,Browns Superstore,Q3/2014,1360777.35,305230.25
+415,California,San Diego,Browns Superstore,Q4/2014,615264.68,149597.13
+416,California,San Diego,Browns Superstore,Q1/2015,797402.55,182945.93
+417,California,San Diego,Browns Superstore,Q2/2015,827244.75,200948.39
+418,California,San Diego,Browns Superstore,Q3/2015,512446.79,117469.32999999999
+419,California,San Diego,Browns Superstore,Q4/2015,629072.1599999999,151342.2
+420,California,Sacramento,Fairchild,Q1/2013,252141.89,63564.12
+421,California,Sacramento,Fairchild,Q2/2013,356218.19,58859.41
+422,California,Sacramento,Fairchild,Q3/2013,231588.28000000003,57787.450000000004
+423,California,Sacramento,Fairchild,Q4/2013,727738.39,134741.09
+424,California,Sacramento,Fairchild,Q1/2014,311916.93,79025.25
+425,California,Sacramento,Fairchild,Q2/2014,341329.87999999995,72406.1
+426,California,Sacramento,Fairchild,Q3/2014,401620.45,88205.18000000001
+427,California,Sacramento,Fairchild,Q4/2014,541390.97,129553.11
+428,California,Sacramento,Fairchild,Q1/2015,391396.67000000004,79573.94
+429,California,Sacramento,Fairchild,Q2/2015,260097.83000000002,67776.45
+430,California,Sacramento,Fairchild,Q3/2015,498115.22,115483.51000000001
+431,California,Sacramento,Fairchild,Q4/2015,487772.42,115573.37999999999
+432,California,Sacramento,L Mart,Q1/2013,538828.53,138073.26
+433,California,Sacramento,L Mart,Q2/2013,929719.6799999999,227214.75
+434,California,Sacramento,L Mart,Q3/2013,429786.13,105821.04999999999
+435,California,Sacramento,L Mart,Q4/2013,598039.94,154077.94
+436,California,Sacramento,L Mart,Q1/2014,836627.28,206178.22999999998
+437,California,Sacramento,L Mart,Q2/2014,499618.6599999999,110257.85999999999
+438,California,Sacramento,L Mart,Q3/2014,955410.2900000002,244589.82
+439,California,Sacramento,L Mart,Q4/2014,755520.31,187036.6
+440,California,Sacramento,L Mart,Q1/2015,566057.9299999999,152186.63
+441,California,Sacramento,L Mart,Q2/2015,626726.95,161113.3
+442,California,Sacramento,L Mart,Q3/2015,964223.9099999999,247094.44
+443,California,Sacramento,L Mart,Q4/2015,755589.1499999999,168625.33000000002
+444,California,Sacramento,Sams Club,Q1/2013,475153.10000000003,108569.31999999999
+445,California,Sacramento,Sams Club,Q2/2013,351584.23,81268.69
+446,California,Sacramento,Sams Club,Q3/2013,238179.25,62876.67
+447,California,Sacramento,Sams Club,Q4/2013,742682.39,130398.73999999999
+448,California,Sacramento,Sams Club,Q1/2014,679757.53,120944.03
+449,California,Sacramento,Sams Club,Q2/2014,365399.04,71578.06
+450,California,Sacramento,Sams Club,Q3/2014,407022.58999999997,98241.84000000001
+451,California,Sacramento,Sams Club,Q4/2014,232733.67,65525.32000000001
+452,California,Sacramento,Sams Club,Q1/2015,143979.26,43607.590000000004
+453,California,Sacramento,Sams Club,Q2/2015,262679.06,73205.13
+454,California,Sacramento,Sams Club,Q3/2015,432148.43999999994,103088.58
+455,California,Sacramento,Sams Club,Q4/2015,353788.02999999997,85922.65
+456,California,San Diego,All-you-need Store,Q1/2013,350764.57999999996,79696.05
+457,California,San Diego,All-you-need Store,Q2/2013,248913.94000000003,65397.81999999999
+458,California,San Diego,All-you-need Store,Q3/2013,230907.71,54391.89
+459,California,San Diego,All-you-need Store,Q4/2013,349520.24,93851.92
+460,California,San Diego,All-you-need Store,Q1/2014,70281.37,16662.78
+461,California,San Diego,All-you-need Store,Q2/2014,435368.18,84108.61
+462,California,San Diego,All-you-need Store,Q3/2014,402293.23999999993,98155.45999999999
+463,California,San Diego,All-you-need Store,Q4/2014,832758.41,171805.38
+464,California,San Diego,All-you-need Store,Q1/2015,478177.33,95310.59
+465,California,San Diego,All-you-need Store,Q2/2015,346874.9,91127.01
+466,California,San Diego,All-you-need Store,Q3/2015,990515.9600000001,218102.4
+467,California,San Diego,All-you-need Store,Q4/2015,359518.18,88728.7
+468,California,Sacramento,Covington Foods,Q1/2013,374364.01,97111.36000000002
+469,California,Sacramento,Covington Foods,Q2/2013,330758.53,77490.33
+470,California,Sacramento,Covington Foods,Q3/2013,1139488.3599999999,248392.96000000002
+471,California,Sacramento,Covington Foods,Q4/2013,230974.75,68644.82
+472,California,Sacramento,Covington Foods,Q1/2014,953952.1499999999,233231.16000000003
+473,California,Sacramento,Covington Foods,Q2/2014,609375.6900000001,115307.76000000001
+474,California,Sacramento,Covington Foods,Q3/2014,1280376.32,297420.72
+475,California,Sacramento,Covington Foods,Q4/2014,315897.36,92738.59999999999
+476,California,Sacramento,Covington Foods,Q1/2015,506251.22,126159.04000000001
+477,California,Sacramento,Covington Foods,Q2/2015,720341.3599999999,162841.97
+478,California,Sacramento,Covington Foods,Q3/2015,523786.95000000007,122416.85
+479,California,Sacramento,Covington Foods,Q4/2015,741104.48,161491.71
+480,California,San Francisco,Super Mart,Q1/2013,474877.89999999997,105144.15000000001
+481,California,San Francisco,Super Mart,Q2/2013,579186.99,120447.70999999999
+482,California,San Francisco,Super Mart,Q3/2013,224691.41999999998,51337.86
+483,California,San Francisco,Super Mart,Q4/2013,600616.35,156876.4
+484,California,San Francisco,Super Mart,Q1/2014,373106.95999999996,83283.19
+485,California,San Francisco,Super Mart,Q2/2014,295761.89,84890.13
+486,California,San Francisco,Super Mart,Q3/2014,429044.73,90338.21
+487,California,San Francisco,Super Mart,Q4/2014,383356.10000000003,100870.16
+488,California,San Francisco,Super Mart,Q1/2015,929785.58,239768.35
+489,California,San Francisco,Super Mart,Q2/2015,351489.49,92186.0
+490,California,San Francisco,Super Mart,Q3/2015,534688.7,126499.82
+491,California,San Francisco,Super Mart,Q4/2015,541979.09,107502.22
+492,California,Sacramento,Your Store,Q1/2013,189361.03,65488.700000000004
+493,California,Sacramento,Your Store,Q2/2013,620616.48,129665.52
+494,California,Sacramento,Your Store,Q3/2013,334556.55000000005,89052.54999999999
+495,California,Sacramento,Your Store,Q4/2013,139595.38,35404.79000000001
+496,California,Sacramento,Your Store,Q1/2014,317377.43,94397.18
+497,California,Sacramento,Your Store,Q2/2014,628129.23,110702.17
+498,California,Sacramento,Your Store,Q3/2014,410236.62,98909.1
+499,California,Sacramento,Your Store,Q4/2014,579074.12,163316.06999999998
+500,California,Sacramento,Your Store,Q1/2015,811729.33,214906.26
+501,California,Sacramento,Your Store,Q2/2015,593519.55,157446.43
+502,California,Sacramento,Your Store,Q3/2015,258801.81,70671.92
+503,California,Sacramento,Your Store,Q4/2015,815317.17,179280.39
+504,California,Sacramento,Yakima Market,Q1/2013,283604.77,62503.35
+505,California,Sacramento,Yakima Market,Q2/2013,310909.78,56944.69000000001
+506,California,Sacramento,Yakima Market,Q3/2013,226844.64,48783.03
+507,California,Sacramento,Yakima Market,Q4/2013,493755.85,121233.5
+508,California,Sacramento,Yakima Market,Q1/2014,60205.2,19943.52
+509,California,Sacramento,Yakima Market,Q2/2014,368569.89,75613.51000000001
+510,California,Sacramento,Yakima Market,Q3/2014,330401.06,71331.2
+511,California,Sacramento,Yakima Market,Q4/2014,504502.6,107348.87000000001
+512,California,Sacramento,Yakima Market,Q1/2015,647094.51,149738.2
+513,California,Sacramento,Yakima Market,Q2/2015,528014.59,126958.88
+514,California,Sacramento,Yakima Market,Q3/2015,375347.64,101389.74
+515,California,Sacramento,Yakima Market,Q4/2015,412722.31,99592.0
+516,California,Sacramento,Value Clothing,Q1/2013,658271.8400000001,167010.85
+517,California,Sacramento,Value Clothing,Q2/2013,265418.30000000005,58114.56999999999
+518,California,Sacramento,Value Clothing,Q3/2013,106333.09,28728.67
+519,California,Sacramento,Value Clothing,Q4/2013,412360.66000000003,85822.73999999999
+520,California,Sacramento,Value Clothing,Q1/2014,199205.32,46654.409999999996
+521,California,Sacramento,Value Clothing,Q2/2014,369215.63,67644.72
+522,California,Sacramento,Value Clothing,Q3/2014,274451.36,61158.840000000004
+523,California,Sacramento,Value Clothing,Q4/2014,155938.81,46191.84
+524,California,Sacramento,Value Clothing,Q1/2015,252989.89,72658.26999999999
+525,California,Sacramento,Value Clothing,Q2/2015,342756.16000000003,98388.18
+526,California,Sacramento,Value Clothing,Q3/2015,782080.51,136682.41
+527,California,Sacramento,Value Clothing,Q4/2015,461178.69999999995,110837.12
+528,California,Sacramento,Sennate,Q1/2013,851285.15,158490.12
+529,California,Sacramento,Sennate,Q2/2013,695917.16,145379.84000000003
+530,California,Sacramento,Sennate,Q3/2013,243545.74,58293.24
+531,California,Sacramento,Sennate,Q4/2013,292973.66000000003,86173.32
+532,California,Sacramento,Sennate,Q1/2014,328069.69,80360.33
+533,California,Sacramento,Sennate,Q2/2014,44505.59,11814.89
+534,California,Sacramento,Sennate,Q3/2014,312845.61,86732.21
+535,California,Sacramento,Sennate,Q4/2014,498205.49999999994,145183.39
+536,California,Sacramento,Sennate,Q1/2015,686464.01,189889.69999999998
+537,California,Sacramento,Sennate,Q2/2015,477277.99,130655.64000000001
+538,California,Sacramento,Sennate,Q3/2015,461865.29,96957.08
+539,California,Sacramento,Sennate,Q4/2015,806803.43,196045.53
+540,California,San Francisco,Everything Store,Q1/2013,194105.24000000002,48430.329999999994
+541,California,San Francisco,Everything Store,Q2/2013,267312.14,62820.5
+542,California,San Francisco,Everything Store,Q3/2013,324491.04000000004,78022.28
+543,California,San Francisco,Everything Store,Q4/2013,198151.37000000002,54412.59
+544,California,San Francisco,Everything Store,Q1/2014,224927.61,37689.909999999996
+545,California,San Francisco,Everything Store,Q2/2014,462060.16,90625.22
+546,California,San Francisco,Everything Store,Q3/2014,351352.58999999997,81718.53
+547,California,San Francisco,Everything Store,Q4/2014,497167.89999999997,108950.51000000001
+548,California,San Francisco,Everything Store,Q1/2015,248042.36,63803.469999999994
+549,California,San Francisco,Everything Store,Q2/2015,471994.77999999997,98337.95
+550,California,San Francisco,Everything Store,Q3/2015,205114.98,55679.68
+551,California,San Francisco,Everything Store,Q4/2015,112312.64000000001,36935.04
+552,California,Sacramento,WholeSale,Q1/2013,319979.66000000003,66099.11
+553,California,Sacramento,WholeSale,Q2/2013,891799.91,240229.71
+554,California,Sacramento,WholeSale,Q3/2013,73522.02,19069.269999999997
+555,California,Sacramento,WholeSale,Q4/2013,86151.88,21025.87
+556,California,Sacramento,WholeSale,Q1/2014,0.0,0.0
+557,California,Sacramento,WholeSale,Q2/2014,0.0,0.0
+558,California,Sacramento,WholeSale,Q3/2014,0.0,0.0
+559,California,Sacramento,WholeSale,Q4/2014,199911.93,53274.09
+560,California,Sacramento,WholeSale,Q1/2015,252972.43000000002,73465.22
+561,California,Sacramento,WholeSale,Q2/2015,347150.19999999995,69800.72
+562,California,Sacramento,WholeSale,Q3/2015,366828.33999999997,98975.54
+563,California,Sacramento,WholeSale,Q4/2015,406854.07,110404.79000000001
+564,California,San Francisco,American Store,Q1/2013,516739.98,110572.39
+565,California,San Francisco,American Store,Q2/2013,237034.04000000004,49879.619999999995
+566,California,San Francisco,American Store,Q3/2013,308923.83999999997,75404.22
+567,California,San Francisco,American Store,Q4/2013,400652.08999999997,112485.04000000001
+568,California,San Francisco,American Store,Q1/2014,719802.1699999999,149574.45
+569,California,San Francisco,American Store,Q2/2014,282108.97,53078.83
+570,California,San Francisco,American Store,Q3/2014,643210.19,189418.35
+571,California,San Francisco,American Store,Q4/2014,405522.13,117235.9
+572,California,San Francisco,American Store,Q1/2015,950759.78,208407.11
+573,California,San Francisco,American Store,Q2/2015,253105.49,76273.6
+574,California,San Francisco,American Store,Q3/2015,663401.6799999999,142771.63
+575,California,San Francisco,American Store,Q4/2015,855096.7899999999,209784.01
+576,California,Sacramento,Main Street Co,Q1/2013,180827.24,53457.55
+577,California,Sacramento,Main Street Co,Q2/2013,691835.4600000001,163797.82
+578,California,Sacramento,Main Street Co,Q3/2013,323107.05,77570.49
+579,California,Sacramento,Main Street Co,Q4/2013,200577.40999999997,49215.05
+580,California,Sacramento,Main Street Co,Q1/2014,753605.28,141565.61
+581,California,Sacramento,Main Street Co,Q2/2014,356733.83999999997,84066.6
+582,California,Sacramento,Main Street Co,Q3/2014,501279.24,118310.64
+583,California,Sacramento,Main Street Co,Q4/2014,738194.69,138177.07
+584,California,Sacramento,Main Street Co,Q1/2015,451555.91,105572.7
+585,California,Sacramento,Main Street Co,Q2/2015,574115.73,126175.36
+586,California,Sacramento,Main Street Co,Q3/2015,178173.53000000003,59508.59
+587,California,Sacramento,Main Street Co,Q4/2015,483917.6,120593.12000000001
+588,California,Sacramento,Asafo Foods,Q1/2013,571114.68,117768.35
+589,California,Sacramento,Asafo Foods,Q2/2013,187355.01,42799.76
+590,California,Sacramento,Asafo Foods,Q3/2013,493176.55000000005,97852.31
+591,California,Sacramento,Asafo Foods,Q4/2013,291640.4,83289.7
+592,California,Sacramento,Asafo Foods,Q1/2014,167896.16999999998,31403.75
+593,California,Sacramento,Asafo Foods,Q2/2014,298642.38999999996,67152.44
+594,California,Sacramento,Asafo Foods,Q3/2014,676318.63,167324.63
+595,California,Sacramento,Asafo Foods,Q4/2014,479816.93000000005,155324.56
+596,California,Sacramento,Asafo Foods,Q1/2015,1050962.45,220383.27000000002
+597,California,Sacramento,Asafo Foods,Q2/2015,582923.0700000001,163102.44
+598,California,Sacramento,Asafo Foods,Q3/2015,507716.5500000001,128337.13
+599,California,Sacramento,Asafo Foods,Q4/2015,348397.25999999995,90236.66000000002
+600,California,San Diego,Bales Thriftway,Q1/2013,386835.62,89230.75
+601,California,San Diego,Bales Thriftway,Q2/2013,259725.09,57496.969999999994
+602,California,San Diego,Bales Thriftway,Q3/2013,609959.8,143376.03
+603,California,San Diego,Bales Thriftway,Q4/2013,83935.5,25473.660000000003
+604,California,San Diego,Bales Thriftway,Q1/2014,0.0,0.0
+605,California,San Diego,Bales Thriftway,Q2/2014,0.0,0.0
+606,California,San Diego,Bales Thriftway,Q3/2014,0.0,0.0
+607,California,San Diego,Bales Thriftway,Q4/2014,165326.83000000002,45493.979999999996
+608,California,San Diego,Bales Thriftway,Q1/2015,421018.76,112767.23000000001
+609,California,San Diego,Bales Thriftway,Q2/2015,283857.14,75638.91
+610,California,San Diego,Bales Thriftway,Q3/2015,258740.96000000002,66328.20999999999
+611,California,San Diego,Bales Thriftway,Q4/2015,132764.12,34190.31
+612,California,San Diego,Only Fabric,Q1/2013,437057.62000000005,96945.66
+613,California,San Diego,Only Fabric,Q2/2013,222375.03,49142.91
+614,California,San Diego,Only Fabric,Q3/2013,170953.05,42721.76
+615,California,San Diego,Only Fabric,Q4/2013,191028.74,50900.2
+616,California,San Diego,Only Fabric,Q1/2014,244719.55,56683.729999999996
+617,California,San Diego,Only Fabric,Q2/2014,294846.72,50285.45
+618,California,San Diego,Only Fabric,Q3/2014,335698.0,83678.47
+619,California,San Diego,Only Fabric,Q4/2014,925861.5700000001,229473.97999999998
+620,California,San Diego,Only Fabric,Q1/2015,190073.69,48424.979999999996
+621,California,San Diego,Only Fabric,Q2/2015,368398.76,83877.71
+622,California,San Diego,Only Fabric,Q3/2015,485639.98,98634.05
+623,California,San Diego,Only Fabric,Q4/2015,426789.0,94038.11
+624,California,Sacramento,Remotes,Q1/2013,320123.06,71417.20999999999
+625,California,Sacramento,Remotes,Q2/2013,417093.49000000005,100845.1
+626,California,Sacramento,Remotes,Q3/2013,279256.18000000005,50220.15
+627,California,Sacramento,Remotes,Q4/2013,178146.99,39735.76
+628,California,Sacramento,Remotes,Q1/2014,0.0,0.0
+629,California,Sacramento,Remotes,Q2/2014,0.0,0.0
+630,California,Sacramento,Remotes,Q3/2014,0.0,0.0
+631,California,Sacramento,Remotes,Q4/2014,212923.86,54270.81
+632,California,Sacramento,Remotes,Q1/2015,462335.6,107111.26999999999
+633,California,Sacramento,Remotes,Q2/2015,263602.8,69064.43
+634,California,Sacramento,Remotes,Q3/2015,348669.98,91820.01000000001
+635,California,Sacramento,Remotes,Q4/2015,73551.24999999999,22115.94
+636,California,Sacramento,W-Mart,Q1/2013,437924.42000000004,113032.34
+637,California,Sacramento,W-Mart,Q2/2013,426547.51,101679.89
+638,California,Sacramento,W-Mart,Q3/2013,460739.55000000005,111061.88
+639,California,Sacramento,W-Mart,Q4/2013,559698.84,176540.31
+640,California,Sacramento,W-Mart,Q1/2014,781601.02,161979.34
+641,California,Sacramento,W-Mart,Q2/2014,1135861.66,245784.21999999997
+642,California,Sacramento,W-Mart,Q3/2014,1432699.12,338071.95999999996
+643,California,Sacramento,W-Mart,Q4/2014,1194722.4,316086.31000000006
+644,California,Sacramento,W-Mart,Q1/2015,997901.8,244652.33
+645,California,Sacramento,W-Mart,Q2/2015,1416076.7999999998,370705.13
+646,California,Sacramento,W-Mart,Q3/2015,979815.2300000001,279239.66
+647,California,Sacramento,W-Mart,Q4/2015,1154291.58,284061.87
+648,California,Sacramento,M Market,Q1/2013,256770.08000000002,63768.02
+649,California,Sacramento,M Market,Q2/2013,258926.63,55435.68
+650,California,Sacramento,M Market,Q3/2013,285768.26,56785.86
+651,California,Sacramento,M Market,Q4/2013,327157.13,83215.54999999999
+652,California,Sacramento,M Market,Q1/2014,266087.72,65861.16
+653,California,Sacramento,M Market,Q2/2014,349482.04,72876.25
+654,California,Sacramento,M Market,Q3/2014,171994.65999999997,48281.57
+655,California,Sacramento,M Market,Q4/2014,743384.98,198677.88
+656,California,Sacramento,M Market,Q1/2015,267589.09,71170.39
+657,California,Sacramento,M Market,Q2/2015,606999.1100000001,155992.25
+658,California,Sacramento,M Market,Q3/2015,380821.58999999997,107441.42
+659,California,Sacramento,M Market,Q4/2015,292667.4,72975.69
+660,California,San Francisco,Corner Stop Conviences ,Q1/2013,240265.49,68341.09
+661,California,San Francisco,Corner Stop Conviences ,Q2/2013,285831.18,66591.95
+662,California,San Francisco,Corner Stop Conviences ,Q3/2013,300661.45,63965.880000000005
+663,California,San Francisco,Corner Stop Conviences ,Q4/2013,340325.97000000003,83026.95
+664,California,San Francisco,Corner Stop Conviences ,Q1/2014,155733.91999999998,46998.149999999994
+665,California,San Francisco,Corner Stop Conviences ,Q2/2014,356712.7,74119.21
+666,California,San Francisco,Corner Stop Conviences ,Q3/2014,510173.9199999999,110146.65000000001
+667,California,San Francisco,Corner Stop Conviences ,Q4/2014,343681.36,113588.76000000001
+668,California,San Francisco,Corner Stop Conviences ,Q1/2015,732579.96,225555.94
+669,California,San Francisco,Corner Stop Conviences ,Q2/2015,623666.27,140891.82
+670,California,San Francisco,Corner Stop Conviences ,Q3/2015,252583.95999999996,85430.81999999999
+671,California,San Francisco,Corner Stop Conviences ,Q4/2015,653280.73,139146.33000000002
+672,California,Sacramento,Ruffs Corner Store,Q1/2013,448832.6,107936.09999999999
+673,California,Sacramento,Ruffs Corner Store,Q2/2013,283827.14999999997,58955.009999999995
+674,California,Sacramento,Ruffs Corner Store,Q3/2013,506564.87,138901.48
+675,California,Sacramento,Ruffs Corner Store,Q4/2013,207859.62,65849.28
+676,California,Sacramento,Ruffs Corner Store,Q1/2014,202341.24,54882.159999999996
+677,California,Sacramento,Ruffs Corner Store,Q2/2014,234493.24,56751.03
+678,California,Sacramento,Ruffs Corner Store,Q3/2014,331797.06,88300.76
+679,California,Sacramento,Ruffs Corner Store,Q4/2014,837468.97,238373.69
+680,California,Sacramento,Ruffs Corner Store,Q1/2015,184844.96000000002,62205.22
+681,California,Sacramento,Ruffs Corner Store,Q2/2015,342860.37,86716.95999999999
+682,California,Sacramento,Ruffs Corner Store,Q3/2015,899774.88,233084.81
+683,California,Sacramento,Ruffs Corner Store,Q4/2015,355226.06000000006,89529.51999999999
+684,California,Sacramento,Damnit Mart,Q1/2013,306663.79000000004,98590.73000000001
+685,California,Sacramento,Damnit Mart,Q2/2013,371640.24,73508.85
+686,California,Sacramento,Damnit Mart,Q3/2013,236117.74,68870.93000000001
+687,California,Sacramento,Damnit Mart,Q4/2013,453372.52,124693.85
+688,California,Sacramento,Damnit Mart,Q1/2014,601863.66,148060.19
+689,California,Sacramento,Damnit Mart,Q2/2014,163030.25,42445.88
+690,California,Sacramento,Damnit Mart,Q3/2014,404722.80000000005,96724.8
+691,California,Sacramento,Damnit Mart,Q4/2014,1033254.1500000001,280378.85
+692,California,Sacramento,Damnit Mart,Q1/2015,461434.9700000001,113103.13999999998
+693,California,Sacramento,Damnit Mart,Q2/2015,391679.87,108168.35
+694,California,Sacramento,Damnit Mart,Q3/2015,497831.13,146473.05
+695,California,Sacramento,Damnit Mart,Q4/2015,837978.77,179352.18
+696,California,Sacramento,Pavar,Q1/2013,475593.0,112227.79000000001
+697,California,Sacramento,Pavar,Q2/2013,280832.12,70991.73
+698,California,Sacramento,Pavar,Q3/2013,397025.83999999997,101311.25
+699,California,Sacramento,Pavar,Q4/2013,96097.43999999999,28530.829999999998
+700,California,Sacramento,Pavar,Q1/2014,274434.77,70662.03
+701,California,Sacramento,Pavar,Q2/2014,595767.0900000001,109328.44
+702,California,Sacramento,Pavar,Q3/2014,384649.13,97378.72
+703,California,Sacramento,Pavar,Q4/2014,284503.78,83718.1
+704,California,Sacramento,Pavar,Q1/2015,393824.3,122013.4
+705,California,Sacramento,Pavar,Q2/2015,606627.27,154554.12
+706,California,Sacramento,Pavar,Q3/2015,386233.77,102963.38
+707,California,Sacramento,Pavar,Q4/2015,331156.81999999995,73494.0
+708,California,Los Angeles,Williams Mart,Q1/2013,658271.8400000001,167843.32
+709,California,Los Angeles,Williams Mart,Q2/2013,265418.30000000005,57844.74
+710,California,Los Angeles,Williams Mart,Q3/2013,106333.09,28388.89
+711,California,Los Angeles,Williams Mart,Q4/2013,412360.66000000003,97683.63
+712,California,Los Angeles,Williams Mart,Q1/2014,199205.32,47878.36
+713,California,Los Angeles,Williams Mart,Q2/2014,369215.63,75196.33
+714,California,Los Angeles,Williams Mart,Q3/2014,274451.36,55274.64
+715,California,Los Angeles,Williams Mart,Q4/2014,155938.81,42039.600000000006
+716,California,Los Angeles,Williams Mart,Q1/2015,252989.89,70939.89
+717,California,Los Angeles,Williams Mart,Q2/2015,342756.16000000003,106753.20999999999
+718,California,Los Angeles,Williams Mart,Q3/2015,782080.51,130114.64
+719,California,Los Angeles,Williams Mart,Q4/2015,461178.69999999995,114972.66
+720,California,Los Angeles,Wrapup,Q1/2013,236472.83000000002,58693.95
+721,California,Los Angeles,Wrapup,Q2/2013,170752.99,38757.67
+722,California,Los Angeles,Wrapup,Q3/2013,309952.51,67186.83
+723,California,Los Angeles,Wrapup,Q4/2013,304370.15,83630.5
+724,California,Los Angeles,Wrapup,Q1/2014,117828.38,25819.07
+725,California,Los Angeles,Wrapup,Q2/2014,49427.51,15658.75
+726,California,Los Angeles,Wrapup,Q3/2014,192537.84999999998,47843.28999999999
+727,California,Los Angeles,Wrapup,Q4/2014,435808.72,85266.29999999999
+728,California,Los Angeles,Wrapup,Q1/2015,571241.9299999999,139168.33000000002
+729,California,Los Angeles,Wrapup,Q2/2015,304331.18,72476.01999999999
+730,California,Los Angeles,Wrapup,Q3/2015,1124081.3,264291.43
+731,California,Los Angeles,Wrapup,Q4/2015,333505.92000000004,73226.05
+732,California,Los Angeles,Lornes,Q1/2013,317826.14,73926.35999999999
+733,California,Los Angeles,Lornes,Q2/2013,423814.66,102336.83
+734,California,Los Angeles,Lornes,Q3/2013,128102.43,33367.58
+735,California,Los Angeles,Lornes,Q4/2013,206762.05,54254.6
+736,California,Los Angeles,Lornes,Q1/2014,791355.44,178910.54
+737,California,Los Angeles,Lornes,Q2/2014,101751.77,28053.170000000006
+738,California,Los Angeles,Lornes,Q3/2014,151763.93,39559.100000000006
+739,California,Los Angeles,Lornes,Q4/2014,597653.2800000001,136280.84
+740,California,Los Angeles,Lornes,Q1/2015,467116.43,109933.37000000001
+741,California,Los Angeles,Lornes,Q2/2015,173633.25,49910.82
+742,California,Los Angeles,Lornes,Q3/2015,285935.70999999996,80607.15
+743,California,Los Angeles,Lornes,Q4/2015,175668.64,47674.58
+744,California,San Diego,McGorbers,Q1/2013,602899.09,147876.88
+745,California,San Diego,McGorbers,Q2/2013,207530.88999999998,46824.59
+746,California,San Diego,McGorbers,Q3/2013,315254.68,65736.18000000001
+747,California,San Diego,McGorbers,Q4/2013,396899.57,90987.02
+748,California,San Diego,McGorbers,Q1/2014,365494.12,66339.25
+749,California,San Diego,McGorbers,Q2/2014,613307.64,117096.08
+750,California,San Diego,McGorbers,Q3/2014,1360777.35,269466.41000000003
+751,California,San Diego,McGorbers,Q4/2014,615264.68,148273.14
+752,California,San Diego,McGorbers,Q1/2015,797402.55,177976.88999999998
+753,California,San Diego,McGorbers,Q2/2015,827244.75,238829.09
+754,California,San Diego,McGorbers,Q3/2015,512446.79,127292.26000000001
+755,California,San Diego,McGorbers,Q4/2015,629072.1599999999,156498.1
+756,California,Los Angeles,Selica ,Q1/2013,252141.88999999998,60244.65
+757,California,Los Angeles,Selica ,Q2/2013,356218.19,61737.689999999995
+758,California,Los Angeles,Selica ,Q3/2013,231588.28000000003,59316.67
+759,California,Los Angeles,Selica ,Q4/2013,727738.39,179762.07
+760,California,Los Angeles,Selica ,Q1/2014,311916.93,66060.14
+761,California,Los Angeles,Selica ,Q2/2014,341329.87999999995,73402.79
+762,California,Los Angeles,Selica ,Q3/2014,401620.45,92645.75
+763,California,Los Angeles,Selica ,Q4/2014,541390.97,154301.27
+764,California,Los Angeles,Selica ,Q1/2015,391396.67000000004,87774.23
+765,California,Los Angeles,Selica ,Q2/2015,260097.83000000002,59854.97
+766,California,Los Angeles,Selica ,Q3/2015,498115.22,117024.23999999999
+767,California,Los Angeles,Selica ,Q4/2015,487772.42,117447.28
+768,California,Los Angeles,McLeods,Q1/2013,538828.53,144518.55
+769,California,Los Angeles,McLeods,Q2/2013,929719.6799999999,208585.82
+770,California,Los Angeles,McLeods,Q3/2013,429786.13,107405.24
+771,California,Los Angeles,McLeods,Q4/2013,598039.94,143413.71
+772,California,Los Angeles,McLeods,Q1/2014,836627.28,185529.96999999997
+773,California,Los Angeles,McLeods,Q2/2014,499618.6599999999,97937.37000000001
+774,California,Los Angeles,McLeods,Q3/2014,955410.2900000002,238432.90999999997
+775,California,Los Angeles,McLeods,Q4/2014,755520.31,174265.16999999998
+776,California,Los Angeles,McLeods,Q1/2015,566057.9299999999,148721.48
+777,California,Los Angeles,McLeods,Q2/2015,626726.95,155209.11
+778,California,Los Angeles,McLeods,Q3/2015,964223.9099999999,202541.53999999998
+779,California,Los Angeles,McLeods,Q4/2015,755589.1499999999,200177.01
+780,California,Los Angeles,Wholeway Store,Q1/2013,475153.10000000003,129122.78000000001
+781,California,Los Angeles,Wholeway Store,Q2/2013,351584.23,86009.81
+782,California,Los Angeles,Wholeway Store,Q3/2013,238179.25,62552.659999999996
+783,California,Los Angeles,Wholeway Store,Q4/2013,742682.39,147499.51
+784,California,Los Angeles,Wholeway Store,Q1/2014,679757.53,122711.67
+785,California,Los Angeles,Wholeway Store,Q2/2014,365399.04,74519.81
+786,California,Los Angeles,Wholeway Store,Q3/2014,407022.58999999997,93094.81999999999
+787,California,Los Angeles,Wholeway Store,Q4/2014,232733.67,65374.37000000001
+788,California,Los Angeles,Wholeway Store,Q1/2015,143979.26,42464.55
+789,California,Los Angeles,Wholeway Store,Q2/2015,262679.06,61424.5
+790,California,Los Angeles,Wholeway Store,Q3/2015,432148.43999999994,115300.86
+791,California,Los Angeles,Wholeway Store,Q4/2015,353788.02999999997,86873.23999999999
+792,California,San Diego,Uptown Way,Q1/2013,350764.58,63981.15
+793,California,San Diego,Uptown Way,Q2/2013,248913.94000000003,67162.3
+794,California,San Diego,Uptown Way,Q3/2013,230907.71,51326.060000000005
+795,California,San Diego,Uptown Way,Q4/2013,349520.24,84971.4
+796,California,San Diego,Uptown Way,Q1/2014,70281.37,15313.53
+797,California,San Diego,Uptown Way,Q2/2014,435368.18,84374.11
+798,California,San Diego,Uptown Way,Q3/2014,402293.23999999993,103652.36000000002
+799,California,San Diego,Uptown Way,Q4/2014,832758.41,211284.53
+800,California,San Diego,Uptown Way,Q1/2015,478177.33,100533.44999999998
+801,California,San Diego,Uptown Way,Q2/2015,346874.9,86045.38
+802,California,San Diego,Uptown Way,Q3/2015,990515.9600000001,229808.71999999997
+803,California,San Diego,Uptown Way,Q4/2015,359518.18,97832.83
+804,California,Los Angeles,Joes Market,Q1/2013,374364.01,91292.28
+805,California,Los Angeles,Joes Market,Q2/2013,330758.53,84337.70999999999
+806,California,Los Angeles,Joes Market,Q3/2013,1139488.3599999999,270131.24
+807,California,Los Angeles,Joes Market,Q4/2013,230974.75,64918.78999999999
+808,California,Los Angeles,Joes Market,Q1/2014,953952.1499999999,236657.72999999998
+809,California,Los Angeles,Joes Market,Q2/2014,609375.6900000001,107188.12
+810,California,Los Angeles,Joes Market,Q3/2014,1280376.32,311660.79
+811,California,Los Angeles,Joes Market,Q4/2014,315897.36,94200.20000000001
+812,California,Los Angeles,Joes Market,Q1/2015,506251.22,115357.16
+813,California,Los Angeles,Joes Market,Q2/2015,720341.3599999999,189258.90999999997
+814,California,Los Angeles,Joes Market,Q3/2015,523786.95000000007,137345.67
+815,California,Los Angeles,Joes Market,Q4/2015,741104.48,151509.4
+816,California,San Francisco,Jensens A G Market,Q1/2013,474877.89999999997,110534.49
+817,California,San Francisco,Jensens A G Market,Q2/2013,579186.99,126218.93000000001
+818,California,San Francisco,Jensens A G Market,Q3/2013,224691.41999999998,50432.280000000006
+819,California,San Francisco,Jensens A G Market,Q4/2013,600616.35,146875.66
+820,California,San Francisco,Jensens A G Market,Q1/2014,373106.95999999996,83419.16
+821,California,San Francisco,Jensens A G Market,Q2/2014,295761.89,89251.77
+822,California,San Francisco,Jensens A G Market,Q3/2014,429044.73,96142.68
+823,California,San Francisco,Jensens A G Market,Q4/2014,383356.10000000003,102942.61
+824,California,San Francisco,Jensens A G Market,Q1/2015,929785.58,231551.27999999997
+825,California,San Francisco,Jensens A G Market,Q2/2015,351489.49,83533.69
+826,California,San Francisco,Jensens A G Market,Q3/2015,534688.7,127795.68
+827,California,San Francisco,Jensens A G Market,Q4/2015,541979.09,120956.94
+828,California,Los Angeles,FDL Store,Q1/2013,189361.03,59755.42
+829,California,Los Angeles,FDL Store,Q2/2013,620616.48,134350.07
+830,California,Los Angeles,FDL Store,Q3/2013,334556.55000000005,74350.98999999999
+831,California,Los Angeles,FDL Store,Q4/2013,139595.38,36941.869999999995
+832,California,Los Angeles,FDL Store,Q1/2014,317377.43,92923.03
+833,California,Los Angeles,FDL Store,Q2/2014,628129.23,137396.06
+834,California,Los Angeles,FDL Store,Q3/2014,410236.62,102186.48999999999
+835,California,Los Angeles,FDL Store,Q4/2014,579074.12,145971.12
+836,California,Los Angeles,FDL Store,Q1/2015,811729.33,201293.41999999998
+837,California,Los Angeles,FDL Store,Q2/2015,593519.55,143539.7
+838,California,Los Angeles,FDL Store,Q3/2015,258801.81,77396.43
+839,California,Los Angeles,FDL Store,Q4/2015,815317.17,159398.06
+840,California,Los Angeles,Hermans Department Store,Q1/2013,283604.77,66787.89
+841,California,Los Angeles,Hermans Department Store,Q2/2013,310909.78,68615.83
+842,California,Los Angeles,Hermans Department Store,Q3/2013,226844.64,58563.17
+843,California,Los Angeles,Hermans Department Store,Q4/2013,493755.85,94304.26
+844,California,Los Angeles,Hermans Department Store,Q1/2014,60205.2,18723.03
+845,California,Los Angeles,Hermans Department Store,Q2/2014,368569.89,73376.53
+846,California,Los Angeles,Hermans Department Store,Q3/2014,330401.06,71487.75
+847,California,Los Angeles,Hermans Department Store,Q4/2014,504502.6,119405.23
+848,California,Los Angeles,Hermans Department Store,Q1/2015,647094.51,164278.4
+849,California,Los Angeles,Hermans Department Store,Q2/2015,528014.59,134916.72
+850,California,Los Angeles,Hermans Department Store,Q3/2015,375347.64,100502.89
+851,California,Los Angeles,Hermans Department Store,Q4/2015,412722.31,88276.76000000001
+852,California,Los Angeles,Spire Market,Q1/2013,851285.15,172211.8
+853,California,Los Angeles,Spire Market,Q2/2013,695917.16,139354.02000000002
+854,California,Los Angeles,Spire Market,Q3/2013,243545.74,52989.259999999995
+855,California,Los Angeles,Spire Market,Q4/2013,292973.66000000003,83169.11
+856,California,Los Angeles,Spire Market,Q1/2014,328069.69,79141.45999999999
+857,California,Los Angeles,Spire Market,Q2/2014,44505.59,11378.460000000001
+858,California,Los Angeles,Spire Market,Q3/2014,312845.61,78830.25
+859,California,Los Angeles,Spire Market,Q4/2014,498205.49999999994,149696.86
+860,California,Los Angeles,Spire Market,Q1/2015,686464.01,191993.83000000002
+861,California,Los Angeles,Spire Market,Q2/2015,477277.99,106137.74
+862,California,Los Angeles,Spire Market,Q3/2015,461865.29,102221.85
+863,California,Los Angeles,Spire Market,Q4/2015,806803.43,161068.98
+864,California,San Francisco,W & W Grocery,Q1/2013,194105.24000000002,49855.61
+865,California,San Francisco,W & W Grocery,Q2/2013,267312.14,54204.219999999994
+866,California,San Francisco,W & W Grocery,Q3/2013,324491.04000000004,76323.68
+867,California,San Francisco,W & W Grocery,Q4/2013,198151.37000000002,56119.810000000005
+868,California,San Francisco,W & W Grocery,Q1/2014,224927.61,33900.76
+869,California,San Francisco,W & W Grocery,Q2/2014,462060.16,89248.54999999999
+870,California,San Francisco,W & W Grocery,Q3/2014,351352.58999999997,71251.41
+871,California,San Francisco,W & W Grocery,Q4/2014,497167.89999999997,130257.32
+872,California,San Francisco,W & W Grocery,Q1/2015,248042.36,60715.36
+873,California,San Francisco,W & W Grocery,Q2/2015,471994.77999999997,116352.81
+874,California,San Francisco,W & W Grocery,Q3/2015,205114.98,56815.31
+875,California,San Francisco,W & W Grocery,Q4/2015,112312.64000000001,33654.39
+876,California,Los Angeles,Lesmens,Q1/2013,319979.66000000003,77499.39
+877,California,Los Angeles,Lesmens,Q2/2013,891799.91,162930.62
+878,California,Los Angeles,Lesmens,Q3/2013,73522.02,19576.03
+879,California,Los Angeles,Lesmens,Q4/2013,86151.88,21794.989999999998
+880,California,Los Angeles,Lesmens,Q1/2014,0.0,0.0
+881,California,Los Angeles,Lesmens,Q2/2014,0.0,0.0
+882,California,Los Angeles,Lesmens,Q3/2014,0.0,0.0
+883,California,Los Angeles,Lesmens,Q4/2014,199911.93,60414.75
+884,California,Los Angeles,Lesmens,Q1/2015,252972.43000000002,75411.23999999999
+885,California,Los Angeles,Lesmens,Q2/2015,347150.19999999995,84359.75
+886,California,Los Angeles,Lesmens,Q3/2015,366828.33999999997,101905.70999999999
+887,California,Los Angeles,Lesmens,Q4/2015,406854.07,119697.97
+888,California,San Francisco,Hayway Market Place,Q1/2013,516739.98,102966.77
+889,California,San Francisco,Hayway Market Place,Q2/2013,237034.04000000004,50008.03
+890,California,San Francisco,Hayway Market Place,Q3/2013,308923.83999999997,77438.95
+891,California,San Francisco,Hayway Market Place,Q4/2013,400652.08999999997,118147.15999999999
+892,California,San Francisco,Hayway Market Place,Q1/2014,719802.1699999999,149378.46999999997
+893,California,San Francisco,Hayway Market Place,Q2/2014,282108.97,54830.619999999995
+894,California,San Francisco,Hayway Market Place,Q3/2014,643210.19,147273.44
+895,California,San Francisco,Hayway Market Place,Q4/2014,405522.13,123181.68
+896,California,San Francisco,Hayway Market Place,Q1/2015,950759.78,250011.75
+897,California,San Francisco,Hayway Market Place,Q2/2015,253105.49,76914.13
+898,California,San Francisco,Hayway Market Place,Q3/2015,663401.6799999999,139277.84
+899,California,San Francisco,Hayway Market Place,Q4/2015,855096.7899999999,203984.08
+900,California,Los Angeles,Fasco ,Q1/2013,180827.24000000002,53654.26
+901,California,Los Angeles,Fasco ,Q2/2013,691835.4600000001,145361.84
+902,California,Los Angeles,Fasco ,Q3/2013,323107.05,72680.27
+903,California,Los Angeles,Fasco ,Q4/2013,200577.40999999997,51084.31
+904,California,Los Angeles,Fasco ,Q1/2014,753605.28,126388.13999999998
+905,California,Los Angeles,Fasco ,Q2/2014,356733.83999999997,78634.02
+906,California,Los Angeles,Fasco ,Q3/2014,501279.24,108351.20999999999
+907,California,Los Angeles,Fasco ,Q4/2014,738194.69,154286.83
+908,California,Los Angeles,Fasco ,Q1/2015,451555.91,123057.23
+909,California,Los Angeles,Fasco ,Q2/2015,574115.73,161710.32
+910,California,Los Angeles,Fasco ,Q3/2015,178173.53000000003,59674.759999999995
+911,California,Los Angeles,Fasco ,Q4/2015,483917.6,111006.26000000001
+912,California,Los Angeles,D & K Surplus Grocery,Q1/2013,571114.68,142050.5
+913,California,Los Angeles,D & K Surplus Grocery,Q2/2013,187355.01,49164.58
+914,California,Los Angeles,D & K Surplus Grocery,Q3/2013,493176.55000000005,100860.06
+915,California,Los Angeles,D & K Surplus Grocery,Q4/2013,291640.4,82347.98
+916,California,Los Angeles,D & K Surplus Grocery,Q1/2014,167896.16999999998,31507.73
+917,California,Los Angeles,D & K Surplus Grocery,Q2/2014,298642.38999999996,61729.03
+918,California,Los Angeles,D & K Surplus Grocery,Q3/2014,676318.63,162535.27
+919,California,Los Angeles,D & K Surplus Grocery,Q4/2014,479816.93000000005,136142.74
+920,California,Los Angeles,D & K Surplus Grocery,Q1/2015,1050962.45,178513.72
+921,California,Los Angeles,D & K Surplus Grocery,Q2/2015,582923.0700000001,159846.47999999998
+922,California,Los Angeles,D & K Surplus Grocery,Q3/2015,507716.5500000001,139464.96
+923,California,Los Angeles,D & K Surplus Grocery,Q4/2015,348397.25999999995,89046.09
+924,California,San Diego,Food N Stuff,Q1/2013,386835.62,88036.67
+925,California,San Diego,Food N Stuff,Q2/2013,259725.09,63134.45
+926,California,San Diego,Food N Stuff,Q3/2013,609959.8,109883.45
+927,California,San Diego,Food N Stuff,Q4/2013,83935.5,27286.46
+928,California,San Diego,Food N Stuff,Q1/2014,0.0,0.0
+929,California,San Diego,Food N Stuff,Q2/2014,0.0,0.0
+930,California,San Diego,Food N Stuff,Q3/2014,0.0,0.0
+931,California,San Diego,Food N Stuff,Q4/2014,165326.83000000002,45507.41
+932,California,San Diego,Food N Stuff,Q1/2015,421018.76,102753.28
+933,California,San Diego,Food N Stuff,Q2/2015,283857.14,71692.12
+934,California,San Diego,Food N Stuff,Q3/2015,258740.96000000002,61851.69
+935,California,San Diego,Food N Stuff,Q4/2015,132764.12,35645.44
+936,California,San Diego,Winstons Market,Q1/2013,437057.62000000005,105453.57000000002
+937,California,San Diego,Winstons Market,Q2/2013,222375.03,54388.84
+938,California,San Diego,Winstons Market,Q3/2013,170953.05,42974.920000000006
+939,California,San Diego,Winstons Market,Q4/2013,191028.74,50606.490000000005
+940,California,San Diego,Winstons Market,Q1/2014,244719.55,54865.85
+941,California,San Diego,Winstons Market,Q2/2014,294846.72,49826.490000000005
+942,California,San Diego,Winstons Market,Q3/2014,335698.0,77329.52
+943,California,San Diego,Winstons Market,Q4/2014,925861.5700000001,209875.89
+944,California,San Diego,Winstons Market,Q1/2015,190073.69,54813.009999999995
+945,California,San Diego,Winstons Market,Q2/2015,368398.76,81896.42000000001
+946,California,San Diego,Winstons Market,Q3/2015,485639.98,123839.75
+947,California,San Diego,Winstons Market,Q4/2015,426789.0,95852.73999999999
+948,California,Los Angeles,Aegis Market,Q1/2013,320123.06,70280.45000000001
+949,California,Los Angeles,Aegis Market,Q2/2013,417093.49000000005,89019.25
+950,California,Los Angeles,Aegis Market,Q3/2013,279256.18000000005,60907.310000000005
+951,California,Los Angeles,Aegis Market,Q4/2013,178146.99,48650.68
+952,California,Los Angeles,Aegis Market,Q1/2014,0.0,0.0
+953,California,Los Angeles,Aegis Market,Q2/2014,0.0,0.0
+954,California,Los Angeles,Aegis Market,Q3/2014,0.0,0.0
+955,California,Los Angeles,Aegis Market,Q4/2014,212923.86,51026.79
+956,California,Los Angeles,Aegis Market,Q1/2015,462335.6,93892.22
+957,California,Los Angeles,Aegis Market,Q2/2015,263602.8,66663.20999999999
+958,California,Los Angeles,Aegis Market,Q3/2015,348669.98,92798.72
+959,California,Los Angeles,Aegis Market,Q4/2015,73551.24999999999,22087.41
+960,California,Los Angeles,Conoco Food Stop,Q1/2013,437924.42000000004,113682.60999999999
+961,California,Los Angeles,Conoco Food Stop,Q2/2013,426547.51,103801.51
+962,California,Los Angeles,Conoco Food Stop,Q3/2013,460739.55000000005,104393.61
+963,California,Los Angeles,Conoco Food Stop,Q4/2013,559698.84,201902.23
+964,California,Los Angeles,Conoco Food Stop,Q1/2014,781601.02,181789.27000000002
+965,California,Los Angeles,Conoco Food Stop,Q2/2014,1135861.66,242212.01
+966,California,Los Angeles,Conoco Food Stop,Q3/2014,1432699.12,303217.58
+967,California,Los Angeles,Conoco Food Stop,Q4/2014,1194722.4,304546.6
+968,California,Los Angeles,Conoco Food Stop,Q1/2015,997901.8,255655.67
+969,California,Los Angeles,Conoco Food Stop,Q2/2015,1416076.7999999998,363941.05000000005
+970,California,Los Angeles,Conoco Food Stop,Q3/2015,979815.2300000001,254402.68999999997
+971,California,Los Angeles,Conoco Food Stop,Q4/2015,1154291.58,281579.1
+972,California,Los Angeles,Boundry Mart,Q1/2013,256770.08000000002,68341.67000000001
+973,California,Los Angeles,Boundry Mart,Q2/2013,258926.63,52044.78
+974,California,Los Angeles,Boundry Mart,Q3/2013,285768.26,62101.63
+975,California,Los Angeles,Boundry Mart,Q4/2013,327157.13,90099.51000000001
+976,California,Los Angeles,Boundry Mart,Q1/2014,266087.72,63066.490000000005
+977,California,Los Angeles,Boundry Mart,Q2/2014,349482.04,73580.14
+978,California,Los Angeles,Boundry Mart,Q3/2014,171994.65999999997,47684.0
+979,California,Los Angeles,Boundry Mart,Q4/2014,743384.98,197738.01
+980,California,Los Angeles,Boundry Mart,Q1/2015,267589.09,73917.43000000001
+981,California,Los Angeles,Boundry Mart,Q2/2015,606999.1100000001,145992.99
+982,California,Los Angeles,Boundry Mart,Q3/2015,380821.58999999997,96050.95999999999
+983,California,Los Angeles,Boundry Mart,Q4/2015,292667.4,77966.77
+984,California,San Francisco,Tiny Ten Store,Q1/2013,240265.49000000005,68810.02
+985,California,San Francisco,Tiny Ten Store,Q2/2013,285831.18,68414.76
+986,California,San Francisco,Tiny Ten Store,Q3/2013,300661.45,57812.020000000004
+987,California,San Francisco,Tiny Ten Store,Q4/2013,340325.97000000003,82161.23
+988,California,San Francisco,Tiny Ten Store,Q1/2014,155733.91999999998,50272.48
+989,California,San Francisco,Tiny Ten Store,Q2/2014,356712.7,82881.77
+990,California,San Francisco,Tiny Ten Store,Q3/2014,510173.9199999999,121164.46999999999
+991,California,San Francisco,Tiny Ten Store,Q4/2014,343681.36,127983.66
+992,California,San Francisco,Tiny Ten Store,Q1/2015,732579.96,224811.14
+993,California,San Francisco,Tiny Ten Store,Q2/2015,623666.27,139189.13
+994,California,San Francisco,Tiny Ten Store,Q3/2015,252583.95999999996,83762.35
+995,California,San Francisco,Tiny Ten Store,Q4/2015,653280.73,139364.15
+996,California,Los Angeles,Laymens,Q1/2013,448832.6,119826.59
+997,California,Los Angeles,Laymens,Q2/2013,283827.14999999997,60199.91
+998,California,Los Angeles,Laymens,Q3/2013,506564.87,117625.08
+999,California,Los Angeles,Laymens,Q4/2013,207859.62,63130.64
+1000,California,Los Angeles,Laymens,Q1/2014,202341.24,49230.740000000005
+1001,California,Los Angeles,Laymens,Q2/2014,234493.24,56709.7
+1002,California,Los Angeles,Laymens,Q3/2014,331797.06,96187.99
+1003,California,Los Angeles,Laymens,Q4/2014,837468.97,241351.04
+1004,California,Los Angeles,Laymens,Q1/2015,184844.96000000002,60911.42
+1005,California,Los Angeles,Laymens,Q2/2015,342860.37,77428.83
+1006,California,Los Angeles,Laymens,Q3/2015,899774.88,208930.82
+1007,California,Los Angeles,Laymens,Q4/2015,355226.06000000006,88153.62
+1008,California,Los Angeles,Nutra Vera Naturals,Q1/2013,306663.79000000004,94104.39
+1009,California,Los Angeles,Nutra Vera Naturals,Q2/2013,371640.24,79789.81999999999
+1010,California,Los Angeles,Nutra Vera Naturals,Q3/2013,236117.74,64204.94
+1011,California,Los Angeles,Nutra Vera Naturals,Q4/2013,453372.52,131448.88
+1012,California,Los Angeles,Nutra Vera Naturals,Q1/2014,601863.66,143398.85
+1013,California,Los Angeles,Nutra Vera Naturals,Q2/2014,163030.25,44907.51
+1014,California,Los Angeles,Nutra Vera Naturals,Q3/2014,404722.80000000005,100273.22
+1015,California,Los Angeles,Nutra Vera Naturals,Q4/2014,1033254.1500000001,264727.16
+1016,California,Los Angeles,Nutra Vera Naturals,Q1/2015,461434.9700000001,125172.36
+1017,California,Los Angeles,Nutra Vera Naturals,Q2/2015,391679.87,119899.13
+1018,California,Los Angeles,Nutra Vera Naturals,Q3/2015,497831.13,142539.25
+1019,California,Los Angeles,Nutra Vera Naturals,Q4/2015,837978.77,219255.2
+1020,California,Los Angeles,Budget Mart,Q1/2013,475593.0,133465.1
+1021,California,Los Angeles,Budget Mart,Q2/2013,280832.12,64732.45000000001
+1022,California,Los Angeles,Budget Mart,Q3/2013,397025.83999999997,92802.89000000001
+1023,California,Los Angeles,Budget Mart,Q4/2013,96097.43999999999,30511.309999999998
+1024,California,Los Angeles,Budget Mart,Q1/2014,274434.77,67200.76999999999
+1025,California,Los Angeles,Budget Mart,Q2/2014,595767.0900000001,128153.73000000001
+1026,California,Los Angeles,Budget Mart,Q3/2014,384649.13,94089.72
+1027,California,Los Angeles,Budget Mart,Q4/2014,284503.78,82627.76999999999
+1028,California,Los Angeles,Budget Mart,Q1/2015,393824.3,130369.68000000001
+1029,California,Los Angeles,Budget Mart,Q2/2015,606627.27,141940.34
+1030,California,Los Angeles,Budget Mart,Q3/2015,386233.77,103988.68000000001
+1031,California,Los Angeles,Budget Mart,Q4/2015,331156.81999999995,87415.4
+1032,California,San Jose,Rickys Thrifts,Q1/2013,658271.8400000001,165723.34
+1033,California,San Jose,Rickys Thrifts,Q2/2013,265418.30000000005,56998.89
+1034,California,San Jose,Rickys Thrifts,Q3/2013,106333.09,28343.920000000002
+1035,California,San Jose,Rickys Thrifts,Q4/2013,412360.66000000003,103294.82
+1036,California,San Jose,Rickys Thrifts,Q1/2014,199205.32,48589.96000000001
+1037,California,San Jose,Rickys Thrifts,Q2/2014,369215.63,71707.98
+1038,California,San Jose,Rickys Thrifts,Q3/2014,274451.36,57547.01
+1039,California,San Jose,Rickys Thrifts,Q4/2014,155938.81,46665.77
+1040,California,San Jose,Rickys Thrifts,Q1/2015,252989.89,66162.94
+1041,California,San Jose,Rickys Thrifts,Q2/2015,342756.16000000003,101165.44999999998
+1042,California,San Jose,Rickys Thrifts,Q3/2015,782080.51,128734.25
+1043,California,San Jose,Rickys Thrifts,Q4/2015,461178.69999999995,128321.47999999998
+1044,California,San Jose,Frills,Q1/2013,236472.83000000002,53170.700000000004
+1045,California,San Jose,Frills,Q2/2013,170752.99,40584.86
+1046,California,San Jose,Frills,Q3/2013,309952.51,65953.02
+1047,California,San Jose,Frills,Q4/2013,304370.15,76863.47
+1048,California,San Jose,Frills,Q1/2014,117828.38,28363.17
+1049,California,San Jose,Frills,Q2/2014,49427.51,15119.74
+1050,California,San Jose,Frills,Q3/2014,192537.84999999998,48110.32
+1051,California,San Jose,Frills,Q4/2014,435808.72,103278.26000000001
+1052,California,San Jose,Frills,Q1/2015,571241.9299999999,115723.31999999999
+1053,California,San Jose,Frills,Q2/2015,304331.18,72408.45
+1054,California,San Jose,Frills,Q3/2015,1124081.3,247223.78
+1055,California,San Jose,Frills,Q4/2015,333505.92000000004,82861.87999999999
+1056,California,San Jose,Binns Store,Q1/2013,317826.14,73245.90000000001
+1057,California,San Jose,Binns Store,Q2/2013,423814.66,100887.45
+1058,California,San Jose,Binns Store,Q3/2013,128102.43,35896.11
+1059,California,San Jose,Binns Store,Q4/2013,206762.05,49065.16
+1060,California,San Jose,Binns Store,Q1/2014,791355.44,148136.04
+1061,California,San Jose,Binns Store,Q2/2014,101751.77,29187.2
+1062,California,San Jose,Binns Store,Q3/2014,151763.93,34844.49
+1063,California,San Jose,Binns Store,Q4/2014,597653.2800000001,161844.77
+1064,California,San Jose,Binns Store,Q1/2015,467116.43,106799.15999999999
+1065,California,San Jose,Binns Store,Q2/2015,173633.25,50751.19
+1066,California,San Jose,Binns Store,Q3/2015,285935.70999999996,79204.39
+1067,California,San Jose,Binns Store,Q4/2015,175668.64,39616.4
+1068,California,San Diego,Second Thrifts,Q1/2013,602899.09,124238.56
+1069,California,San Diego,Second Thrifts,Q2/2013,207530.88999999998,46142.93
+1070,California,San Diego,Second Thrifts,Q3/2013,315254.68,69603.03
+1071,California,San Diego,Second Thrifts,Q4/2013,396899.57,93848.68
+1072,California,San Diego,Second Thrifts,Q1/2014,365494.12,61877.93
+1073,California,San Diego,Second Thrifts,Q2/2014,613307.64,129368.26000000001
+1074,California,San Diego,Second Thrifts,Q3/2014,1360777.35,277260.73000000004
+1075,California,San Diego,Second Thrifts,Q4/2014,615264.68,128836.48
+1076,California,San Diego,Second Thrifts,Q1/2015,797402.55,168449.77
+1077,California,San Diego,Second Thrifts,Q2/2015,827244.75,230539.85000000003
+1078,California,San Diego,Second Thrifts,Q3/2015,512446.79,126529.01000000001
+1079,California,San Diego,Second Thrifts,Q4/2015,629072.1599999999,156560.76
+1080,California,San Jose,Shoppers,Q1/2013,252141.88999999998,68146.35
+1081,California,San Jose,Shoppers,Q2/2013,356218.19,68734.3
+1082,California,San Jose,Shoppers,Q3/2013,231588.28000000003,56823.4
+1083,California,San Jose,Shoppers,Q4/2013,727738.39,144445.01
+1084,California,San Jose,Shoppers,Q1/2014,311916.93,79474.99
+1085,California,San Jose,Shoppers,Q2/2014,341329.87999999995,79082.49
+1086,California,San Jose,Shoppers,Q3/2014,401620.45,84702.70000000001
+1087,California,San Jose,Shoppers,Q4/2014,541390.97,143157.6
+1088,California,San Jose,Shoppers,Q1/2015,391396.67000000004,99563.91999999998
+1089,California,San Jose,Shoppers,Q2/2015,260097.83000000002,67933.16
+1090,California,San Jose,Shoppers,Q3/2015,498115.22,106540.19
+1091,California,San Jose,Shoppers,Q4/2015,487772.42,104699.95
+1092,California,San Jose,Rupert Corner Store,Q1/2013,538828.53,159142.33000000002
+1093,California,San Jose,Rupert Corner Store,Q2/2013,929719.6799999999,225858.51
+1094,California,San Jose,Rupert Corner Store,Q3/2013,429786.13,102833.03
+1095,California,San Jose,Rupert Corner Store,Q4/2013,598039.94,137182.15
+1096,California,San Jose,Rupert Corner Store,Q1/2014,836627.28,184977.35
+1097,California,San Jose,Rupert Corner Store,Q2/2014,499618.6599999999,103736.83
+1098,California,San Jose,Rupert Corner Store,Q3/2014,955410.2900000002,218408.04000000004
+1099,California,San Jose,Rupert Corner Store,Q4/2014,755520.31,191221.5
+1100,California,San Jose,Rupert Corner Store,Q1/2015,566057.9299999999,148733.53999999998
+1101,California,San Jose,Rupert Corner Store,Q2/2015,626726.95,141693.99
+1102,California,San Jose,Rupert Corner Store,Q3/2015,964223.9099999999,239153.95
+1103,California,San Jose,Rupert Corner Store,Q4/2015,755589.1499999999,192599.18
+1104,California,San Jose,Valleyvista Depot,Q1/2013,475153.10000000003,117808.76000000001
+1105,California,San Jose,Valleyvista Depot,Q2/2013,351584.23,80902.86
+1106,California,San Jose,Valleyvista Depot,Q3/2013,238179.25,56517.520000000004
+1107,California,San Jose,Valleyvista Depot,Q4/2013,742682.39,132986.37
+1108,California,San Jose,Valleyvista Depot,Q1/2014,679757.53,169939.49
+1109,California,San Jose,Valleyvista Depot,Q2/2014,365399.04,71652.31999999999
+1110,California,San Jose,Valleyvista Depot,Q3/2014,407022.58999999997,95551.82999999999
+1111,California,San Jose,Valleyvista Depot,Q4/2014,232733.67,59237.009999999995
+1112,California,San Jose,Valleyvista Depot,Q1/2015,143979.26,42346.05
+1113,California,San Jose,Valleyvista Depot,Q2/2015,262679.06,67122.49
+1114,California,San Jose,Valleyvista Depot,Q3/2015,432148.43999999994,114815.79000000001
+1115,California,San Jose,Valleyvista Depot,Q4/2015,353788.02999999997,88263.20999999999
+1116,California,San Diego,Cassey Costs,Q1/2013,350764.58,71592.87
+1117,California,San Diego,Cassey Costs,Q2/2013,248913.94000000003,63781.81
+1118,California,San Diego,Cassey Costs,Q3/2013,230907.71,54423.56
+1119,California,San Diego,Cassey Costs,Q4/2013,349520.24,85329.73
+1120,California,San Diego,Cassey Costs,Q1/2014,70281.37,15701.54
+1121,California,San Diego,Cassey Costs,Q2/2014,435368.18,82235.46
+1122,California,San Diego,Cassey Costs,Q3/2014,402293.23999999993,95521.28000000001
+1123,California,San Diego,Cassey Costs,Q4/2014,832758.41,217026.34999999998
+1124,California,San Diego,Cassey Costs,Q1/2015,478177.33,99896.59000000001
+1125,California,San Diego,Cassey Costs,Q2/2015,346874.9,77954.42
+1126,California,San Diego,Cassey Costs,Q3/2015,990515.9600000001,243037.78999999998
+1127,California,San Diego,Cassey Costs,Q4/2015,359518.18,85650.41
+1128,California,San Jose,Montford Convenience,Q1/2013,374364.01,101640.18
+1129,California,San Jose,Montford Convenience,Q2/2013,330758.53,83637.45999999999
+1130,California,San Jose,Montford Convenience,Q3/2013,1139488.3599999999,202890.84
+1131,California,San Jose,Montford Convenience,Q4/2013,230974.75,65872.5
+1132,California,San Jose,Montford Convenience,Q1/2014,953952.1499999999,215617.38999999998
+1133,California,San Jose,Montford Convenience,Q2/2014,609375.6900000001,87327.87
+1134,California,San Jose,Montford Convenience,Q3/2014,1280376.32,312285.33999999997
+1135,California,San Jose,Montford Convenience,Q4/2014,315897.36,95274.52
+1136,California,San Jose,Montford Convenience,Q1/2015,506251.22,132953.86
+1137,California,San Jose,Montford Convenience,Q2/2015,720341.3599999999,177611.7
+1138,California,San Jose,Montford Convenience,Q3/2015,523786.95000000007,127938.41999999998
+1139,California,San Jose,Montford Convenience,Q4/2015,741104.48,168470.2
+1140,California,San Francisco,Kings Super Mart,Q1/2013,474877.89999999997,110773.08
+1141,California,San Francisco,Kings Super Mart,Q2/2013,579186.99,140824.38
+1142,California,San Francisco,Kings Super Mart,Q3/2013,224691.41999999998,49590.21
+1143,California,San Francisco,Kings Super Mart,Q4/2013,600616.35,125899.28
+1144,California,San Francisco,Kings Super Mart,Q1/2014,373106.95999999996,78271.23
+1145,California,San Francisco,Kings Super Mart,Q2/2014,295761.89,83877.79000000001
+1146,California,San Francisco,Kings Super Mart,Q3/2014,429044.73,101057.47
+1147,California,San Francisco,Kings Super Mart,Q4/2014,383356.10000000003,101689.98000000001
+1148,California,San Francisco,Kings Super Mart,Q1/2015,929785.58,200763.13
+1149,California,San Francisco,Kings Super Mart,Q2/2015,351489.49,89243.63
+1150,California,San Francisco,Kings Super Mart,Q3/2015,534688.7,113270.17
+1151,California,San Francisco,Kings Super Mart,Q4/2015,541979.09,139747.76
+1152,California,San Jose,Sapperton Depot,Q1/2013,189361.03,62858.780000000006
+1153,California,San Jose,Sapperton Depot,Q2/2013,620616.48,144718.45
+1154,California,San Jose,Sapperton Depot,Q3/2013,334556.55000000005,84752.19
+1155,California,San Jose,Sapperton Depot,Q4/2013,139595.38,32715.019999999997
+1156,California,San Jose,Sapperton Depot,Q1/2014,317377.43,86912.16
+1157,California,San Jose,Sapperton Depot,Q2/2014,628129.23,106074.42
+1158,California,San Jose,Sapperton Depot,Q3/2014,410236.62,97734.01999999999
+1159,California,San Jose,Sapperton Depot,Q4/2014,579074.12,159248.63
+1160,California,San Jose,Sapperton Depot,Q1/2015,811729.33,220284.03000000003
+1161,California,San Jose,Sapperton Depot,Q2/2015,593519.55,149441.94
+1162,California,San Jose,Sapperton Depot,Q3/2015,258801.81,72438.14
+1163,California,San Jose,Sapperton Depot,Q4/2015,815317.17,155541.87
+1164,California,San Jose,K & K Food Market,Q1/2013,283604.77,64827.68000000001
+1165,California,San Jose,K & K Food Market,Q2/2013,310909.78,74245.15
+1166,California,San Jose,K & K Food Market,Q3/2013,226844.64,51377.83
+1167,California,San Jose,K & K Food Market,Q4/2013,493755.85,92411.62
+1168,California,San Jose,K & K Food Market,Q1/2014,60205.2,18782.949999999997
+1169,California,San Jose,K & K Food Market,Q2/2014,368569.89,82772.48999999999
+1170,California,San Jose,K & K Food Market,Q3/2014,330401.06,65293.97
+1171,California,San Jose,K & K Food Market,Q4/2014,504502.6,112741.57
+1172,California,San Jose,K & K Food Market,Q1/2015,647094.51,140165.37
+1173,California,San Jose,K & K Food Market,Q2/2015,528014.59,143884.22
+1174,California,San Jose,K & K Food Market,Q3/2015,375347.64,101808.89
+1175,California,San Jose,K & K Food Market,Q4/2015,412722.31,95924.23
+1176,California,San Jose,Food Emporium,Q1/2013,851285.15,177561.69
+1177,California,San Jose,Food Emporium,Q2/2013,695917.16,159943.5
+1178,California,San Jose,Food Emporium,Q3/2013,243545.74,57297.77
+1179,California,San Jose,Food Emporium,Q4/2013,292973.66000000003,88749.5
+1180,California,San Jose,Food Emporium,Q1/2014,328069.69,81263.98
+1181,California,San Jose,Food Emporium,Q2/2014,44505.59,10936.579999999998
+1182,California,San Jose,Food Emporium,Q3/2014,312845.61,75513.20999999999
+1183,California,San Jose,Food Emporium,Q4/2014,498205.49999999994,139395.88999999998
+1184,California,San Jose,Food Emporium,Q1/2015,686464.01,170524.21999999997
+1185,California,San Jose,Food Emporium,Q2/2015,477277.99,120669.12
+1186,California,San Jose,Food Emporium,Q3/2015,461865.29,104779.23000000001
+1187,California,San Jose,Food Emporium,Q4/2015,806803.43,157327.03000000003
+1188,California,San Francisco,Fairplay Foods,Q1/2013,194105.24000000002,50896.880000000005
+1189,California,San Francisco,Fairplay Foods,Q2/2013,267312.14,52461.59
+1190,California,San Francisco,Fairplay Foods,Q3/2013,324491.04000000004,81860.6
+1191,California,San Francisco,Fairplay Foods,Q4/2013,198151.37000000002,51373.21
+1192,California,San Francisco,Fairplay Foods,Q1/2014,224927.61,40082.36
+1193,California,San Francisco,Fairplay Foods,Q2/2014,462060.16,87174.5
+1194,California,San Francisco,Fairplay Foods,Q3/2014,351352.58999999997,74011.51999999999
+1195,California,San Francisco,Fairplay Foods,Q4/2014,497167.89999999997,109610.33
+1196,California,San Francisco,Fairplay Foods,Q1/2015,248042.36,64429.89
+1197,California,San Francisco,Fairplay Foods,Q2/2015,471994.77999999997,115681.65000000001
+1198,California,San Francisco,Fairplay Foods,Q3/2015,205114.98,57123.689999999995
+1199,California,San Francisco,Fairplay Foods,Q4/2015,112312.64000000001,36389.39
+1200,California,San Jose,Peach Lake Market,Q1/2013,319979.66000000003,74557.49
+1201,California,San Jose,Peach Lake Market,Q2/2013,891799.91,218898.22999999998
+1202,California,San Jose,Peach Lake Market,Q3/2013,73522.02,20376.489999999998
+1203,California,San Jose,Peach Lake Market,Q4/2013,86151.88,20539.7
+1204,California,San Jose,Peach Lake Market,Q1/2014,0.0,0.0
+1205,California,San Jose,Peach Lake Market,Q2/2014,0.0,0.0
+1206,California,San Jose,Peach Lake Market,Q3/2014,0.0,0.0
+1207,California,San Jose,Peach Lake Market,Q4/2014,199911.93,52197.41
+1208,California,San Jose,Peach Lake Market,Q1/2015,252972.43000000002,73123.56
+1209,California,San Jose,Peach Lake Market,Q2/2015,347150.19999999995,88792.20000000001
+1210,California,San Jose,Peach Lake Market,Q3/2015,366828.33999999997,102388.76000000001
+1211,California,San Jose,Peach Lake Market,Q4/2015,406854.07,107134.03
+1212,California,San Francisco,Hanson Foods,Q1/2013,516739.98,106664.85
+1213,California,San Francisco,Hanson Foods,Q2/2013,237034.04000000004,48356.93
+1214,California,San Francisco,Hanson Foods,Q3/2013,308923.83999999997,76690.5
+1215,California,San Francisco,Hanson Foods,Q4/2013,400652.08999999997,122345.09
+1216,California,San Francisco,Hanson Foods,Q1/2014,719802.1699999999,140055.64
+1217,California,San Francisco,Hanson Foods,Q2/2014,282108.97,59414.99
+1218,California,San Francisco,Hanson Foods,Q3/2014,643210.19,178466.69
+1219,California,San Francisco,Hanson Foods,Q4/2014,405522.13,104277.62
+1220,California,San Francisco,Hanson Foods,Q1/2015,950759.78,195571.72
+1221,California,San Francisco,Hanson Foods,Q2/2015,253105.49,75559.12999999999
+1222,California,San Francisco,Hanson Foods,Q3/2015,663401.6799999999,145070.17
+1223,California,San Francisco,Hanson Foods,Q4/2015,855096.7899999999,180023.8
+1224,California,San Jose,Bellview Market place,Q1/2013,180827.24000000002,57730.149999999994
+1225,California,San Jose,Bellview Market place,Q2/2013,691835.4600000001,139966.25
+1226,California,San Jose,Bellview Market place,Q3/2013,323107.05,76059.62
+1227,California,San Jose,Bellview Market place,Q4/2013,200577.40999999997,50682.149999999994
+1228,California,San Jose,Bellview Market place,Q1/2014,753605.28,153627.23
+1229,California,San Jose,Bellview Market place,Q2/2014,356733.83999999997,80852.69
+1230,California,San Jose,Bellview Market place,Q3/2014,501279.24,111461.79999999999
+1231,California,San Jose,Bellview Market place,Q4/2014,738194.69,167395.82
+1232,California,San Jose,Bellview Market place,Q1/2015,451555.91,108345.13
+1233,California,San Jose,Bellview Market place,Q2/2015,574115.73,144918.58000000002
+1234,California,San Jose,Bellview Market place,Q3/2015,178173.53000000003,60501.840000000004
+1235,California,San Jose,Bellview Market place,Q4/2015,483917.6,115060.01
+1236,California,San Jose,Handi Mart Food,Q1/2013,571114.68,112814.09999999999
+1237,California,San Jose,Handi Mart Food,Q2/2013,187355.01,42925.0
+1238,California,San Jose,Handi Mart Food,Q3/2013,493176.55000000005,100175.67
+1239,California,San Jose,Handi Mart Food,Q4/2013,291640.4,85403.04000000001
+1240,California,San Jose,Handi Mart Food,Q1/2014,167896.16999999998,32202.15
+1241,California,San Jose,Handi Mart Food,Q2/2014,298642.38999999996,59426.32
+1242,California,San Jose,Handi Mart Food,Q3/2014,676318.63,152540.91999999998
+1243,California,San Jose,Handi Mart Food,Q4/2014,479816.93000000005,129393.47
+1244,California,San Jose,Handi Mart Food,Q1/2015,1050962.45,211194.36
+1245,California,San Jose,Handi Mart Food,Q2/2015,582923.0700000001,177291.40000000002
+1246,California,San Jose,Handi Mart Food,Q3/2015,507716.5500000001,131373.15
+1247,California,San Jose,Handi Mart Food,Q4/2015,348397.25999999995,86955.9
+1248,California,San Diego,PoCo Shoppers,Q1/2013,386835.62,101672.06
+1249,California,San Diego,PoCo Shoppers,Q2/2013,259725.09,57919.05
+1250,California,San Diego,PoCo Shoppers,Q3/2013,609959.8,121435.97
+1251,California,San Diego,PoCo Shoppers,Q4/2013,83935.5,27150.72
+1252,California,San Diego,PoCo Shoppers,Q1/2014,0.0,0.0
+1253,California,San Diego,PoCo Shoppers,Q2/2014,0.0,0.0
+1254,California,San Diego,PoCo Shoppers,Q3/2014,0.0,0.0
+1255,California,San Diego,PoCo Shoppers,Q4/2014,165326.83000000002,45785.479999999996
+1256,California,San Diego,PoCo Shoppers,Q1/2015,421018.76,108833.9
+1257,California,San Diego,PoCo Shoppers,Q2/2015,283857.14,68863.16
+1258,California,San Diego,PoCo Shoppers,Q3/2015,258740.96000000002,67834.22
+1259,California,San Diego,PoCo Shoppers,Q4/2015,132764.12,35606.53999999999
+1260,California,San Diego,Southport General Store,Q1/2013,437057.62000000005,94529.98
+1261,California,San Diego,Southport General Store,Q2/2013,222375.03,43452.55
+1262,California,San Diego,Southport General Store,Q3/2013,170953.05,42834.45
+1263,California,San Diego,Southport General Store,Q4/2013,191028.74,51692.97
+1264,California,San Diego,Southport General Store,Q1/2014,244719.55,55440.28
+1265,California,San Diego,Southport General Store,Q2/2014,294846.72,44957.84
+1266,California,San Diego,Southport General Store,Q3/2014,335698.0,81119.01
+1267,California,San Diego,Southport General Store,Q4/2014,925861.5700000001,176564.53
+1268,California,San Diego,Southport General Store,Q1/2015,190073.69,51173.75
+1269,California,San Diego,Southport General Store,Q2/2015,368398.76,86817.96
+1270,California,San Diego,Southport General Store,Q3/2015,485639.98,102503.5
+1271,California,San Diego,Southport General Store,Q4/2015,426789.0,94638.38
+1272,California,San Jose,Dahls Food Mart,Q1/2013,320123.06,68656.35
+1273,California,San Jose,Dahls Food Mart,Q2/2013,417093.49000000005,98744.84000000001
+1274,California,San Jose,Dahls Food Mart,Q3/2013,279256.18000000005,58010.04
+1275,California,San Jose,Dahls Food Mart,Q4/2013,178146.99,40786.89
+1276,California,San Jose,Dahls Food Mart,Q1/2014,0.0,0.0
+1277,California,San Jose,Dahls Food Mart,Q2/2014,0.0,0.0
+1278,California,San Jose,Dahls Food Mart,Q3/2014,0.0,0.0
+1279,California,San Jose,Dahls Food Mart,Q4/2014,212923.86,45885.94
+1280,California,San Jose,Dahls Food Mart,Q1/2015,462335.6,110527.03
+1281,California,San Jose,Dahls Food Mart,Q2/2015,263602.8,65989.61
+1282,California,San Jose,Dahls Food Mart,Q3/2015,348669.98,94531.87
+1283,California,San Jose,Dahls Food Mart,Q4/2015,73551.24999999999,20748.620000000003
+1284,California,San Jose,Deckers Food Center,Q1/2013,437924.42000000004,124664.52
+1285,California,San Jose,Deckers Food Center,Q2/2013,426547.51,103136.08
+1286,California,San Jose,Deckers Food Center,Q3/2013,460739.55000000005,110795.73000000001
+1287,California,San Jose,Deckers Food Center,Q4/2013,559698.84,200294.14
+1288,California,San Jose,Deckers Food Center,Q1/2014,781601.02,203431.63
+1289,California,San Jose,Deckers Food Center,Q2/2014,1135861.66,239074.59000000003
+1290,California,San Jose,Deckers Food Center,Q3/2014,1432699.12,338975.4
+1291,California,San Jose,Deckers Food Center,Q4/2014,1194722.4,271130.72000000003
+1292,California,San Jose,Deckers Food Center,Q1/2015,997901.8,244276.35
+1293,California,San Jose,Deckers Food Center,Q2/2015,1416076.7999999998,352159.76
+1294,California,San Jose,Deckers Food Center,Q3/2015,979815.2300000001,264889.83999999997
+1295,California,San Jose,Deckers Food Center,Q4/2015,1154291.58,233276.84000000003
+1296,California,San Jose,Henderson Mart,Q1/2013,256770.08000000002,61980.729999999996
+1297,California,San Jose,Henderson Mart,Q2/2013,258926.63,54117.53999999999
+1298,California,San Jose,Henderson Mart,Q3/2013,285768.26,58662.14
+1299,California,San Jose,Henderson Mart,Q4/2013,327157.13,77763.0
+1300,California,San Jose,Henderson Mart,Q1/2014,266087.72,65570.41
+1301,California,San Jose,Henderson Mart,Q2/2014,349482.04,77799.58
+1302,California,San Jose,Henderson Mart,Q3/2014,171994.65999999997,50173.530000000006
+1303,California,San Jose,Henderson Mart,Q4/2014,743384.98,195013.96999999997
+1304,California,San Jose,Henderson Mart,Q1/2015,267589.09,67371.62
+1305,California,San Jose,Henderson Mart,Q2/2015,606999.1100000001,150323.92
+1306,California,San Jose,Henderson Mart,Q3/2015,380821.58999999997,99006.26999999999
+1307,California,San Jose,Henderson Mart,Q4/2015,292667.4,69926.04000000001
+1308,California,San Francisco,Pay N Go,Q1/2013,240265.49000000005,66690.29
+1309,California,San Francisco,Pay N Go,Q2/2013,285831.18,63988.5
+1310,California,San Francisco,Pay N Go,Q3/2013,300661.45,62998.82
+1311,California,San Francisco,Pay N Go,Q4/2013,340325.97000000003,83208.48
+1312,California,San Francisco,Pay N Go,Q1/2014,155733.91999999998,47822.33
+1313,California,San Francisco,Pay N Go,Q2/2014,356712.7,73018.89
+1314,California,San Francisco,Pay N Go,Q3/2014,510173.9199999999,118030.44
+1315,California,San Francisco,Pay N Go,Q4/2014,343681.36,114570.08
+1316,California,San Francisco,Pay N Go,Q1/2015,732579.96,221413.02000000002
+1317,California,San Francisco,Pay N Go,Q2/2015,623666.27,149202.24
+1318,California,San Francisco,Pay N Go,Q3/2015,252583.95999999996,87696.54000000001
+1319,California,San Francisco,Pay N Go,Q4/2015,653280.73,149285.88
+1320,California,Los Angeles,Albertsons,Q1/2013,448832.6,111353.84
+1321,California,Los Angeles,Albertsons,Q2/2013,283827.14999999997,58973.649999999994
+1322,California,Los Angeles,Albertsons,Q3/2013,506564.87,111092.19
+1323,California,Los Angeles,Albertsons,Q4/2013,207859.62,65161.090000000004
+1324,California,Los Angeles,Albertsons,Q1/2014,202341.24,55239.88999999999
+1325,California,Los Angeles,Albertsons,Q2/2014,234493.24,54781.74
+1326,California,Los Angeles,Albertsons,Q3/2014,331797.06,84179.66
+1327,California,Los Angeles,Albertsons,Q4/2014,837468.97,255764.83
+1328,California,Los Angeles,Albertsons,Q1/2015,184844.96000000002,54638.5
+1329,California,Los Angeles,Albertsons,Q2/2015,342860.37,84092.70999999999
+1330,California,Los Angeles,Albertsons,Q3/2015,899774.88,184860.1
+1331,California,Los Angeles,Albertsons,Q4/2015,355226.06000000006,99902.26000000001
+1332,California,Los Angeles,Concord Corner Mart,Q1/2013,306663.79000000004,94627.27
+1333,California,Los Angeles,Concord Corner Mart,Q2/2013,371640.24,85612.42
+1334,California,Los Angeles,Concord Corner Mart,Q3/2013,236117.74,63572.73000000001
+1335,California,Los Angeles,Concord Corner Mart,Q4/2013,453372.52,128815.07
+1336,California,Los Angeles,Concord Corner Mart,Q1/2014,601863.66,130896.26
+1337,California,Los Angeles,Concord Corner Mart,Q2/2014,163030.25,46418.78999999999
+1338,California,Los Angeles,Concord Corner Mart,Q3/2014,404722.80000000005,108612.79999999999
+1339,California,Los Angeles,Concord Corner Mart,Q4/2014,1033254.1500000001,308110.74
+1340,California,Los Angeles,Concord Corner Mart,Q1/2015,461434.9700000001,119820.22
+1341,California,Los Angeles,Concord Corner Mart,Q2/2015,391679.87,108159.18
+1342,California,Los Angeles,Concord Corner Mart,Q3/2015,497831.13,149650.29
+1343,California,Los Angeles,Concord Corner Mart,Q4/2015,837978.77,200593.30000000002
+1344,California,Los Angeles,BCS Thrift,Q1/2013,475593.0,121767.14
+1345,California,Los Angeles,BCS Thrift,Q2/2013,280832.12,71003.6
+1346,California,Los Angeles,BCS Thrift,Q3/2013,397025.83999999997,90839.29999999999
+1347,California,Los Angeles,BCS Thrift,Q4/2013,96097.43999999999,28211.429999999997
+1348,California,Los Angeles,BCS Thrift,Q1/2014,274434.77,74666.74
+1349,California,Los Angeles,BCS Thrift,Q2/2014,595767.0900000001,128998.1
+1350,California,Los Angeles,BCS Thrift,Q3/2014,384649.13,94746.43
+1351,California,Los Angeles,BCS Thrift,Q4/2014,284503.78,85214.14
+1352,California,Los Angeles,BCS Thrift,Q1/2015,393824.3,125611.07999999999
+1353,California,Los Angeles,BCS Thrift,Q2/2015,606627.27,148670.78
+1354,California,Los Angeles,BCS Thrift,Q3/2015,386233.77,100877.52
+1355,California,Los Angeles,BCS Thrift,Q4/2015,331156.81999999995,84012.7
+1356,California,Santa Barbara,Super Saver,Q1/2013,658271.8400000001,162945.71
+1357,California,Santa Barbara,Super Saver,Q2/2013,265418.30000000005,52258.67
+1358,California,Santa Barbara,Super Saver,Q3/2013,106333.09,27792.390000000003
+1359,California,Santa Barbara,Super Saver,Q4/2013,412360.66000000003,110126.98
+1360,California,Santa Barbara,Super Saver,Q1/2014,199205.32,42446.96
+1361,California,Santa Barbara,Super Saver,Q2/2014,369215.63,75829.06
+1362,California,Santa Barbara,Super Saver,Q3/2014,274451.36,64178.77
+1363,California,Santa Barbara,Super Saver,Q4/2014,155938.81,44485.79
+1364,California,Santa Barbara,Super Saver,Q1/2015,252989.89,73397.84
+1365,California,Santa Barbara,Super Saver,Q2/2015,342756.16000000003,100620.15
+1366,California,Santa Barbara,Super Saver,Q3/2015,782080.51,134937.22999999998
+1367,California,Santa Barbara,Super Saver,Q4/2015,461178.69999999995,120915.48000000001
+1368,California,Santa Barbara,Jumbo Foods,Q1/2013,236472.83000000002,59145.55
+1369,California,Santa Barbara,Jumbo Foods,Q2/2013,170752.99,36194.64
+1370,California,Santa Barbara,Jumbo Foods,Q3/2013,309952.51,76028.15
+1371,California,Santa Barbara,Jumbo Foods,Q4/2013,304370.15,80932.43
+1372,California,Santa Barbara,Jumbo Foods,Q1/2014,117828.38,28199.05
+1373,California,Santa Barbara,Jumbo Foods,Q2/2014,49427.51,15161.35
+1374,California,Santa Barbara,Jumbo Foods,Q3/2014,192537.84999999998,41523.03
+1375,California,Santa Barbara,Jumbo Foods,Q4/2014,435808.72,117398.93
+1376,California,Santa Barbara,Jumbo Foods,Q1/2015,571241.9299999999,130153.0
+1377,California,Santa Barbara,Jumbo Foods,Q2/2015,304331.18,70518.59
+1378,California,Santa Barbara,Jumbo Foods,Q3/2015,1124081.3,252148.22999999998
+1379,California,Santa Barbara,Jumbo Foods,Q4/2015,333505.92000000004,77065.54999999999
+1380,California,Santa Barbara,Cumberland Supermart,Q1/2013,317826.14,77244.79999999999
+1381,California,Santa Barbara,Cumberland Supermart,Q2/2013,423814.66,94833.21
+1382,California,Santa Barbara,Cumberland Supermart,Q3/2013,128102.43,35621.950000000004
+1383,California,Santa Barbara,Cumberland Supermart,Q4/2013,206762.05,54496.69
+1384,California,Santa Barbara,Cumberland Supermart,Q1/2014,791355.44,166188.86
+1385,California,Santa Barbara,Cumberland Supermart,Q2/2014,101751.77,25953.949999999997
+1386,California,Santa Barbara,Cumberland Supermart,Q3/2014,151763.93,38724.549999999996
+1387,California,Santa Barbara,Cumberland Supermart,Q4/2014,597653.2800000001,162268.1
+1388,California,Santa Barbara,Cumberland Supermart,Q1/2015,467116.43,118828.15000000002
+1389,California,Santa Barbara,Cumberland Supermart,Q2/2015,173633.25,50669.34
+1390,California,Santa Barbara,Cumberland Supermart,Q3/2015,285935.70999999996,68589.11
+1391,California,Santa Barbara,Cumberland Supermart,Q4/2015,175668.64,37978.299999999996
+1392,California,San Diego,John Brooks Foods,Q1/2013,602899.09,116315.04000000001
+1393,California,San Diego,John Brooks Foods,Q2/2013,207530.88999999998,46904.81
+1394,California,San Diego,John Brooks Foods,Q3/2013,315254.68,74530.15000000001
+1395,California,San Diego,John Brooks Foods,Q4/2013,396899.57,91673.97
+1396,California,San Diego,John Brooks Foods,Q1/2014,365494.12,73259.98
+1397,California,San Diego,John Brooks Foods,Q2/2014,613307.64,128525.11
+1398,California,San Diego,John Brooks Foods,Q3/2014,1360777.35,311083.23
+1399,California,San Diego,John Brooks Foods,Q4/2014,615264.68,155009.84
+1400,California,San Diego,John Brooks Foods,Q1/2015,797402.55,213069.88999999998
+1401,California,San Diego,John Brooks Foods,Q2/2015,827244.75,251296.90999999997
+1402,California,San Diego,John Brooks Foods,Q3/2015,512446.79,127223.3
+1403,California,San Diego,John Brooks Foods,Q4/2015,629072.1599999999,136881.41999999998
+1404,California,Santa Barbara,Rays Super Foods,Q1/2013,252141.88999999998,60359.06
+1405,California,Santa Barbara,Rays Super Foods,Q2/2013,356218.19,63931.3
+1406,California,Santa Barbara,Rays Super Foods,Q3/2013,231588.28000000003,61100.990000000005
+1407,California,Santa Barbara,Rays Super Foods,Q4/2013,727738.39,140390.99
+1408,California,Santa Barbara,Rays Super Foods,Q1/2014,311916.93,74809.09
+1409,California,Santa Barbara,Rays Super Foods,Q2/2014,341329.87999999995,73089.56000000001
+1410,California,Santa Barbara,Rays Super Foods,Q3/2014,401620.45,95734.93
+1411,California,Santa Barbara,Rays Super Foods,Q4/2014,541390.97,138065.37
+1412,California,Santa Barbara,Rays Super Foods,Q1/2015,391396.67000000004,97387.45999999999
+1413,California,Santa Barbara,Rays Super Foods,Q2/2015,260097.83000000002,68119.18999999999
+1414,California,Santa Barbara,Rays Super Foods,Q3/2015,498115.22,122526.52000000002
+1415,California,Santa Barbara,Rays Super Foods,Q4/2015,487772.42,119872.24
+1416,California,Santa Barbara,Arrowhead Corner Store,Q1/2013,538828.53,153132.6
+1417,California,Santa Barbara,Arrowhead Corner Store,Q2/2013,929719.6799999999,174480.96
+1418,California,Santa Barbara,Arrowhead Corner Store,Q3/2013,429786.13,108599.75
+1419,California,Santa Barbara,Arrowhead Corner Store,Q4/2013,598039.94,151604.51
+1420,California,Santa Barbara,Arrowhead Corner Store,Q1/2014,836627.28,177601.74
+1421,California,Santa Barbara,Arrowhead Corner Store,Q2/2014,499618.6599999999,99324.31999999999
+1422,California,Santa Barbara,Arrowhead Corner Store,Q3/2014,955410.2900000002,230663.35000000003
+1423,California,Santa Barbara,Arrowhead Corner Store,Q4/2014,755520.31,179094.42
+1424,California,Santa Barbara,Arrowhead Corner Store,Q1/2015,566057.9299999999,141279.03999999998
+1425,California,Santa Barbara,Arrowhead Corner Store,Q2/2015,626726.95,148325.07
+1426,California,Santa Barbara,Arrowhead Corner Store,Q3/2015,964223.9099999999,212199.93
+1427,California,Santa Barbara,Arrowhead Corner Store,Q4/2015,755589.1499999999,202036.22
+1428,California,Santa Barbara,Baileys & Burke,Q1/2013,475153.10000000003,136036.81
+1429,California,Santa Barbara,Baileys & Burke,Q2/2013,351584.23,81025.67
+1430,California,Santa Barbara,Baileys & Burke,Q3/2013,238179.25,55983.31
+1431,California,Santa Barbara,Baileys & Burke,Q4/2013,742682.39,138814.32
+1432,California,Santa Barbara,Baileys & Burke,Q1/2014,679757.53,176890.0
+1433,California,Santa Barbara,Baileys & Burke,Q2/2014,365399.04,76678.43
+1434,California,Santa Barbara,Baileys & Burke,Q3/2014,407022.58999999997,99969.43000000001
+1435,California,Santa Barbara,Baileys & Burke,Q4/2014,232733.67,60038.52
+1436,California,Santa Barbara,Baileys & Burke,Q1/2015,143979.26,40953.47
+1437,California,Santa Barbara,Baileys & Burke,Q2/2015,262679.06,62362.78999999999
+1438,California,Santa Barbara,Baileys & Burke,Q3/2015,432148.43999999994,101749.93
+1439,California,Santa Barbara,Baileys & Burke,Q4/2015,353788.02999999997,81724.24
+1440,California,San Diego,Kuane Food Town,Q1/2013,350764.58,74694.53
+1441,California,San Diego,Kuane Food Town,Q2/2013,248913.94000000003,62369.8
+1442,California,San Diego,Kuane Food Town,Q3/2013,230907.71,49253.369999999995
+1443,California,San Diego,Kuane Food Town,Q4/2013,349520.24,91163.94
+1444,California,San Diego,Kuane Food Town,Q1/2014,70281.37,16920.690000000002
+1445,California,San Diego,Kuane Food Town,Q2/2014,435368.18,99750.51000000001
+1446,California,San Diego,Kuane Food Town,Q3/2014,402293.23999999993,95599.71
+1447,California,San Diego,Kuane Food Town,Q4/2014,832758.41,207284.84999999998
+1448,California,San Diego,Kuane Food Town,Q1/2015,478177.33,97293.36
+1449,California,San Diego,Kuane Food Town,Q2/2015,346874.9,87824.05
+1450,California,San Diego,Kuane Food Town,Q3/2015,990515.9600000001,212583.12
+1451,California,San Diego,Kuane Food Town,Q4/2015,359518.18,94149.17
+1452,California,Santa Barbara,Haverhill Market,Q1/2013,374364.01,94387.05
+1453,California,Santa Barbara,Haverhill Market,Q2/2013,330758.53,84975.51
+1454,California,Santa Barbara,Haverhill Market,Q3/2013,1139488.3599999999,233238.25
+1455,California,Santa Barbara,Haverhill Market,Q4/2013,230974.75,62315.67
+1456,California,Santa Barbara,Haverhill Market,Q1/2014,953952.1499999999,213126.76
+1457,California,Santa Barbara,Haverhill Market,Q2/2014,609375.6900000001,121403.16
+1458,California,Santa Barbara,Haverhill Market,Q3/2014,1280376.32,231057.37
+1459,California,Santa Barbara,Haverhill Market,Q4/2014,315897.36,99266.24
+1460,California,Santa Barbara,Haverhill Market,Q1/2015,506251.22,135299.11
+1461,California,Santa Barbara,Haverhill Market,Q2/2015,720341.3599999999,166451.11
+1462,California,Santa Barbara,Haverhill Market,Q3/2015,523786.95000000007,116816.35
+1463,California,Santa Barbara,Haverhill Market,Q4/2015,741104.48,155113.68
+1464,California,San Francisco,Rilwala Foods Inc,Q1/2013,474877.89999999997,104825.38
+1465,California,San Francisco,Rilwala Foods Inc,Q2/2013,579186.99,139301.25
+1466,California,San Francisco,Rilwala Foods Inc,Q3/2013,224691.41999999998,49705.6
+1467,California,San Francisco,Rilwala Foods Inc,Q4/2013,600616.35,143312.09999999998
+1468,California,San Francisco,Rilwala Foods Inc,Q1/2014,373106.95999999996,86320.69
+1469,California,San Francisco,Rilwala Foods Inc,Q2/2014,295761.89,88229.92000000001
+1470,California,San Francisco,Rilwala Foods Inc,Q3/2014,429044.73,97766.98
+1471,California,San Francisco,Rilwala Foods Inc,Q4/2014,383356.10000000003,102774.56
+1472,California,San Francisco,Rilwala Foods Inc,Q1/2015,929785.58,240894.29
+1473,California,San Francisco,Rilwala Foods Inc,Q2/2015,351489.49,92872.78
+1474,California,San Francisco,Rilwala Foods Inc,Q3/2015,534688.7,130173.70000000001
+1475,California,San Francisco,Rilwala Foods Inc,Q4/2015,541979.09,119998.59
+1476,California,Santa Barbara,Super Foods,Q1/2013,189361.03,62610.82
+1477,California,Santa Barbara,Super Foods,Q2/2013,620616.48,140836.7
+1478,California,Santa Barbara,Super Foods,Q3/2013,334556.55000000005,77990.47
+1479,California,Santa Barbara,Super Foods,Q4/2013,139595.38,34397.71
+1480,California,Santa Barbara,Super Foods,Q1/2014,317377.43,84625.55
+1481,California,Santa Barbara,Super Foods,Q2/2014,628129.23,132015.98
+1482,California,Santa Barbara,Super Foods,Q3/2014,410236.62,90519.91
+1483,California,Santa Barbara,Super Foods,Q4/2014,579074.12,137059.64
+1484,California,Santa Barbara,Super Foods,Q1/2015,811729.33,214014.75
+1485,California,Santa Barbara,Super Foods,Q2/2015,593519.55,164340.89
+1486,California,Santa Barbara,Super Foods,Q3/2015,258801.81,77641.49
+1487,California,Santa Barbara,Super Foods,Q4/2015,815317.17,177737.46000000002
+1488,California,Santa Barbara,Richmond Night Market,Q1/2013,283604.77,59704.67999999999
+1489,California,Santa Barbara,Richmond Night Market,Q2/2013,310909.78,72406.01
+1490,California,Santa Barbara,Richmond Night Market,Q3/2013,226844.64,52455.729999999996
+1491,California,Santa Barbara,Richmond Night Market,Q4/2013,493755.85,117768.74
+1492,California,Santa Barbara,Richmond Night Market,Q1/2014,60205.2,20973.600000000002
+1493,California,Santa Barbara,Richmond Night Market,Q2/2014,368569.89,82934.67
+1494,California,Santa Barbara,Richmond Night Market,Q3/2014,330401.06,79131.86
+1495,California,Santa Barbara,Richmond Night Market,Q4/2014,504502.6,115095.19
+1496,California,Santa Barbara,Richmond Night Market,Q1/2015,647094.51,143979.18
+1497,California,Santa Barbara,Richmond Night Market,Q2/2015,528014.59,137670.18
+1498,California,Santa Barbara,Richmond Night Market,Q3/2015,375347.64,105843.9
+1499,California,Santa Barbara,Richmond Night Market,Q4/2015,412722.31,98203.62
+1500,California,Santa Barbara,Marco Express,Q1/2013,851285.15,193985.08
+1501,California,Santa Barbara,Marco Express,Q2/2013,695917.16,133408.0
+1502,California,Santa Barbara,Marco Express,Q3/2013,243545.74,50196.39
+1503,California,Santa Barbara,Marco Express,Q4/2013,292973.66000000003,83680.85
+1504,California,Santa Barbara,Marco Express,Q1/2014,328069.69,77398.48000000001
+1505,California,Santa Barbara,Marco Express,Q2/2014,44505.59,12722.939999999999
+1506,California,Santa Barbara,Marco Express,Q3/2014,312845.61,80068.1
+1507,California,Santa Barbara,Marco Express,Q4/2014,498205.49999999994,130176.52000000002
+1508,California,Santa Barbara,Marco Express,Q1/2015,686464.01,186552.83000000002
+1509,California,Santa Barbara,Marco Express,Q2/2015,477277.99,128307.76000000001
+1510,California,Santa Barbara,Marco Express,Q3/2015,461865.29,113290.69
+1511,California,Santa Barbara,Marco Express,Q4/2015,806803.43,169547.38
+1512,California,San Francisco,Five Star Mart,Q1/2013,194105.24000000002,47831.04000000001
+1513,California,San Francisco,Five Star Mart,Q2/2013,267312.14,60833.99
+1514,California,San Francisco,Five Star Mart,Q3/2013,324491.04000000004,77907.1
+1515,California,San Francisco,Five Star Mart,Q4/2013,198151.37000000002,54696.219999999994
+1516,California,San Francisco,Five Star Mart,Q1/2014,224927.61,40515.22
+1517,California,San Francisco,Five Star Mart,Q2/2014,462060.16,92213.54999999999
+1518,California,San Francisco,Five Star Mart,Q3/2014,351352.58999999997,78389.25
+1519,California,San Francisco,Five Star Mart,Q4/2014,497167.89999999997,124548.52
+1520,California,San Francisco,Five Star Mart,Q1/2015,248042.36,60447.350000000006
+1521,California,San Francisco,Five Star Mart,Q2/2015,471994.77999999997,116250.35
+1522,California,San Francisco,Five Star Mart,Q3/2015,205114.98,55930.64
+1523,California,San Francisco,Five Star Mart,Q4/2015,112312.64000000001,35265.8
+1524,California,Santa Barbara,Shoreline Corner Mart,Q1/2013,319979.66000000003,84328.16
+1525,California,Santa Barbara,Shoreline Corner Mart,Q2/2013,891799.91,203557.09
+1526,California,Santa Barbara,Shoreline Corner Mart,Q3/2013,73522.02,20238.439999999995
+1527,California,Santa Barbara,Shoreline Corner Mart,Q4/2013,86151.88,18648.61
+1528,California,Santa Barbara,Shoreline Corner Mart,Q1/2014,0.0,0.0
+1529,California,Santa Barbara,Shoreline Corner Mart,Q2/2014,0.0,0.0
+1530,California,Santa Barbara,Shoreline Corner Mart,Q3/2014,0.0,0.0
+1531,California,Santa Barbara,Shoreline Corner Mart,Q4/2014,199911.93,54004.75
+1532,California,Santa Barbara,Shoreline Corner Mart,Q1/2015,252972.43000000002,76010.39
+1533,California,Santa Barbara,Shoreline Corner Mart,Q2/2015,347150.19999999995,81026.57
+1534,California,Santa Barbara,Shoreline Corner Mart,Q3/2015,366828.33999999997,100822.12
+1535,California,Santa Barbara,Shoreline Corner Mart,Q4/2015,406854.07,97219.66
+1536,California,San Francisco,Mesa Mart,Q1/2013,516739.98,117128.22
+1537,California,San Francisco,Mesa Mart,Q2/2013,237034.04000000004,43803.21000000001
+1538,California,San Francisco,Mesa Mart,Q3/2013,308923.83999999997,74144.89
+1539,California,San Francisco,Mesa Mart,Q4/2013,400652.08999999997,113533.36
+1540,California,San Francisco,Mesa Mart,Q1/2014,719802.1699999999,141384.73
+1541,California,San Francisco,Mesa Mart,Q2/2014,282108.97,63015.96
+1542,California,San Francisco,Mesa Mart,Q3/2014,643210.19,173929.3
+1543,California,San Francisco,Mesa Mart,Q4/2014,405522.13,113962.73000000001
+1544,California,San Francisco,Mesa Mart,Q1/2015,950759.78,212479.11
+1545,California,San Francisco,Mesa Mart,Q2/2015,253105.49,72303.95
+1546,California,San Francisco,Mesa Mart,Q3/2015,663401.6799999999,131403.79
+1547,California,San Francisco,Mesa Mart,Q4/2015,855096.7899999999,180548.71
+1548,California,Santa Barbara,Kraus Foods,Q1/2013,180827.24000000002,54796.17999999999
+1549,California,Santa Barbara,Kraus Foods,Q2/2013,691835.4600000001,145276.82
+1550,California,Santa Barbara,Kraus Foods,Q3/2013,323107.05,70204.25
+1551,California,Santa Barbara,Kraus Foods,Q4/2013,200577.40999999997,52335.57
+1552,California,Santa Barbara,Kraus Foods,Q1/2014,753605.28,172073.31
+1553,California,Santa Barbara,Kraus Foods,Q2/2014,356733.83999999997,81474.69
+1554,California,Santa Barbara,Kraus Foods,Q3/2014,501279.24,123138.29999999999
+1555,California,Santa Barbara,Kraus Foods,Q4/2014,738194.69,162069.64
+1556,California,Santa Barbara,Kraus Foods,Q1/2015,451555.91,112308.01000000001
+1557,California,Santa Barbara,Kraus Foods,Q2/2015,574115.73,139138.59
+1558,California,Santa Barbara,Kraus Foods,Q3/2015,178173.53000000003,59084.259999999995
+1559,California,Santa Barbara,Kraus Foods,Q4/2015,483917.6,131707.03
+1560,California,Santa Barbara,Kullens,Q1/2013,571114.68,124425.99
+1561,California,Santa Barbara,Kullens,Q2/2013,187355.01,45903.04
+1562,California,Santa Barbara,Kullens,Q3/2013,493176.55000000005,113478.29
+1563,California,Santa Barbara,Kullens,Q4/2013,291640.4,79719.47
+1564,California,Santa Barbara,Kullens,Q1/2014,167896.16999999998,37903.8
+1565,California,Santa Barbara,Kullens,Q2/2014,298642.38999999996,64356.51
+1566,California,Santa Barbara,Kullens,Q3/2014,676318.63,145036.51
+1567,California,Santa Barbara,Kullens,Q4/2014,479816.93000000005,141029.89
+1568,California,Santa Barbara,Kullens,Q1/2015,1050962.45,194255.71999999997
+1569,California,Santa Barbara,Kullens,Q2/2015,582923.0700000001,177418.22
+1570,California,Santa Barbara,Kullens,Q3/2015,507716.5500000001,136937.45
+1571,California,Santa Barbara,Kullens,Q4/2015,348397.25999999995,89201.15000000001
+1572,California,San Diego,Bloomingfoods Market,Q1/2013,386835.62,84313.54999999999
+1573,California,San Diego,Bloomingfoods Market,Q2/2013,259725.09,65509.59
+1574,California,San Diego,Bloomingfoods Market,Q3/2013,609959.8,115337.19
+1575,California,San Diego,Bloomingfoods Market,Q4/2013,83935.5,28189.18
+1576,California,San Diego,Bloomingfoods Market,Q1/2014,0.0,0.0
+1577,California,San Diego,Bloomingfoods Market,Q2/2014,0.0,0.0
+1578,California,San Diego,Bloomingfoods Market,Q3/2014,0.0,0.0
+1579,California,San Diego,Bloomingfoods Market,Q4/2014,165326.83000000002,50050.42999999999
+1580,California,San Diego,Bloomingfoods Market,Q1/2015,421018.76,101687.75
+1581,California,San Diego,Bloomingfoods Market,Q2/2015,283857.14,75792.93
+1582,California,San Diego,Bloomingfoods Market,Q3/2015,258740.96000000002,61592.009999999995
+1583,California,San Diego,Bloomingfoods Market,Q4/2015,132764.12,37237.92
+1584,California,San Diego,Premium Foods,Q1/2013,437057.62000000005,92038.67
+1585,California,San Diego,Premium Foods,Q2/2013,222375.03,48861.259999999995
+1586,California,San Diego,Premium Foods,Q3/2013,170953.05,42954.1
+1587,California,San Diego,Premium Foods,Q4/2013,191028.74,47087.759999999995
+1588,California,San Diego,Premium Foods,Q1/2014,244719.55,63163.06
+1589,California,San Diego,Premium Foods,Q2/2014,294846.72,53364.86
+1590,California,San Diego,Premium Foods,Q3/2014,335698.0,76659.88
+1591,California,San Diego,Premium Foods,Q4/2014,925861.5700000001,240049.78999999998
+1592,California,San Diego,Premium Foods,Q1/2015,190073.69,48909.270000000004
+1593,California,San Diego,Premium Foods,Q2/2015,368398.76,85187.77
+1594,California,San Diego,Premium Foods,Q3/2015,485639.98,125458.52
+1595,California,San Diego,Premium Foods,Q4/2015,426789.0,99956.38999999998
+1596,California,Santa Barbara,Piquette Mini-Mart,Q1/2013,320123.06,82786.63
+1597,California,Santa Barbara,Piquette Mini-Mart,Q2/2013,417093.49000000005,79670.23000000001
+1598,California,Santa Barbara,Piquette Mini-Mart,Q3/2013,279256.18000000005,55751.409999999996
+1599,California,Santa Barbara,Piquette Mini-Mart,Q4/2013,178146.99,40341.64
+1600,California,Santa Barbara,Piquette Mini-Mart,Q1/2014,0.0,0.0
+1601,California,Santa Barbara,Piquette Mini-Mart,Q2/2014,0.0,0.0
+1602,California,Santa Barbara,Piquette Mini-Mart,Q3/2014,0.0,0.0
+1603,California,Santa Barbara,Piquette Mini-Mart,Q4/2014,212923.86,50631.81
+1604,California,Santa Barbara,Piquette Mini-Mart,Q1/2015,462335.6,108139.47
+1605,California,Santa Barbara,Piquette Mini-Mart,Q2/2015,263602.8,61022.95
+1606,California,Santa Barbara,Piquette Mini-Mart,Q3/2015,348669.98,94922.04000000001
+1607,California,Santa Barbara,Piquette Mini-Mart,Q4/2015,73551.24999999999,22460.98
+1608,California,Santa Barbara,Family Foods Mart,Q1/2013,437924.42000000004,120720.59
+1609,California,Santa Barbara,Family Foods Mart,Q2/2013,426547.51,117843.22
+1610,California,Santa Barbara,Family Foods Mart,Q3/2013,460739.55000000005,107345.88
+1611,California,Santa Barbara,Family Foods Mart,Q4/2013,559698.84,169389.03
+1612,California,Santa Barbara,Family Foods Mart,Q1/2014,781601.02,184595.41999999998
+1613,California,Santa Barbara,Family Foods Mart,Q2/2014,1135861.66,233818.14
+1614,California,Santa Barbara,Family Foods Mart,Q3/2014,1432699.12,344545.08
+1615,California,Santa Barbara,Family Foods Mart,Q4/2014,1194722.4,299502.2
+1616,California,Santa Barbara,Family Foods Mart,Q1/2015,997901.8,240747.49
+1617,California,Santa Barbara,Family Foods Mart,Q2/2015,1416076.7999999998,387412.2
+1618,California,Santa Barbara,Family Foods Mart,Q3/2015,979815.2300000001,264170.76
+1619,California,Santa Barbara,Family Foods Mart,Q4/2015,1154291.58,254998.52000000002
+1620,California,Santa Barbara,IDA,Q1/2013,256770.08000000002,67927.41
+1621,California,Santa Barbara,IDA,Q2/2013,258926.63,56541.29
+1622,California,Santa Barbara,IDA,Q3/2013,285768.26,66331.56
+1623,California,Santa Barbara,IDA,Q4/2013,327157.13,82933.71
+1624,California,Santa Barbara,IDA,Q1/2014,266087.72,73515.79000000001
+1625,California,Santa Barbara,IDA,Q2/2014,349482.04,74072.12
+1626,California,Santa Barbara,IDA,Q3/2014,171994.65999999997,51892.44
+1627,California,Santa Barbara,IDA,Q4/2014,743384.98,197825.95
+1628,California,Santa Barbara,IDA,Q1/2015,267589.09,65569.7
+1629,California,Santa Barbara,IDA,Q2/2015,606999.1100000001,155714.5
+1630,California,Santa Barbara,IDA,Q3/2015,380821.58999999997,95641.66
+1631,California,Santa Barbara,IDA,Q4/2015,292667.4,66654.62
+1632,California,San Francisco,Norrenberns Depot,Q1/2013,240265.49000000005,72497.34
+1633,California,San Francisco,Norrenberns Depot,Q2/2013,285831.18,69602.64
+1634,California,San Francisco,Norrenberns Depot,Q3/2013,300661.45,67195.51000000001
+1635,California,San Francisco,Norrenberns Depot,Q4/2013,340325.97000000003,91528.70999999999
+1636,California,San Francisco,Norrenberns Depot,Q1/2014,155733.91999999998,47600.51
+1637,California,San Francisco,Norrenberns Depot,Q2/2014,356712.7,81744.08
+1638,California,San Francisco,Norrenberns Depot,Q3/2014,510173.9199999999,122350.34
+1639,California,San Francisco,Norrenberns Depot,Q4/2014,343681.36,133840.99
+1640,California,San Francisco,Norrenberns Depot,Q1/2015,732579.96,202860.33
+1641,California,San Francisco,Norrenberns Depot,Q2/2015,623666.27,163248.78
+1642,California,San Francisco,Norrenberns Depot,Q3/2015,252583.95999999996,89486.91
+1643,California,San Francisco,Norrenberns Depot,Q4/2015,653280.73,144911.41999999998
+1644,California,Santa Barbara,Harvestime Foods,Q1/2013,448832.6,113857.14000000001
+1645,California,Santa Barbara,Harvestime Foods,Q2/2013,283827.14999999997,57351.479999999996
+1646,California,Santa Barbara,Harvestime Foods,Q3/2013,506564.87,140208.93
+1647,California,Santa Barbara,Harvestime Foods,Q4/2013,207859.62,64819.14
+1648,California,Santa Barbara,Harvestime Foods,Q1/2014,202341.24,53435.04
+1649,California,Santa Barbara,Harvestime Foods,Q2/2014,234493.24,54181.34
+1650,California,Santa Barbara,Harvestime Foods,Q3/2014,331797.06,83057.45
+1651,California,Santa Barbara,Harvestime Foods,Q4/2014,837468.97,240405.4
+1652,California,Santa Barbara,Harvestime Foods,Q1/2015,184844.96000000002,66134.7
+1653,California,Santa Barbara,Harvestime Foods,Q2/2015,342860.37,83723.61
+1654,California,Santa Barbara,Harvestime Foods,Q3/2015,899774.88,215439.62
+1655,California,Santa Barbara,Harvestime Foods,Q4/2015,355226.06000000006,94476.56
+1656,California,Santa Barbara,Flash Foods,Q1/2013,306663.79000000004,93159.81
+1657,California,Santa Barbara,Flash Foods,Q2/2013,371640.24,80330.1
+1658,California,Santa Barbara,Flash Foods,Q3/2013,236117.74,63371.270000000004
+1659,California,Santa Barbara,Flash Foods,Q4/2013,453372.52,116050.16
+1660,California,Santa Barbara,Flash Foods,Q1/2014,601863.66,128887.29000000001
+1661,California,Santa Barbara,Flash Foods,Q2/2014,163030.25,45276.670000000006
+1662,California,Santa Barbara,Flash Foods,Q3/2014,404722.80000000005,108873.80999999998
+1663,California,Santa Barbara,Flash Foods,Q4/2014,1033254.1500000001,276947.33
+1664,California,Santa Barbara,Flash Foods,Q1/2015,461434.9700000001,111042.49
+1665,California,Santa Barbara,Flash Foods,Q2/2015,391679.87,110646.32
+1666,California,Santa Barbara,Flash Foods,Q3/2015,497831.13,162385.34
+1667,California,Santa Barbara,Flash Foods,Q4/2015,837978.77,203214.21
+1668,California,Santa Barbara,Lakeview One Stop,Q1/2013,475593.0,121220.6
+1669,California,Santa Barbara,Lakeview One Stop,Q2/2013,280832.12,71058.34
+1670,California,Santa Barbara,Lakeview One Stop,Q3/2013,397025.83999999997,95313.98
+1671,California,Santa Barbara,Lakeview One Stop,Q4/2013,96097.43999999999,28318.5
+1672,California,Santa Barbara,Lakeview One Stop,Q1/2014,274434.77,70672.29999999999
+1673,California,Santa Barbara,Lakeview One Stop,Q2/2014,595767.0900000001,127952.70000000001
+1674,California,Santa Barbara,Lakeview One Stop,Q3/2014,384649.13,92513.85
+1675,California,Santa Barbara,Lakeview One Stop,Q4/2014,284503.78,81359.26999999999
+1676,California,Santa Barbara,Lakeview One Stop,Q1/2015,393824.3,116045.31999999999
+1677,California,Santa Barbara,Lakeview One Stop,Q2/2015,606627.27,164563.89
+1678,California,Santa Barbara,Lakeview One Stop,Q3/2015,386233.77,109345.38
+1679,California,Santa Barbara,Lakeview One Stop,Q4/2015,331156.81999999995,72991.44
+1680,Nevada,Reno,Heinens Village Market,Q1/2013,922831.73,104792.67
+1681,Nevada,Reno,Heinens Village Market,Q2/2013,415860.93,53553.67
+1682,Nevada,Reno,Heinens Village Market,Q3/2013,370994.64,38728.65000000001
+1683,Nevada,Reno,Heinens Village Market,Q4/2013,401721.6,47511.41
+1684,Nevada,Reno,Heinens Village Market,Q1/2014,336609.81,42442.66
+1685,Nevada,Reno,Heinens Village Market,Q2/2014,343586.36,35608.22
+1686,Nevada,Reno,Heinens Village Market,Q3/2014,396549.77999999997,31865.11
+1687,Nevada,Reno,Heinens Village Market,Q4/2014,445556.91,48279.76
+1688,Nevada,Reno,Heinens Village Market,Q1/2015,291973.87,50664.92
+1689,Nevada,Reno,Heinens Village Market,Q2/2015,517280.81,54656.69
+1690,Nevada,Reno,Heinens Village Market,Q3/2015,511842.1,85788.03
+1691,Nevada,Reno,Heinens Village Market,Q4/2015,431215.25,46923.399999999994
+1692,Nevada,Henderson,Kays Mini-Mart,Q1/2013,377755.95999999996,37244.71
+1693,Nevada,Henderson,Kays Mini-Mart,Q2/2013,274949.95,21919.63
+1694,Nevada,Henderson,Kays Mini-Mart,Q3/2013,257703.38,32240.789999999997
+1695,Nevada,Henderson,Kays Mini-Mart,Q4/2013,299303.76,38040.96000000001
+1696,Nevada,Henderson,Kays Mini-Mart,Q1/2014,692091.32,75360.01999999999
+1697,Nevada,Henderson,Kays Mini-Mart,Q2/2014,220060.71000000002,16742.96
+1698,Nevada,Henderson,Kays Mini-Mart,Q3/2014,380673.44,39148.94
+1699,Nevada,Henderson,Kays Mini-Mart,Q4/2014,402796.28,50677.630000000005
+1700,Nevada,Henderson,Kays Mini-Mart,Q1/2015,200290.52000000002,34142.17
+1701,Nevada,Henderson,Kays Mini-Mart,Q2/2015,1185358.99,107484.81
+1702,Nevada,Henderson,Kays Mini-Mart,Q3/2015,261332.86000000002,38622.100000000006
+1703,Nevada,Henderson,Kays Mini-Mart,Q4/2015,111338.27,17591.84
+1704,Nevada,Reno,Henrys Corner Store,Q1/2013,570301.96,67884.09
+1705,Nevada,Reno,Henrys Corner Store,Q2/2013,191303.34000000003,26560.03
+1706,Nevada,Reno,Henrys Corner Store,Q3/2013,301191.86,27576.75
+1707,Nevada,Reno,Henrys Corner Store,Q4/2013,314071.27,42921.729999999996
+1708,Nevada,Reno,Henrys Corner Store,Q1/2014,348532.79000000004,42527.729999999996
+1709,Nevada,Reno,Henrys Corner Store,Q2/2014,499609.93999999994,35254.43
+1710,Nevada,Reno,Henrys Corner Store,Q3/2014,449004.22000000003,40300.78
+1711,Nevada,Reno,Henrys Corner Store,Q4/2014,417012.22,54860.49
+1712,Nevada,Reno,Henrys Corner Store,Q1/2015,795910.45,99820.6
+1713,Nevada,Reno,Henrys Corner Store,Q2/2015,276652.54000000004,37030.18
+1714,Nevada,Reno,Henrys Corner Store,Q3/2015,464413.96,58919.630000000005
+1715,Nevada,Reno,Henrys Corner Store,Q4/2015,785831.65,77383.93
+1716,Nevada,Reno,PriceLow Arena,Q1/2013,483731.51,52841.59
+1717,Nevada,Reno,PriceLow Arena,Q2/2013,282967.77,33489.79
+1718,Nevada,Reno,PriceLow Arena,Q3/2013,81244.45999999999,7046.6
+1719,Nevada,Reno,PriceLow Arena,Q4/2013,205520.66999999998,25471.03
+1720,Nevada,Reno,PriceLow Arena,Q1/2014,0.0,0.0
+1721,Nevada,Reno,PriceLow Arena,Q2/2014,0.0,0.0
+1722,Nevada,Reno,PriceLow Arena,Q3/2014,0.0,0.0
+1723,Nevada,Reno,PriceLow Arena,Q4/2014,482650.32,64983.31999999999
+1724,Nevada,Reno,PriceLow Arena,Q1/2015,145578.85,17908.63
+1725,Nevada,Reno,PriceLow Arena,Q2/2015,260111.9,31356.38
+1726,Nevada,Reno,PriceLow Arena,Q3/2015,807726.05,103336.66
+1727,Nevada,Reno,PriceLow Arena,Q4/2015,308340.19,37896.17
+1728,Nevada,Henderson,Meadow Depot,Q1/2013,579275.22,59175.72
+1729,Nevada,Henderson,Meadow Depot,Q2/2013,380858.83999999997,37542.619999999995
+1730,Nevada,Henderson,Meadow Depot,Q3/2013,607347.31,69775.29000000001
+1731,Nevada,Henderson,Meadow Depot,Q4/2013,549732.65,47797.47
+1732,Nevada,Henderson,Meadow Depot,Q1/2014,218259.03000000003,22514.379999999997
+1733,Nevada,Henderson,Meadow Depot,Q2/2014,163401.86,18881.100000000002
+1734,Nevada,Henderson,Meadow Depot,Q3/2014,355373.79000000004,31641.820000000003
+1735,Nevada,Henderson,Meadow Depot,Q4/2014,338857.62,74235.70999999999
+1736,Nevada,Henderson,Meadow Depot,Q1/2015,224268.99,31598.620000000003
+1737,Nevada,Henderson,Meadow Depot,Q2/2015,580320.8,56890.32000000001
+1738,Nevada,Henderson,Meadow Depot,Q3/2015,389213.37,46301.39
+1739,Nevada,Henderson,Meadow Depot,Q4/2015,298056.07,39979.41
+1740,Nevada,Henderson,Oak Park Market,Q1/2013,375900.06,47843.43
+1741,Nevada,Henderson,Oak Park Market,Q2/2013,677245.76,53863.899999999994
+1742,Nevada,Henderson,Oak Park Market,Q3/2013,219324.35,33297.24
+1743,Nevada,Henderson,Oak Park Market,Q4/2013,288153.38,28222.06
+1744,Nevada,Henderson,Oak Park Market,Q1/2014,96803.39,13942.279999999999
+1745,Nevada,Henderson,Oak Park Market,Q2/2014,500105.72000000003,45539.45
+1746,Nevada,Henderson,Oak Park Market,Q3/2014,523258.51,60632.58
+1747,Nevada,Henderson,Oak Park Market,Q4/2014,418036.31000000006,73219.53
+1748,Nevada,Henderson,Oak Park Market,Q1/2015,542209.79,58054.15999999999
+1749,Nevada,Henderson,Oak Park Market,Q2/2015,530814.16,72436.70999999999
+1750,Nevada,Henderson,Oak Park Market,Q3/2015,908280.45,92948.87
+1751,Nevada,Henderson,Oak Park Market,Q4/2015,339898.55,49350.5
+1752,Nevada,Reno,Optoma,Q1/2013,922831.73,97969.86
+1753,Nevada,Reno,Optoma,Q2/2013,415860.93,43554.380000000005
+1754,Nevada,Reno,Optoma,Q3/2013,370994.64,31094.26
+1755,Nevada,Reno,Optoma,Q4/2013,401721.6,43245.07
+1756,Nevada,Reno,Optoma,Q1/2014,336609.81,43221.770000000004
+1757,Nevada,Reno,Optoma,Q2/2014,343586.36,39609.47
+1758,Nevada,Reno,Optoma,Q3/2014,396549.77999999997,35530.159999999996
+1759,Nevada,Reno,Optoma,Q4/2014,445556.91,53477.92999999999
+1760,Nevada,Reno,Optoma,Q1/2015,291973.87,48825.39
+1761,Nevada,Reno,Optoma,Q2/2015,517280.81,73981.91
+1762,Nevada,Reno,Optoma,Q3/2015,511842.1,84431.29000000001
+1763,Nevada,Reno,Optoma,Q4/2015,431215.25,44470.56
+1764,Nevada,Henderson,Como Lake Department Store,Q1/2013,377755.95999999996,35460.18
+1765,Nevada,Henderson,Como Lake Department Store,Q2/2013,274949.95,25986.68
+1766,Nevada,Henderson,Como Lake Department Store,Q3/2013,257703.38,28132.5
+1767,Nevada,Henderson,Como Lake Department Store,Q4/2013,299303.76,32100.350000000002
+1768,Nevada,Henderson,Como Lake Department Store,Q1/2014,692091.32,57787.06
+1769,Nevada,Henderson,Como Lake Department Store,Q2/2014,220060.71000000002,22772.59
+1770,Nevada,Henderson,Como Lake Department Store,Q3/2014,380673.44,45008.39
+1771,Nevada,Henderson,Como Lake Department Store,Q4/2014,402796.28,54320.3
+1772,Nevada,Henderson,Como Lake Department Store,Q1/2015,200290.52000000002,32170.71
+1773,Nevada,Henderson,Como Lake Department Store,Q2/2015,1185358.99,123903.95000000001
+1774,Nevada,Henderson,Como Lake Department Store,Q3/2015,261332.86000000002,41498.43000000001
+1775,Nevada,Henderson,Como Lake Department Store,Q4/2015,111338.27,17421.65
+1776,Nevada,Reno,Kirby Foods,Q1/2013,570301.96,66423.19
+1777,Nevada,Reno,Kirby Foods,Q2/2013,191303.34000000003,25312.309999999998
+1778,Nevada,Reno,Kirby Foods,Q3/2013,301191.86,33637.69
+1779,Nevada,Reno,Kirby Foods,Q4/2013,314071.27,48704.33
+1780,Nevada,Reno,Kirby Foods,Q1/2014,348532.79000000004,40114.18
+1781,Nevada,Reno,Kirby Foods,Q2/2014,499609.93999999994,53517.170000000006
+1782,Nevada,Reno,Kirby Foods,Q3/2014,449004.22000000003,40527.369999999995
+1783,Nevada,Reno,Kirby Foods,Q4/2014,417012.22,52753.53
+1784,Nevada,Reno,Kirby Foods,Q1/2015,795910.45,112335.81
+1785,Nevada,Reno,Kirby Foods,Q2/2015,276652.54000000004,27581.350000000002
+1786,Nevada,Reno,Kirby Foods,Q3/2015,464413.96,64027.119999999995
+1787,Nevada,Reno,Kirby Foods,Q4/2015,785831.65,66327.18000000001
+1788,Nevada,Reno,Metro Market,Q1/2013,483731.51,55361.47
+1789,Nevada,Reno,Metro Market,Q2/2013,282967.77,29213.38
+1790,Nevada,Reno,Metro Market,Q3/2013,81244.45999999999,6836.27
+1791,Nevada,Reno,Metro Market,Q4/2013,205520.66999999998,22456.17
+1792,Nevada,Reno,Metro Market,Q1/2014,0.0,0.0
+1793,Nevada,Reno,Metro Market,Q2/2014,0.0,0.0
+1794,Nevada,Reno,Metro Market,Q3/2014,0.0,0.0
+1795,Nevada,Reno,Metro Market,Q4/2014,482650.32,57050.520000000004
+1796,Nevada,Reno,Metro Market,Q1/2015,145578.85,20356.879999999997
+1797,Nevada,Reno,Metro Market,Q2/2015,260111.9,36132.380000000005
+1798,Nevada,Reno,Metro Market,Q3/2015,807726.05,101927.93
+1799,Nevada,Reno,Metro Market,Q4/2015,308340.19,36527.29
+1800,Nevada,Las Vegas,Michaels,Q1/2013,579275.22,60639.590000000004
+1801,Nevada,Las Vegas,Michaels,Q2/2013,380858.83999999997,45887.409999999996
+1802,Nevada,Las Vegas,Michaels,Q3/2013,607347.31,59162.28
+1803,Nevada,Las Vegas,Michaels,Q4/2013,549732.65,57437.05
+1804,Nevada,Las Vegas,Michaels,Q1/2014,218259.03000000003,25476.980000000003
+1805,Nevada,Las Vegas,Michaels,Q2/2014,163401.86,16077.98
+1806,Nevada,Las Vegas,Michaels,Q3/2014,355373.79000000004,34427.61
+1807,Nevada,Las Vegas,Michaels,Q4/2014,338857.62,70675.79999999999
+1808,Nevada,Las Vegas,Michaels,Q1/2015,224268.99,30644.739999999998
+1809,Nevada,Las Vegas,Michaels,Q2/2015,580320.8,58161.490000000005
+1810,Nevada,Las Vegas,Michaels,Q3/2015,389213.37,41654.27
+1811,Nevada,Las Vegas,Michaels,Q4/2015,298056.07,37151.19
+1812,Nevada,Las Vegas,Grow Grocery,Q1/2013,375900.06,49106.21
+1813,Nevada,Las Vegas,Grow Grocery,Q2/2013,677245.76,46554.31
+1814,Nevada,Las Vegas,Grow Grocery,Q3/2013,219324.35,36712.04
+1815,Nevada,Las Vegas,Grow Grocery,Q4/2013,288153.38,35671.33
+1816,Nevada,Las Vegas,Grow Grocery,Q1/2014,96803.39,14009.06
+1817,Nevada,Las Vegas,Grow Grocery,Q2/2014,500105.72000000003,39806.22
+1818,Nevada,Las Vegas,Grow Grocery,Q3/2014,523258.51,52458.71000000001
+1819,Nevada,Las Vegas,Grow Grocery,Q4/2014,418036.31000000006,73767.06
+1820,Nevada,Las Vegas,Grow Grocery,Q1/2015,542209.79,74946.02
+1821,Nevada,Las Vegas,Grow Grocery,Q2/2015,530814.16,64886.869999999995
+1822,Nevada,Las Vegas,Grow Grocery,Q3/2015,908280.45,101829.29999999999
+1823,Nevada,Las Vegas,Grow Grocery,Q4/2015,339898.55,55104.90000000001
+1824,Nevada,Reno,Melanies Corner Store,Q1/2013,922831.73,121613.37
+1825,Nevada,Reno,Melanies Corner Store,Q2/2013,415860.93,45893.06
+1826,Nevada,Reno,Melanies Corner Store,Q3/2013,370994.64,30627.940000000002
+1827,Nevada,Reno,Melanies Corner Store,Q4/2013,401721.6,41410.57
+1828,Nevada,Reno,Melanies Corner Store,Q1/2014,336609.81,42141.53999999999
+1829,Nevada,Reno,Melanies Corner Store,Q2/2014,343586.36,40697.92
+1830,Nevada,Reno,Melanies Corner Store,Q3/2014,396549.77999999997,35481.67
+1831,Nevada,Reno,Melanies Corner Store,Q4/2014,445556.91,49998.25
+1832,Nevada,Reno,Melanies Corner Store,Q1/2015,291973.87,48684.009999999995
+1833,Nevada,Reno,Melanies Corner Store,Q2/2015,517280.81,68877.23999999999
+1834,Nevada,Reno,Melanies Corner Store,Q3/2015,511842.1,79544.61
+1835,Nevada,Reno,Melanies Corner Store,Q4/2015,431215.25,52168.55
+1836,Nevada,Las Vegas,Rosa Foods,Q1/2013,377755.95999999996,43515.67999999999
+1837,Nevada,Las Vegas,Rosa Foods,Q2/2013,274949.95,22494.510000000002
+1838,Nevada,Las Vegas,Rosa Foods,Q3/2013,257703.38,33886.100000000006
+1839,Nevada,Las Vegas,Rosa Foods,Q4/2013,299303.76,36668.96
+1840,Nevada,Las Vegas,Rosa Foods,Q1/2014,692091.32,69898.65
+1841,Nevada,Las Vegas,Rosa Foods,Q2/2014,220060.71000000002,21670.87
+1842,Nevada,Las Vegas,Rosa Foods,Q3/2014,380673.44,45280.350000000006
+1843,Nevada,Las Vegas,Rosa Foods,Q4/2014,402796.28,50513.93
+1844,Nevada,Las Vegas,Rosa Foods,Q1/2015,200290.52000000002,31268.270000000004
+1845,Nevada,Las Vegas,Rosa Foods,Q2/2015,1185358.99,92131.82
+1846,Nevada,Las Vegas,Rosa Foods,Q3/2015,261332.86000000002,40170.130000000005
+1847,Nevada,Las Vegas,Rosa Foods,Q4/2015,111338.27,17769.65
+1848,Nevada,Reno,James & Sons,Q1/2013,570301.96,63947.66999999999
+1849,Nevada,Reno,James & Sons,Q2/2013,191303.34000000003,25220.800000000003
+1850,Nevada,Reno,James & Sons,Q3/2013,301191.86,34377.1
+1851,Nevada,Reno,James & Sons,Q4/2013,314071.27,42736.23
+1852,Nevada,Reno,James & Sons,Q1/2014,348532.79000000004,35634.51
+1853,Nevada,Reno,James & Sons,Q2/2014,499609.93999999994,46432.44
+1854,Nevada,Reno,James & Sons,Q3/2014,449004.22000000003,37976.75
+1855,Nevada,Reno,James & Sons,Q4/2014,417012.22,58239.76000000001
+1856,Nevada,Reno,James & Sons,Q1/2015,795910.45,94654.75
+1857,Nevada,Reno,James & Sons,Q2/2015,276652.54000000004,27166.120000000003
+1858,Nevada,Reno,James & Sons,Q3/2015,464413.96,57328.399999999994
+1859,Nevada,Reno,James & Sons,Q4/2015,785831.65,103163.45000000001
+1860,Nevada,Reno,Macks Market,Q1/2013,483731.51,58418.15
+1861,Nevada,Reno,Macks Market,Q2/2013,282967.77,32323.97
+1862,Nevada,Reno,Macks Market,Q3/2013,81244.45999999999,7746.9400000000005
+1863,Nevada,Reno,Macks Market,Q4/2013,205520.66999999998,26207.949999999997
+1864,Nevada,Reno,Macks Market,Q1/2014,0.0,0.0
+1865,Nevada,Reno,Macks Market,Q2/2014,0.0,0.0
+1866,Nevada,Reno,Macks Market,Q3/2014,0.0,0.0
+1867,Nevada,Reno,Macks Market,Q4/2014,482650.32,74518.5
+1868,Nevada,Reno,Macks Market,Q1/2015,145578.85,22018.35
+1869,Nevada,Reno,Macks Market,Q2/2015,260111.9,29665.89
+1870,Nevada,Reno,Macks Market,Q3/2015,807726.05,92831.25
+1871,Nevada,Reno,Macks Market,Q4/2015,308340.19,46011.28
+1872,Nevada,Las Vegas,B & D Store,Q1/2013,579275.22,55337.09
+1873,Nevada,Las Vegas,B & D Store,Q2/2013,380858.83999999997,44645.689999999995
+1874,Nevada,Las Vegas,B & D Store,Q3/2013,607347.31,67381.9
+1875,Nevada,Las Vegas,B & D Store,Q4/2013,549732.65,53044.78
+1876,Nevada,Las Vegas,B & D Store,Q1/2014,218259.03000000003,21507.54
+1877,Nevada,Las Vegas,B & D Store,Q2/2014,163401.86,17429.67
+1878,Nevada,Las Vegas,B & D Store,Q3/2014,355373.79000000004,36174.42
+1879,Nevada,Las Vegas,B & D Store,Q4/2014,338857.62,76923.43
+1880,Nevada,Las Vegas,B & D Store,Q1/2015,224268.99,36351.09
+1881,Nevada,Las Vegas,B & D Store,Q2/2015,580320.8,69992.55
+1882,Nevada,Las Vegas,B & D Store,Q3/2015,389213.37,37190.66
+1883,Nevada,Las Vegas,B & D Store,Q4/2015,298056.07,31123.75
+1884,Nevada,Las Vegas,Convenience Plus,Q1/2013,375900.06,42399.36
+1885,Nevada,Las Vegas,Convenience Plus,Q2/2013,677245.76,48219.770000000004
+1886,Nevada,Las Vegas,Convenience Plus,Q3/2013,219324.35,35823.090000000004
+1887,Nevada,Las Vegas,Convenience Plus,Q4/2013,288153.38,35732.06
+1888,Nevada,Las Vegas,Convenience Plus,Q1/2014,96803.39,13232.64
+1889,Nevada,Las Vegas,Convenience Plus,Q2/2014,500105.72000000003,36807.22
+1890,Nevada,Las Vegas,Convenience Plus,Q3/2014,523258.51,48794.58
+1891,Nevada,Las Vegas,Convenience Plus,Q4/2014,418036.31000000006,67616.53
+1892,Nevada,Las Vegas,Convenience Plus,Q1/2015,542209.79,73038.6
+1893,Nevada,Las Vegas,Convenience Plus,Q2/2015,530814.16,66988.86
+1894,Nevada,Las Vegas,Convenience Plus,Q3/2015,908280.45,72054.51999999999
+1895,Nevada,Las Vegas,Convenience Plus,Q4/2015,339898.55,54511.55
+1896,Nevada,Reno,Gaston Mart,Q1/2013,922831.73,95090.0
+1897,Nevada,Reno,Gaston Mart,Q2/2013,415860.93,50968.65
+1898,Nevada,Reno,Gaston Mart,Q3/2013,370994.64,36680.399999999994
+1899,Nevada,Reno,Gaston Mart,Q4/2013,401721.6,50133.14
+1900,Nevada,Reno,Gaston Mart,Q1/2014,336609.81,48353.83
+1901,Nevada,Reno,Gaston Mart,Q2/2014,343586.36,42380.22
+1902,Nevada,Reno,Gaston Mart,Q3/2014,396549.77999999997,37933.08
+1903,Nevada,Reno,Gaston Mart,Q4/2014,445556.91,59045.70999999999
+1904,Nevada,Reno,Gaston Mart,Q1/2015,291973.87,48153.5
+1905,Nevada,Reno,Gaston Mart,Q2/2015,517280.81,57923.27
+1906,Nevada,Reno,Gaston Mart,Q3/2015,511842.1,64620.55
+1907,Nevada,Reno,Gaston Mart,Q4/2015,431215.25,49605.53
+1908,Nevada,Las Vegas,lake Anna Market,Q1/2013,377755.95999999996,40035.90999999999
+1909,Nevada,Las Vegas,lake Anna Market,Q2/2013,274949.95,23038.24
+1910,Nevada,Las Vegas,lake Anna Market,Q3/2013,257703.38,26376.83
+1911,Nevada,Las Vegas,lake Anna Market,Q4/2013,299303.76,35362.19
+1912,Nevada,Las Vegas,lake Anna Market,Q1/2014,692091.32,68264.38
+1913,Nevada,Las Vegas,lake Anna Market,Q2/2014,220060.71000000002,23353.629999999997
+1914,Nevada,Las Vegas,lake Anna Market,Q3/2014,380673.44,41063.8
+1915,Nevada,Las Vegas,lake Anna Market,Q4/2014,402796.28,57456.85
+1916,Nevada,Las Vegas,lake Anna Market,Q1/2015,200290.52000000002,27537.57
+1917,Nevada,Las Vegas,lake Anna Market,Q2/2015,1185358.99,106857.7
+1918,Nevada,Las Vegas,lake Anna Market,Q3/2015,261332.86000000002,39660.56
+1919,Nevada,Las Vegas,lake Anna Market,Q4/2015,111338.27,17210.410000000003
+1920,Nevada,Reno,Swensens Market,Q1/2013,570301.96,72091.32
+1921,Nevada,Reno,Swensens Market,Q2/2013,191303.34000000003,25465.33
+1922,Nevada,Reno,Swensens Market,Q3/2013,301191.86,39614.23
+1923,Nevada,Reno,Swensens Market,Q4/2013,314071.27,51409.11
+1924,Nevada,Reno,Swensens Market,Q1/2014,348532.79000000004,41480.43
+1925,Nevada,Reno,Swensens Market,Q2/2014,499609.93999999994,50138.08
+1926,Nevada,Reno,Swensens Market,Q3/2014,449004.22000000003,44164.28
+1927,Nevada,Reno,Swensens Market,Q4/2014,417012.22,57804.649999999994
+1928,Nevada,Reno,Swensens Market,Q1/2015,795910.45,112417.88999999998
+1929,Nevada,Reno,Swensens Market,Q2/2015,276652.54000000004,36003.35
+1930,Nevada,Reno,Swensens Market,Q3/2015,464413.96,62464.299999999996
+1931,Nevada,Reno,Swensens Market,Q4/2015,785831.65,63709.100000000006
+1932,Nevada,Reno,Wild by Nature,Q1/2013,483731.51,67652.82
+1933,Nevada,Reno,Wild by Nature,Q2/2013,282967.77,33119.490000000005
+1934,Nevada,Reno,Wild by Nature,Q3/2013,81244.45999999999,6655.07
+1935,Nevada,Reno,Wild by Nature,Q4/2013,205520.66999999998,22748.19
+1936,Nevada,Reno,Wild by Nature,Q1/2014,0.0,0.0
+1937,Nevada,Reno,Wild by Nature,Q2/2014,0.0,0.0
+1938,Nevada,Reno,Wild by Nature,Q3/2014,0.0,0.0
+1939,Nevada,Reno,Wild by Nature,Q4/2014,482650.32,46080.12
+1940,Nevada,Reno,Wild by Nature,Q1/2015,145578.85,21629.24
+1941,Nevada,Reno,Wild by Nature,Q2/2015,260111.9,34429.82
+1942,Nevada,Reno,Wild by Nature,Q3/2015,807726.05,80848.42
+1943,Nevada,Reno,Wild by Nature,Q4/2015,308340.19,35711.21
+1944,Nevada,Las Vegas,Gordon Foods,Q1/2013,579275.22,54186.689999999995
+1945,Nevada,Las Vegas,Gordon Foods,Q2/2013,380858.83999999997,46210.28
+1946,Nevada,Las Vegas,Gordon Foods,Q3/2013,607347.31,61118.200000000004
+1947,Nevada,Las Vegas,Gordon Foods,Q4/2013,549732.65,58459.520000000004
+1948,Nevada,Las Vegas,Gordon Foods,Q1/2014,218259.03000000003,20094.83
+1949,Nevada,Las Vegas,Gordon Foods,Q2/2014,163401.86,17690.039999999997
+1950,Nevada,Las Vegas,Gordon Foods,Q3/2014,355373.79000000004,28314.7
+1951,Nevada,Las Vegas,Gordon Foods,Q4/2014,338857.62,64536.86
+1952,Nevada,Las Vegas,Gordon Foods,Q1/2015,224268.99,32113.250000000004
+1953,Nevada,Las Vegas,Gordon Foods,Q2/2015,580320.8,54354.62
+1954,Nevada,Las Vegas,Gordon Foods,Q3/2015,389213.37,43616.229999999996
+1955,Nevada,Las Vegas,Gordon Foods,Q4/2015,298056.07,37095.96
+1956,Nevada,Las Vegas,Rogers Foodland,Q1/2013,375900.06,53451.56
+1957,Nevada,Las Vegas,Rogers Foodland,Q2/2013,677245.76,53547.369999999995
+1958,Nevada,Las Vegas,Rogers Foodland,Q3/2013,219324.35,34070.93000000001
+1959,Nevada,Las Vegas,Rogers Foodland,Q4/2013,288153.38,40699.89
+1960,Nevada,Las Vegas,Rogers Foodland,Q1/2014,96803.39,14393.29
+1961,Nevada,Las Vegas,Rogers Foodland,Q2/2014,500105.72000000003,40663.409999999996
+1962,Nevada,Las Vegas,Rogers Foodland,Q3/2014,523258.51,57696.89
+1963,Nevada,Las Vegas,Rogers Foodland,Q4/2014,418036.31000000006,65901.97
+1964,Nevada,Las Vegas,Rogers Foodland,Q1/2015,542209.79,60409.53
+1965,Nevada,Las Vegas,Rogers Foodland,Q2/2015,530814.16,60217.840000000004
+1966,Nevada,Las Vegas,Rogers Foodland,Q3/2015,908280.45,90530.73
+1967,Nevada,Las Vegas,Rogers Foodland,Q4/2015,339898.55,53735.259999999995
+1968,Oregon,Eugene,24-Seven,Q1/2013,194374.79,31290.14
+1969,Oregon,Eugene,24-Seven,Q2/2013,263488.02999999997,39951.689999999995
+1970,Oregon,Eugene,24-Seven,Q3/2013,671416.61,42151.07
+1971,Oregon,Eugene,24-Seven,Q4/2013,189411.46999999997,29318.370000000003
+1972,Oregon,Eugene,24-Seven,Q1/2014,598967.6599999999,62504.2
+1973,Oregon,Eugene,24-Seven,Q2/2014,106353.4,16277.0
+1974,Oregon,Eugene,24-Seven,Q3/2014,180936.5,31300.690000000002
+1975,Oregon,Eugene,24-Seven,Q4/2014,431033.31,70490.19
+1976,Oregon,Eugene,24-Seven,Q1/2015,420273.14,79181.62
+1977,Oregon,Eugene,24-Seven,Q2/2015,276402.98,55273.5
+1978,Oregon,Eugene,24-Seven,Q3/2015,489305.67,88813.98
+1979,Oregon,Eugene,24-Seven,Q4/2015,287902.64,56473.740000000005
+1980,Oregon,Salem,Euro Mart,Q1/2013,341472.86,45426.49
+1981,Oregon,Salem,Euro Mart,Q2/2013,374979.68,54783.86
+1982,Oregon,Salem,Euro Mart,Q3/2013,245713.78999999998,50131.68
+1983,Oregon,Salem,Euro Mart,Q4/2013,327884.19,71128.94
+1984,Oregon,Salem,Euro Mart,Q1/2014,285928.49,46273.72
+1985,Oregon,Salem,Euro Mart,Q2/2014,183704.26,26316.75
+1986,Oregon,Salem,Euro Mart,Q3/2014,253202.03999999998,45055.56
+1987,Oregon,Salem,Euro Mart,Q4/2014,481246.92,73580.86
+1988,Oregon,Salem,Euro Mart,Q1/2015,129640.25,30811.28
+1989,Oregon,Salem,Euro Mart,Q2/2015,331510.71,60171.38
+1990,Oregon,Salem,Euro Mart,Q3/2015,578468.1699999999,117028.73999999999
+1991,Oregon,Salem,Euro Mart,Q4/2015,145682.13999999998,25931.82
+1992,Oregon,Eugene,Chuckles,Q1/2013,194374.79,33571.31
+1993,Oregon,Eugene,Chuckles,Q2/2013,263488.02999999997,35331.34
+1994,Oregon,Eugene,Chuckles,Q3/2013,671416.61,56922.33
+1995,Oregon,Eugene,Chuckles,Q4/2013,189411.46999999997,29923.229999999996
+1996,Oregon,Eugene,Chuckles,Q1/2014,598967.6599999999,62278.89
+1997,Oregon,Eugene,Chuckles,Q2/2014,106353.4,15072.09
+1998,Oregon,Eugene,Chuckles,Q3/2014,180936.5,31527.56
+1999,Oregon,Eugene,Chuckles,Q4/2014,431033.31,75899.01000000001
+2000,Oregon,Eugene,Chuckles,Q1/2015,420273.14,61649.44
+2001,Oregon,Eugene,Chuckles,Q2/2015,276402.98,52097.8
+2002,Oregon,Eugene,Chuckles,Q3/2015,489305.67,97111.48999999999
+2003,Oregon,Eugene,Chuckles,Q4/2015,287902.64,66144.89
+2004,Oregon,Salem,Marine Market,Q1/2013,341472.86,45011.87
+2005,Oregon,Salem,Marine Market,Q2/2013,374979.68,42346.29
+2006,Oregon,Salem,Marine Market,Q3/2013,245713.78999999998,43228.7
+2007,Oregon,Salem,Marine Market,Q4/2013,327884.19,72959.51000000001
+2008,Oregon,Salem,Marine Market,Q1/2014,285928.49,36532.509999999995
+2009,Oregon,Salem,Marine Market,Q2/2014,183704.26,30883.99
+2010,Oregon,Salem,Marine Market,Q3/2014,253202.03999999998,37574.85
+2011,Oregon,Salem,Marine Market,Q4/2014,481246.92,66346.8
+2012,Oregon,Salem,Marine Market,Q1/2015,129640.25,27191.41
+2013,Oregon,Salem,Marine Market,Q2/2015,331510.71,65220.6
+2014,Oregon,Salem,Marine Market,Q3/2015,578468.1699999999,118238.29000000001
+2015,Oregon,Salem,Marine Market,Q4/2015,145682.13999999998,25933.6
+2016,Oregon,Eugene,Farlos,Q1/2013,194374.79,33004.68
+2017,Oregon,Eugene,Farlos,Q2/2013,263488.02999999997,35376.759999999995
+2018,Oregon,Eugene,Farlos,Q3/2013,671416.61,90306.93
+2019,Oregon,Eugene,Farlos,Q4/2013,189411.46999999997,31140.740000000005
+2020,Oregon,Eugene,Farlos,Q1/2014,598967.6599999999,66326.19
+2021,Oregon,Eugene,Farlos,Q2/2014,106353.4,14543.779999999999
+2022,Oregon,Eugene,Farlos,Q3/2014,180936.5,31979.81
+2023,Oregon,Eugene,Farlos,Q4/2014,431033.31,78000.73
+2024,Oregon,Eugene,Farlos,Q1/2015,420273.14,63170.35
+2025,Oregon,Eugene,Farlos,Q2/2015,276402.98,54395.16
+2026,Oregon,Eugene,Farlos,Q3/2015,489305.67,84922.17
+2027,Oregon,Eugene,Farlos,Q4/2015,287902.64,64501.6
+2028,Oregon,Gresham,Stove Market,Q1/2013,341472.86,45018.77
+2029,Oregon,Gresham,Stove Market,Q2/2013,374979.68,53298.759999999995
+2030,Oregon,Gresham,Stove Market,Q3/2013,245713.78999999998,47316.75
+2031,Oregon,Gresham,Stove Market,Q4/2013,327884.19,67633.82
+2032,Oregon,Gresham,Stove Market,Q1/2014,285928.49,43088.14
+2033,Oregon,Gresham,Stove Market,Q2/2014,183704.26,31889.71
+2034,Oregon,Gresham,Stove Market,Q3/2014,253202.03999999998,44203.05
+2035,Oregon,Gresham,Stove Market,Q4/2014,481246.92,68022.73000000001
+2036,Oregon,Gresham,Stove Market,Q1/2015,129640.25,29419.260000000002
+2037,Oregon,Gresham,Stove Market,Q2/2015,331510.71,68180.22
+2038,Oregon,Gresham,Stove Market,Q3/2015,578468.1699999999,103681.38
+2039,Oregon,Gresham,Stove Market,Q4/2015,145682.13999999998,28291.620000000003
+2040,Oregon,Hillsboro,Gorettis,Q1/2013,194374.79,32014.289999999997
+2041,Oregon,Hillsboro,Gorettis,Q2/2013,263488.02999999997,35405.83
+2042,Oregon,Hillsboro,Gorettis,Q3/2013,671416.61,52354.37
+2043,Oregon,Hillsboro,Gorettis,Q4/2013,189411.46999999997,31236.230000000003
+2044,Oregon,Hillsboro,Gorettis,Q1/2014,598967.6599999999,69049.58
+2045,Oregon,Hillsboro,Gorettis,Q2/2014,106353.4,16237.59
+2046,Oregon,Hillsboro,Gorettis,Q3/2014,180936.5,33336.1
+2047,Oregon,Hillsboro,Gorettis,Q4/2014,431033.31,68458.37
+2048,Oregon,Hillsboro,Gorettis,Q1/2015,420273.14,69755.08
+2049,Oregon,Hillsboro,Gorettis,Q2/2015,276402.98,47188.95
+2050,Oregon,Hillsboro,Gorettis,Q3/2015,489305.67,89393.78
+2051,Oregon,Hillsboro,Gorettis,Q4/2015,287902.64,59869.490000000005
+2052,Oregon,Beaverton,Nice N Easy Grocery Shop,Q1/2013,341472.86,51872.079999999994
+2053,Oregon,Beaverton,Nice N Easy Grocery Shop,Q2/2013,374979.68,52340.149999999994
+2054,Oregon,Beaverton,Nice N Easy Grocery Shop,Q3/2013,245713.78999999998,43467.68000000001
+2055,Oregon,Beaverton,Nice N Easy Grocery Shop,Q4/2013,327884.19,76905.59
+2056,Oregon,Beaverton,Nice N Easy Grocery Shop,Q1/2014,285928.49,34260.549999999996
+2057,Oregon,Beaverton,Nice N Easy Grocery Shop,Q2/2014,183704.26,25791.210000000003
+2058,Oregon,Beaverton,Nice N Easy Grocery Shop,Q3/2014,253202.03999999998,42163.44
+2059,Oregon,Beaverton,Nice N Easy Grocery Shop,Q4/2014,481246.92,81297.73999999999
+2060,Oregon,Beaverton,Nice N Easy Grocery Shop,Q1/2015,129640.25,27291.48
+2061,Oregon,Beaverton,Nice N Easy Grocery Shop,Q2/2015,331510.71,65070.869999999995
+2062,Oregon,Beaverton,Nice N Easy Grocery Shop,Q3/2015,578468.1699999999,128864.86
+2063,Oregon,Beaverton,Nice N Easy Grocery Shop,Q4/2015,145682.13999999998,26773.29
+2064,Oregon,Eugene,Bocage Market,Q1/2013,303706.13,51155.83
+2065,Oregon,Eugene,Bocage Market,Q2/2013,540639.72,83855.29
+2066,Oregon,Eugene,Bocage Market,Q3/2013,351642.63,51836.77
+2067,Oregon,Eugene,Bocage Market,Q4/2013,534189.05,115026.58000000002
+2068,Oregon,Eugene,Bocage Market,Q1/2014,116945.33000000002,19540.39
+2069,Oregon,Eugene,Bocage Market,Q2/2014,275934.38,34579.229999999996
+2070,Oregon,Eugene,Bocage Market,Q3/2014,467038.06,74751.26
+2071,Oregon,Eugene,Bocage Market,Q4/2014,497456.92,75860.75
+2072,Oregon,Eugene,Bocage Market,Q1/2015,407675.32,64467.520000000004
+2073,Oregon,Eugene,Bocage Market,Q2/2015,267110.25,44480.310000000005
+2074,Oregon,Eugene,Bocage Market,Q3/2015,549295.8899999999,79629.22
+2075,Oregon,Eugene,Bocage Market,Q4/2015,265868.52,46862.8
+2076,Oregon,Portland,Gstore,Q1/2013,430823.92000000004,79594.47999999998
+2077,Oregon,Portland,Gstore,Q2/2013,209832.83,33653.65
+2078,Oregon,Portland,Gstore,Q3/2013,190824.01,30099.4
+2079,Oregon,Portland,Gstore,Q4/2013,219304.69,39935.25
+2080,Oregon,Portland,Gstore,Q1/2014,328107.03,68046.45
+2081,Oregon,Portland,Gstore,Q2/2014,526229.53,64270.26
+2082,Oregon,Portland,Gstore,Q3/2014,1635470.86,309383.08999999997
+2083,Oregon,Portland,Gstore,Q4/2014,307787.51,59365.020000000004
+2084,Oregon,Portland,Gstore,Q1/2015,417674.94999999995,87759.81
+2085,Oregon,Portland,Gstore,Q2/2015,329000.29000000004,72570.97
+2086,Oregon,Portland,Gstore,Q3/2015,546223.38,84065.79999999999
+2087,Oregon,Portland,Gstore,Q4/2015,357961.64,83741.67
+2088,Oregon,Portland,PriceLow Clothing,Q1/2013,439587.28,79862.44
+2089,Oregon,Portland,PriceLow Clothing,Q2/2013,458927.38,82428.9
+2090,Oregon,Portland,PriceLow Clothing,Q3/2013,437947.47000000003,61790.549999999996
+2091,Oregon,Portland,PriceLow Clothing,Q4/2013,222533.12,48122.979999999996
+2092,Oregon,Portland,PriceLow Clothing,Q1/2014,172869.06,28005.67
+2093,Oregon,Portland,PriceLow Clothing,Q2/2014,256725.27,26714.649999999998
+2094,Oregon,Portland,PriceLow Clothing,Q3/2014,451632.14,78244.18
+2095,Oregon,Portland,PriceLow Clothing,Q4/2014,418547.32,66054.09999999999
+2096,Oregon,Portland,PriceLow Clothing,Q1/2015,894580.6200000001,169452.68
+2097,Oregon,Portland,PriceLow Clothing,Q2/2015,286641.12,56935.52
+2098,Oregon,Portland,PriceLow Clothing,Q3/2015,375953.27,67713.5
+2099,Oregon,Portland,PriceLow Clothing,Q4/2015,359261.81,62552.399999999994
+2100,Oregon,Salem,Vista Foods,Q1/2013,619568.03,104848.09
+2101,Oregon,Salem,Vista Foods,Q2/2013,462532.08,62522.9
+2102,Oregon,Salem,Vista Foods,Q3/2013,152684.13,34408.21
+2103,Oregon,Salem,Vista Foods,Q4/2013,846348.6799999999,146811.02
+2104,Oregon,Salem,Vista Foods,Q1/2014,399764.12,79139.42
+2105,Oregon,Salem,Vista Foods,Q2/2014,672463.27,107891.19
+2106,Oregon,Salem,Vista Foods,Q3/2014,699338.3700000001,96260.94
+2107,Oregon,Salem,Vista Foods,Q4/2014,487209.13,88608.85
+2108,Oregon,Salem,Vista Foods,Q1/2015,1053304.14,203201.31
+2109,Oregon,Salem,Vista Foods,Q2/2015,879412.7200000001,155403.94
+2110,Oregon,Salem,Vista Foods,Q3/2015,809430.49,154668.93
+2111,Oregon,Salem,Vista Foods,Q4/2015,1010720.75,161304.90000000002
+2112,Oregon,Portland,Joeys Wholesale Foods,Q1/2013,201240.2,40242.0
+2113,Oregon,Portland,Joeys Wholesale Foods,Q2/2013,322486.58,38260.67
+2114,Oregon,Portland,Joeys Wholesale Foods,Q3/2013,90859.42,18602.11
+2115,Oregon,Portland,Joeys Wholesale Foods,Q4/2013,202844.43,34423.08
+2116,Oregon,Portland,Joeys Wholesale Foods,Q1/2014,162971.82,31848.99
+2117,Oregon,Portland,Joeys Wholesale Foods,Q2/2014,658531.09,95504.88999999998
+2118,Oregon,Portland,Joeys Wholesale Foods,Q3/2014,247086.59000000003,43123.34
+2119,Oregon,Portland,Joeys Wholesale Foods,Q4/2014,294356.69,70228.66
+2120,Oregon,Portland,Joeys Wholesale Foods,Q1/2015,458892.42,70976.79999999999
+2121,Oregon,Portland,Joeys Wholesale Foods,Q2/2015,593714.3200000001,76903.38
+2122,Oregon,Portland,Joeys Wholesale Foods,Q3/2015,206900.79,41450.200000000004
+2123,Oregon,Portland,Joeys Wholesale Foods,Q4/2015,386143.74,58094.94
+2124,Oregon,Salem,Quality Shopping,Q1/2013,940976.5900000001,187878.64
+2125,Oregon,Salem,Quality Shopping,Q2/2013,489408.87,88711.43
+2126,Oregon,Salem,Quality Shopping,Q3/2013,34348.11,7358.48
+2127,Oregon,Salem,Quality Shopping,Q4/2013,108090.0,25737.690000000002
+2128,Oregon,Salem,Quality Shopping,Q1/2014,0.0,0.0
+2129,Oregon,Salem,Quality Shopping,Q2/2014,0.0,0.0
+2130,Oregon,Salem,Quality Shopping,Q3/2014,0.0,0.0
+2131,Oregon,Salem,Quality Shopping,Q4/2014,641307.67,106392.86
+2132,Oregon,Salem,Quality Shopping,Q1/2015,674963.87,111540.1
+2133,Oregon,Salem,Quality Shopping,Q2/2015,386557.33999999997,71514.48
+2134,Oregon,Salem,Quality Shopping,Q3/2015,596480.05,96627.71
+2135,Oregon,Salem,Quality Shopping,Q4/2015,291131.69,48007.48
+2136,Oregon,Salem,Duchies ,Q1/2013,266963.32,40724.07
+2137,Oregon,Salem,Duchies ,Q2/2013,709299.63,72187.15
+2138,Oregon,Salem,Duchies ,Q3/2013,729201.7,106656.29
+2139,Oregon,Salem,Duchies ,Q4/2013,326636.32,58892.14000000001
+2140,Oregon,Salem,Duchies ,Q1/2014,422005.92000000004,50426.299999999996
+2141,Oregon,Salem,Duchies ,Q2/2014,388443.89,59567.810000000005
+2142,Oregon,Salem,Duchies ,Q3/2014,232863.02000000002,38738.24
+2143,Oregon,Salem,Duchies ,Q4/2014,379874.75,45677.78
+2144,Oregon,Salem,Duchies ,Q1/2015,611269.0599999999,81643.77
+2145,Oregon,Salem,Duchies ,Q2/2015,646796.53,118835.89
+2146,Oregon,Salem,Duchies ,Q3/2015,500682.48,96170.0
+2147,Oregon,Salem,Duchies ,Q4/2015,324805.67000000004,57400.45
+2148,Oregon,Portland,Looking Good,Q1/2013,278960.75,39035.92
+2149,Oregon,Portland,Looking Good,Q2/2013,454933.49,61374.77
+2150,Oregon,Portland,Looking Good,Q3/2013,254735.88999999998,40090.45
+2151,Oregon,Portland,Looking Good,Q4/2013,329579.44999999995,51496.67
+2152,Oregon,Portland,Looking Good,Q1/2014,139042.65,17241.37
+2153,Oregon,Portland,Looking Good,Q2/2014,62577.42,12536.25
+2154,Oregon,Portland,Looking Good,Q3/2014,282108.41,40798.130000000005
+2155,Oregon,Portland,Looking Good,Q4/2014,299437.56999999995,65260.420000000006
+2156,Oregon,Portland,Looking Good,Q1/2015,454947.30000000005,76582.28
+2157,Oregon,Portland,Looking Good,Q2/2015,213569.45,38440.08
+2158,Oregon,Portland,Looking Good,Q3/2015,465666.42,81639.96
+2159,Oregon,Portland,Looking Good,Q4/2015,382664.68999999994,63764.32
+2160,Oregon,Salem,franchescini Hand,Q1/2013,686522.67,117803.53
+2161,Oregon,Salem,franchescini Hand,Q2/2013,516487.73,86345.38
+2162,Oregon,Salem,franchescini Hand,Q3/2013,343162.31,53191.93
+2163,Oregon,Salem,franchescini Hand,Q4/2013,450165.76,84483.8
+2164,Oregon,Salem,franchescini Hand,Q1/2014,392514.02,57339.520000000004
+2165,Oregon,Salem,franchescini Hand,Q2/2014,404493.5,66507.32999999999
+2166,Oregon,Salem,franchescini Hand,Q3/2014,359633.22000000003,61898.14
+2167,Oregon,Salem,franchescini Hand,Q4/2014,620330.8300000001,123392.72000000002
+2168,Oregon,Salem,franchescini Hand,Q1/2015,489637.9,89976.35999999999
+2169,Oregon,Salem,franchescini Hand,Q2/2015,278437.17,48802.54
+2170,Oregon,Salem,franchescini Hand,Q3/2015,224280.45,33816.87
+2171,Oregon,Salem,franchescini Hand,Q4/2015,402656.19999999995,64241.18
+2172,Oregon,Salem,Anna Foods,Q1/2013,485834.23,87699.55
+2173,Oregon,Salem,Anna Foods,Q2/2013,262450.63,35638.659999999996
+2174,Oregon,Salem,Anna Foods,Q3/2013,369860.42999999993,55032.16999999999
+2175,Oregon,Salem,Anna Foods,Q4/2013,343454.95999999996,54611.53
+2176,Oregon,Salem,Anna Foods,Q1/2014,547890.8799999999,72614.19
+2177,Oregon,Salem,Anna Foods,Q2/2014,451919.45,63688.5
+2178,Oregon,Salem,Anna Foods,Q3/2014,890473.2300000002,136149.09
+2179,Oregon,Salem,Anna Foods,Q4/2014,830936.04,176742.94
+2180,Oregon,Salem,Anna Foods,Q1/2015,843568.53,136420.11
+2181,Oregon,Salem,Anna Foods,Q2/2015,1131898.0699999998,186680.05
+2182,Oregon,Salem,Anna Foods,Q3/2015,484567.32999999996,86887.06
+2183,Oregon,Salem,Anna Foods,Q4/2015,638760.48,111982.12
+2184,Oregon,Eugene,Third Hand,Q1/2013,551230.9299999999,85750.45999999999
+2185,Oregon,Eugene,Third Hand,Q2/2013,627914.6499999999,84581.75
+2186,Oregon,Eugene,Third Hand,Q3/2013,233337.52000000002,41676.76
+2187,Oregon,Eugene,Third Hand,Q4/2013,377150.3,67614.7
+2188,Oregon,Eugene,Third Hand,Q1/2014,572115.61,69149.29000000001
+2189,Oregon,Eugene,Third Hand,Q2/2014,398971.37,58106.82
+2190,Oregon,Eugene,Third Hand,Q3/2014,553136.85,89864.23999999999
+2191,Oregon,Eugene,Third Hand,Q4/2014,1628734.91,223736.05000000002
+2192,Oregon,Eugene,Third Hand,Q1/2015,385706.98000000004,70832.51
+2193,Oregon,Eugene,Third Hand,Q2/2015,532145.4800000001,111597.75
+2194,Oregon,Eugene,Third Hand,Q3/2015,414105.14,73074.46
+2195,Oregon,Eugene,Third Hand,Q4/2015,179707.2,41552.22
+2196,Oregon,Salem,White Club,Q1/2013,454525.86,63126.770000000004
+2197,Oregon,Salem,White Club,Q2/2013,134709.44999999998,21236.93
+2198,Oregon,Salem,White Club,Q3/2013,297980.59,45873.26
+2199,Oregon,Salem,White Club,Q4/2013,782504.6299999999,145551.25999999998
+2200,Oregon,Salem,White Club,Q1/2014,337066.54000000004,72015.72
+2201,Oregon,Salem,White Club,Q2/2014,105398.73,20209.88
+2202,Oregon,Salem,White Club,Q3/2014,412672.83999999997,66299.06
+2203,Oregon,Salem,White Club,Q4/2014,1419724.18,256509.97
+2204,Oregon,Salem,White Club,Q1/2015,528355.6,117175.24
+2205,Oregon,Salem,White Club,Q2/2015,444507.67,68843.36
+2206,Oregon,Salem,White Club,Q3/2015,665499.83,110053.9
+2207,Oregon,Salem,White Club,Q4/2015,420460.5,61095.990000000005
+2208,Oregon,Eugene,Meadow Mart,Q1/2013,303706.13,52460.85
+2209,Oregon,Eugene,Meadow Mart,Q2/2013,540639.72,71570.68000000001
+2210,Oregon,Eugene,Meadow Mart,Q3/2013,351642.63,50026.75
+2211,Oregon,Eugene,Meadow Mart,Q4/2013,534189.05,100419.12999999999
+2212,Oregon,Eugene,Meadow Mart,Q1/2014,116945.33000000002,20031.84
+2213,Oregon,Eugene,Meadow Mart,Q2/2014,275934.38,36349.479999999996
+2214,Oregon,Eugene,Meadow Mart,Q3/2014,467038.06,82861.6
+2215,Oregon,Eugene,Meadow Mart,Q4/2014,497456.92,85832.62
+2216,Oregon,Eugene,Meadow Mart,Q1/2015,407675.32,69941.26
+2217,Oregon,Eugene,Meadow Mart,Q2/2015,267110.25,46932.31
+2218,Oregon,Eugene,Meadow Mart,Q3/2015,549295.8899999999,101022.02000000002
+2219,Oregon,Eugene,Meadow Mart,Q4/2015,265868.52,50226.58
+2220,Oregon,Portland,Seigal,Q1/2013,430823.92000000004,84388.51999999999
+2221,Oregon,Portland,Seigal,Q2/2013,209832.83,30001.46
+2222,Oregon,Portland,Seigal,Q3/2013,190824.01,26130.409999999996
+2223,Oregon,Portland,Seigal,Q4/2013,219304.69,35481.64
+2224,Oregon,Portland,Seigal,Q1/2014,328107.03,62963.33
+2225,Oregon,Portland,Seigal,Q2/2014,526229.53,70019.87
+2226,Oregon,Portland,Seigal,Q3/2014,1635470.86,280091.6
+2227,Oregon,Portland,Seigal,Q4/2014,307787.51,62888.270000000004
+2228,Oregon,Portland,Seigal,Q1/2015,417674.94999999995,82832.94
+2229,Oregon,Portland,Seigal,Q2/2015,329000.29000000004,72038.23
+2230,Oregon,Portland,Seigal,Q3/2015,546223.38,90912.65
+2231,Oregon,Portland,Seigal,Q4/2015,357961.64,67351.79999999999
+2232,Oregon,Portland,McKenzies,Q1/2013,439587.28,80429.47
+2233,Oregon,Portland,McKenzies,Q2/2013,458927.38,73177.92
+2234,Oregon,Portland,McKenzies,Q3/2013,437947.47000000003,61248.19
+2235,Oregon,Portland,McKenzies,Q4/2013,222533.12,48607.72
+2236,Oregon,Portland,McKenzies,Q1/2014,172869.06,25418.75
+2237,Oregon,Portland,McKenzies,Q2/2014,256725.27,29139.91
+2238,Oregon,Portland,McKenzies,Q3/2014,451632.14,69121.17
+2239,Oregon,Portland,McKenzies,Q4/2014,418547.32,56649.259999999995
+2240,Oregon,Portland,McKenzies,Q1/2015,894580.6200000001,165909.05
+2241,Oregon,Portland,McKenzies,Q2/2015,286641.12,57237.79
+2242,Oregon,Portland,McKenzies,Q3/2015,375953.27,74577.53
+2243,Oregon,Portland,McKenzies,Q4/2015,359261.81,59909.03999999999
+2244,Oregon,Salem,Max,Q1/2013,619568.03,105161.9
+2245,Oregon,Salem,Max,Q2/2013,462532.08,49143.62
+2246,Oregon,Salem,Max,Q3/2013,152684.13,32173.86
+2247,Oregon,Salem,Max,Q4/2013,846348.6799999999,159512.23
+2248,Oregon,Salem,Max,Q1/2014,399764.12,75313.69
+2249,Oregon,Salem,Max,Q2/2014,672463.27,96477.78
+2250,Oregon,Salem,Max,Q3/2014,699338.3700000001,99527.48000000001
+2251,Oregon,Salem,Max,Q4/2014,487209.13,95769.12
+2252,Oregon,Salem,Max,Q1/2015,1053304.14,179243.66
+2253,Oregon,Salem,Max,Q2/2015,879412.7200000001,138263.92
+2254,Oregon,Salem,Max,Q3/2015,809430.49,150744.07
+2255,Oregon,Salem,Max,Q4/2015,1010720.75,155053.79
+2256,Oregon,Portland,Brookhaven Market,Q1/2013,201240.2,39441.87
+2257,Oregon,Portland,Brookhaven Market,Q2/2013,322486.58,38318.490000000005
+2258,Oregon,Portland,Brookhaven Market,Q3/2013,90859.42,18327.27
+2259,Oregon,Portland,Brookhaven Market,Q4/2013,202844.43,36891.9
+2260,Oregon,Portland,Brookhaven Market,Q1/2014,162971.82,35151.350000000006
+2261,Oregon,Portland,Brookhaven Market,Q2/2014,658531.09,77238.06999999999
+2262,Oregon,Portland,Brookhaven Market,Q3/2014,247086.59000000003,40402.05
+2263,Oregon,Portland,Brookhaven Market,Q4/2014,294356.69,80241.77000000002
+2264,Oregon,Portland,Brookhaven Market,Q1/2015,458892.42,81476.97
+2265,Oregon,Portland,Brookhaven Market,Q2/2015,593714.3200000001,79785.98000000001
+2266,Oregon,Portland,Brookhaven Market,Q3/2015,206900.79,41681.18
+2267,Oregon,Portland,Brookhaven Market,Q4/2015,386143.74,61943.0
+2268,Oregon,Salem,TDI Store,Q1/2013,940976.5900000001,135382.18
+2269,Oregon,Salem,TDI Store,Q2/2013,489408.87,86910.18
+2270,Oregon,Salem,TDI Store,Q3/2013,34348.11,7025.27
+2271,Oregon,Salem,TDI Store,Q4/2013,108090.0,27603.89
+2272,Oregon,Salem,TDI Store,Q1/2014,0.0,0.0
+2273,Oregon,Salem,TDI Store,Q2/2014,0.0,0.0
+2274,Oregon,Salem,TDI Store,Q3/2014,0.0,0.0
+2275,Oregon,Salem,TDI Store,Q4/2014,641307.67,110919.35
+2276,Oregon,Salem,TDI Store,Q1/2015,674963.87,109117.04999999999
+2277,Oregon,Salem,TDI Store,Q2/2015,386557.33999999997,76758.15
+2278,Oregon,Salem,TDI Store,Q3/2015,596480.05,97439.61
+2279,Oregon,Salem,TDI Store,Q4/2015,291131.69,43518.46
+2280,Oregon,Salem,County Fair Foods,Q1/2013,266963.32,43192.090000000004
+2281,Oregon,Salem,County Fair Foods,Q2/2013,709299.63,104268.69
+2282,Oregon,Salem,County Fair Foods,Q3/2013,729201.7,101483.44999999998
+2283,Oregon,Salem,County Fair Foods,Q4/2013,326636.32,50451.00000000001
+2284,Oregon,Salem,County Fair Foods,Q1/2014,422005.92000000004,61615.58
+2285,Oregon,Salem,County Fair Foods,Q2/2014,388443.89,52398.34
+2286,Oregon,Salem,County Fair Foods,Q3/2014,232863.02000000002,37849.18
+2287,Oregon,Salem,County Fair Foods,Q4/2014,379874.75,51317.5
+2288,Oregon,Salem,County Fair Foods,Q1/2015,611269.0599999999,108022.84
+2289,Oregon,Salem,County Fair Foods,Q2/2015,646796.53,98781.8
+2290,Oregon,Salem,County Fair Foods,Q3/2015,500682.48,95438.12999999999
+2291,Oregon,Salem,County Fair Foods,Q4/2015,324805.67000000004,68903.06999999999
+2292,Oregon,Portland,Gords,Q1/2013,278960.75,49974.88
+2293,Oregon,Portland,Gords,Q2/2013,454933.49,69690.45999999999
+2294,Oregon,Portland,Gords,Q3/2013,254735.88999999998,40831.55
+2295,Oregon,Portland,Gords,Q4/2013,329579.44999999995,45169.91
+2296,Oregon,Portland,Gords,Q1/2014,139042.65,20188.33
+2297,Oregon,Portland,Gords,Q2/2014,62577.42,12278.38
+2298,Oregon,Portland,Gords,Q3/2014,282108.41,44030.39
+2299,Oregon,Portland,Gords,Q4/2014,299437.56999999995,60959.549999999996
+2300,Oregon,Portland,Gords,Q1/2015,454947.30000000005,71764.29999999999
+2301,Oregon,Portland,Gords,Q2/2015,213569.45,33444.22
+2302,Oregon,Portland,Gords,Q3/2015,465666.42,85948.41
+2303,Oregon,Portland,Gords,Q4/2015,382664.68999999994,75474.20000000001
+2304,Oregon,Salem,Walter Store Inc,Q1/2013,686522.67,90661.48999999999
+2305,Oregon,Salem,Walter Store Inc,Q2/2013,516487.73,75713.31
+2306,Oregon,Salem,Walter Store Inc,Q3/2013,343162.31,60040.62999999999
+2307,Oregon,Salem,Walter Store Inc,Q4/2013,450165.76,97634.58
+2308,Oregon,Salem,Walter Store Inc,Q1/2014,392514.02,64395.05
+2309,Oregon,Salem,Walter Store Inc,Q2/2014,404493.5,59857.44
+2310,Oregon,Salem,Walter Store Inc,Q3/2014,359633.22000000003,59770.479999999996
+2311,Oregon,Salem,Walter Store Inc,Q4/2014,620330.8300000001,126545.35999999999
+2312,Oregon,Salem,Walter Store Inc,Q1/2015,489637.9,90538.06999999999
+2313,Oregon,Salem,Walter Store Inc,Q2/2015,278437.17,52867.77
+2314,Oregon,Salem,Walter Store Inc,Q3/2015,224280.45,34002.88
+2315,Oregon,Salem,Walter Store Inc,Q4/2015,402656.19999999995,70070.14
+2316,Oregon,Salem,Mainland Market,Q1/2013,485834.23,95269.83
+2317,Oregon,Salem,Mainland Market,Q2/2013,262450.63,43570.86
+2318,Oregon,Salem,Mainland Market,Q3/2013,369860.42999999993,46300.090000000004
+2319,Oregon,Salem,Mainland Market,Q4/2013,343454.95999999996,66025.78
+2320,Oregon,Salem,Mainland Market,Q1/2014,547890.8799999999,73579.16
+2321,Oregon,Salem,Mainland Market,Q2/2014,451919.45,63565.57000000001
+2322,Oregon,Salem,Mainland Market,Q3/2014,890473.2300000002,125901.37
+2323,Oregon,Salem,Mainland Market,Q4/2014,830936.04,173049.07
+2324,Oregon,Salem,Mainland Market,Q1/2015,843568.53,116026.20999999999
+2325,Oregon,Salem,Mainland Market,Q2/2015,1131898.0699999998,155685.79
+2326,Oregon,Salem,Mainland Market,Q3/2015,484567.32999999996,85484.16
+2327,Oregon,Salem,Mainland Market,Q4/2015,638760.48,113138.05
+2328,Oregon,Eugene,Holdem Supermarket,Q1/2013,551230.9299999999,92575.78
+2329,Oregon,Eugene,Holdem Supermarket,Q2/2013,627914.6499999999,97511.09
+2330,Oregon,Eugene,Holdem Supermarket,Q3/2013,233337.52000000002,39480.340000000004
+2331,Oregon,Eugene,Holdem Supermarket,Q4/2013,377150.3,56797.09
+2332,Oregon,Eugene,Holdem Supermarket,Q1/2014,572115.61,68844.33
+2333,Oregon,Eugene,Holdem Supermarket,Q2/2014,398971.37,62271.48999999999
+2334,Oregon,Eugene,Holdem Supermarket,Q3/2014,553136.85,83145.78
+2335,Oregon,Eugene,Holdem Supermarket,Q4/2014,1628734.91,250413.35
+2336,Oregon,Eugene,Holdem Supermarket,Q1/2015,385706.98000000004,70529.33
+2337,Oregon,Eugene,Holdem Supermarket,Q2/2015,532145.4800000001,102871.64
+2338,Oregon,Eugene,Holdem Supermarket,Q3/2015,414105.14,77015.03
+2339,Oregon,Eugene,Holdem Supermarket,Q4/2015,179707.2,42455.090000000004
+2340,Oregon,Salem,McMaller,Q1/2013,454525.86,64927.65
+2341,Oregon,Salem,McMaller,Q2/2013,134709.44999999998,21221.33
+2342,Oregon,Salem,McMaller,Q3/2013,297980.59,48135.62
+2343,Oregon,Salem,McMaller,Q4/2013,782504.6299999999,135569.91
+2344,Oregon,Salem,McMaller,Q1/2014,337066.54000000004,67795.22
+2345,Oregon,Salem,McMaller,Q2/2014,105398.73,22034.74
+2346,Oregon,Salem,McMaller,Q3/2014,412672.83999999997,76170.93000000001
+2347,Oregon,Salem,McMaller,Q4/2014,1419724.18,290189.52
+2348,Oregon,Salem,McMaller,Q1/2015,528355.6,100377.36
+2349,Oregon,Salem,McMaller,Q2/2015,444507.67,69838.81
+2350,Oregon,Salem,McMaller,Q3/2015,665499.83,96629.95000000001
+2351,Oregon,Salem,McMaller,Q4/2015,420460.5,79587.95999999999
+2352,Oregon,Eugene,PGA,Q1/2013,303706.13,47069.94
+2353,Oregon,Eugene,PGA,Q2/2013,540639.72,81393.12
+2354,Oregon,Eugene,PGA,Q3/2013,351642.63,47694.86
+2355,Oregon,Eugene,PGA,Q4/2013,534189.05,128001.01000000001
+2356,Oregon,Eugene,PGA,Q1/2014,116945.33000000002,23912.190000000002
+2357,Oregon,Eugene,PGA,Q2/2014,275934.38,34634.39
+2358,Oregon,Eugene,PGA,Q3/2014,467038.06,95930.09
+2359,Oregon,Eugene,PGA,Q4/2014,497456.92,78202.86
+2360,Oregon,Eugene,PGA,Q1/2015,407675.32,75169.34
+2361,Oregon,Eugene,PGA,Q2/2015,267110.25,45989.56
+2362,Oregon,Eugene,PGA,Q3/2015,549295.8899999999,84527.66
+2363,Oregon,Eugene,PGA,Q4/2015,265868.52,51644.65
+2364,Oregon,Portland,Renfrew Corner Store,Q1/2013,430823.92000000004,80720.96
+2365,Oregon,Portland,Renfrew Corner Store,Q2/2013,209832.83,34085.07
+2366,Oregon,Portland,Renfrew Corner Store,Q3/2013,190824.01,29957.92
+2367,Oregon,Portland,Renfrew Corner Store,Q4/2013,219304.69,38463.25
+2368,Oregon,Portland,Renfrew Corner Store,Q1/2014,328107.03,66308.47
+2369,Oregon,Portland,Renfrew Corner Store,Q2/2014,526229.53,67307.67000000001
+2370,Oregon,Portland,Renfrew Corner Store,Q3/2014,1635470.86,271779.92000000004
+2371,Oregon,Portland,Renfrew Corner Store,Q4/2014,307787.51,57422.87999999999
+2372,Oregon,Portland,Renfrew Corner Store,Q1/2015,417674.94999999995,66672.70999999999
+2373,Oregon,Portland,Renfrew Corner Store,Q2/2015,329000.29000000004,55908.06999999999
+2374,Oregon,Portland,Renfrew Corner Store,Q3/2015,546223.38,95541.31
+2375,Oregon,Portland,Renfrew Corner Store,Q4/2015,357961.64,69460.04999999999
+2376,Oregon,Portland,Crossroads,Q1/2013,439587.28,83964.54
+2377,Oregon,Portland,Crossroads,Q2/2013,458927.38,84105.95999999999
+2378,Oregon,Portland,Crossroads,Q3/2013,437947.47000000003,71969.01999999999
+2379,Oregon,Portland,Crossroads,Q4/2013,222533.12,45928.93999999999
+2380,Oregon,Portland,Crossroads,Q1/2014,172869.06,29687.09
+2381,Oregon,Portland,Crossroads,Q2/2014,256725.27,29959.8
+2382,Oregon,Portland,Crossroads,Q3/2014,451632.14,71681.27000000002
+2383,Oregon,Portland,Crossroads,Q4/2014,418547.32,57891.880000000005
+2384,Oregon,Portland,Crossroads,Q1/2015,894580.6200000001,174479.38
+2385,Oregon,Portland,Crossroads,Q2/2015,286641.12,56170.57
+2386,Oregon,Portland,Crossroads,Q3/2015,375953.27,69388.31999999999
+2387,Oregon,Portland,Crossroads,Q4/2015,359261.81,62704.380000000005
+2388,Oregon,Gresham,Thrifties,Q1/2013,619568.03,100848.5
+2389,Oregon,Gresham,Thrifties,Q2/2013,462532.08,59390.17
+2390,Oregon,Gresham,Thrifties,Q3/2013,152684.13,35600.11
+2391,Oregon,Gresham,Thrifties,Q4/2013,846348.6799999999,167527.85000000003
+2392,Oregon,Gresham,Thrifties,Q1/2014,399764.12,83587.22
+2393,Oregon,Gresham,Thrifties,Q2/2014,672463.27,75184.4
+2394,Oregon,Gresham,Thrifties,Q3/2014,699338.3700000001,109872.72
+2395,Oregon,Gresham,Thrifties,Q4/2014,487209.13,98027.31
+2396,Oregon,Gresham,Thrifties,Q1/2015,1053304.14,193548.32
+2397,Oregon,Gresham,Thrifties,Q2/2015,879412.7200000001,145182.47999999998
+2398,Oregon,Gresham,Thrifties,Q3/2015,809430.49,138708.21
+2399,Oregon,Gresham,Thrifties,Q4/2015,1010720.75,180957.52
+2400,Oregon,Portland,Horizon Foods,Q1/2013,201240.2,39902.65
+2401,Oregon,Portland,Horizon Foods,Q2/2013,322486.58,43818.35
+2402,Oregon,Portland,Horizon Foods,Q3/2013,90859.42,18698.73
+2403,Oregon,Portland,Horizon Foods,Q4/2013,202844.43,34397.42
+2404,Oregon,Portland,Horizon Foods,Q1/2014,162971.82,27134.23
+2405,Oregon,Portland,Horizon Foods,Q2/2014,658531.09,72376.92
+2406,Oregon,Portland,Horizon Foods,Q3/2014,247086.59000000003,42152.4
+2407,Oregon,Portland,Horizon Foods,Q4/2014,294356.69,68380.22
+2408,Oregon,Portland,Horizon Foods,Q1/2015,458892.42,75401.85
+2409,Oregon,Portland,Horizon Foods,Q2/2015,593714.3200000001,60099.91
+2410,Oregon,Portland,Horizon Foods,Q3/2015,206900.79,39911.01
+2411,Oregon,Portland,Horizon Foods,Q4/2015,386143.74,67103.62
+2412,Oregon,Gresham,Andys of Simbury,Q1/2013,940976.5900000001,172430.68
+2413,Oregon,Gresham,Andys of Simbury,Q2/2013,489408.87,97861.77
+2414,Oregon,Gresham,Andys of Simbury,Q3/2013,34348.11,7558.48
+2415,Oregon,Gresham,Andys of Simbury,Q4/2013,108090.0,26214.46
+2416,Oregon,Gresham,Andys of Simbury,Q1/2014,0.0,0.0
+2417,Oregon,Gresham,Andys of Simbury,Q2/2014,0.0,0.0
+2418,Oregon,Gresham,Andys of Simbury,Q3/2014,0.0,0.0
+2419,Oregon,Gresham,Andys of Simbury,Q4/2014,641307.67,91442.08
+2420,Oregon,Gresham,Andys of Simbury,Q1/2015,674963.87,114302.14
+2421,Oregon,Gresham,Andys of Simbury,Q2/2015,386557.33999999997,68746.1
+2422,Oregon,Gresham,Andys of Simbury,Q3/2015,596480.05,91431.01999999999
+2423,Oregon,Gresham,Andys of Simbury,Q4/2015,291131.69,52869.36
+2424,Oregon,Gresham,K C Foods,Q1/2013,266963.32,44029.75
+2425,Oregon,Gresham,K C Foods,Q2/2013,709299.63,84456.99
+2426,Oregon,Gresham,K C Foods,Q3/2013,729201.7,90171.9
+2427,Oregon,Gresham,K C Foods,Q4/2013,326636.32,58422.75
+2428,Oregon,Gresham,K C Foods,Q1/2014,422005.92000000004,49843.810000000005
+2429,Oregon,Gresham,K C Foods,Q2/2014,388443.89,67106.34
+2430,Oregon,Gresham,K C Foods,Q3/2014,232863.02000000002,43332.37
+2431,Oregon,Gresham,K C Foods,Q4/2014,379874.75,49011.89
+2432,Oregon,Gresham,K C Foods,Q1/2015,611269.0599999999,86012.43000000001
+2433,Oregon,Gresham,K C Foods,Q2/2015,646796.53,103321.74
+2434,Oregon,Gresham,K C Foods,Q3/2015,500682.48,90926.91999999998
+2435,Oregon,Gresham,K C Foods,Q4/2015,324805.67000000004,60259.01
+2436,Oregon,Portland,Pinetree Corner,Q1/2013,278960.75,43945.67
+2437,Oregon,Portland,Pinetree Corner,Q2/2013,454933.49,57741.86
+2438,Oregon,Portland,Pinetree Corner,Q3/2013,254735.88999999998,43119.37
+2439,Oregon,Portland,Pinetree Corner,Q4/2013,329579.44999999995,50203.88
+2440,Oregon,Portland,Pinetree Corner,Q1/2014,139042.65,18362.09
+2441,Oregon,Portland,Pinetree Corner,Q2/2014,62577.42,12215.740000000002
+2442,Oregon,Portland,Pinetree Corner,Q3/2014,282108.41,39322.98999999999
+2443,Oregon,Portland,Pinetree Corner,Q4/2014,299437.56999999995,59336.88
+2444,Oregon,Portland,Pinetree Corner,Q1/2015,454947.30000000005,85745.5
+2445,Oregon,Portland,Pinetree Corner,Q2/2015,213569.45,40280.0
+2446,Oregon,Portland,Pinetree Corner,Q3/2015,465666.42,79622.5
+2447,Oregon,Portland,Pinetree Corner,Q4/2015,382664.68999999994,81138.04000000001
+2448,Oregon,Gresham,Box & Save,Q1/2013,686522.67,117070.34
+2449,Oregon,Gresham,Box & Save,Q2/2013,516487.73,79177.63
+2450,Oregon,Gresham,Box & Save,Q3/2013,343162.31,55232.73
+2451,Oregon,Gresham,Box & Save,Q4/2013,450165.76,90483.26999999999
+2452,Oregon,Gresham,Box & Save,Q1/2014,392514.02,58171.94
+2453,Oregon,Gresham,Box & Save,Q2/2014,404493.5,54643.55
+2454,Oregon,Gresham,Box & Save,Q3/2014,359633.22000000003,60191.78
+2455,Oregon,Gresham,Box & Save,Q4/2014,620330.8300000001,128558.16
+2456,Oregon,Gresham,Box & Save,Q1/2015,489637.9,78914.22
+2457,Oregon,Gresham,Box & Save,Q2/2015,278437.17,50034.600000000006
+2458,Oregon,Gresham,Box & Save,Q3/2015,224280.45,37183.700000000004
+2459,Oregon,Gresham,Box & Save,Q4/2015,402656.19999999995,72440.35
+2460,Oregon,Gresham,Barnet Depot,Q1/2013,485834.23,98429.43
+2461,Oregon,Gresham,Barnet Depot,Q2/2013,262450.63,35333.659999999996
+2462,Oregon,Gresham,Barnet Depot,Q3/2013,369860.42999999993,52516.87
+2463,Oregon,Gresham,Barnet Depot,Q4/2013,343454.95999999996,51970.5
+2464,Oregon,Gresham,Barnet Depot,Q1/2014,547890.8799999999,63199.96000000001
+2465,Oregon,Gresham,Barnet Depot,Q2/2014,451919.45,68847.32
+2466,Oregon,Gresham,Barnet Depot,Q3/2014,890473.2300000002,143490.93
+2467,Oregon,Gresham,Barnet Depot,Q4/2014,830936.04,195886.7
+2468,Oregon,Gresham,Barnet Depot,Q1/2015,843568.53,123259.98
+2469,Oregon,Gresham,Barnet Depot,Q2/2015,1131898.0699999998,202169.26
+2470,Oregon,Gresham,Barnet Depot,Q3/2015,484567.32999999996,84428.73000000001
+2471,Oregon,Gresham,Barnet Depot,Q4/2015,638760.48,112578.77
+2472,Oregon,Eugene,Wallys Supermarket,Q1/2013,551230.9299999999,92854.92
+2473,Oregon,Eugene,Wallys Supermarket,Q2/2013,627914.6499999999,91514.75
+2474,Oregon,Eugene,Wallys Supermarket,Q3/2013,233337.52000000002,42421.259999999995
+2475,Oregon,Eugene,Wallys Supermarket,Q4/2013,377150.3,64076.06
+2476,Oregon,Eugene,Wallys Supermarket,Q1/2014,572115.61,76869.05
+2477,Oregon,Eugene,Wallys Supermarket,Q2/2014,398971.37,71317.11
+2478,Oregon,Eugene,Wallys Supermarket,Q3/2014,553136.85,108121.32
+2479,Oregon,Eugene,Wallys Supermarket,Q4/2014,1628734.91,233071.07
+2480,Oregon,Eugene,Wallys Supermarket,Q1/2015,385706.98000000004,79261.87
+2481,Oregon,Eugene,Wallys Supermarket,Q2/2015,532145.4800000001,108020.59
+2482,Oregon,Eugene,Wallys Supermarket,Q3/2015,414105.14,77925.63
+2483,Oregon,Eugene,Wallys Supermarket,Q4/2015,179707.2,39590.53
+2484,Oregon,Gresham,Magruders Grocery,Q1/2013,454525.86,82467.51
+2485,Oregon,Gresham,Magruders Grocery,Q2/2013,134709.44999999998,20811.809999999998
+2486,Oregon,Gresham,Magruders Grocery,Q3/2013,297980.59,40991.78
+2487,Oregon,Gresham,Magruders Grocery,Q4/2013,782504.6299999999,123579.07999999999
+2488,Oregon,Gresham,Magruders Grocery,Q1/2014,337066.54000000004,69072.23
+2489,Oregon,Gresham,Magruders Grocery,Q2/2014,105398.73,20322.41
+2490,Oregon,Gresham,Magruders Grocery,Q3/2014,412672.83999999997,69160.72
+2491,Oregon,Gresham,Magruders Grocery,Q4/2014,1419724.18,201400.03
+2492,Oregon,Gresham,Magruders Grocery,Q1/2015,528355.6,98406.29000000001
+2493,Oregon,Gresham,Magruders Grocery,Q2/2015,444507.67,69627.34999999999
+2494,Oregon,Gresham,Magruders Grocery,Q3/2015,665499.83,105531.79000000001
+2495,Oregon,Gresham,Magruders Grocery,Q4/2015,420460.5,75476.13
+2496,Oregon,Hillsboro,Supermart Operations,Q1/2013,303706.13,54874.509999999995
+2497,Oregon,Hillsboro,Supermart Operations,Q2/2013,540639.72,71081.25
+2498,Oregon,Hillsboro,Supermart Operations,Q3/2013,351642.63,67379.48
+2499,Oregon,Hillsboro,Supermart Operations,Q4/2013,534189.05,121300.5
+2500,Oregon,Hillsboro,Supermart Operations,Q1/2014,116945.33000000002,20592.5
+2501,Oregon,Hillsboro,Supermart Operations,Q2/2014,275934.38,39107.270000000004
+2502,Oregon,Hillsboro,Supermart Operations,Q3/2014,467038.06,83494.0
+2503,Oregon,Hillsboro,Supermart Operations,Q4/2014,497456.92,66762.91
+2504,Oregon,Hillsboro,Supermart Operations,Q1/2015,407675.32,75771.33
+2505,Oregon,Hillsboro,Supermart Operations,Q2/2015,267110.25,44790.24
+2506,Oregon,Hillsboro,Supermart Operations,Q3/2015,549295.8899999999,79076.94
+2507,Oregon,Hillsboro,Supermart Operations,Q4/2015,265868.52,51437.149999999994
+2508,Oregon,Beaverton,City Market,Q1/2013,430823.92000000004,84384.7
+2509,Oregon,Beaverton,City Market,Q2/2013,209832.83,32540.64
+2510,Oregon,Beaverton,City Market,Q3/2013,190824.01,32294.729999999996
+2511,Oregon,Beaverton,City Market,Q4/2013,219304.69,36947.66
+2512,Oregon,Beaverton,City Market,Q1/2014,328107.03,64784.100000000006
+2513,Oregon,Beaverton,City Market,Q2/2014,526229.53,68585.83
+2514,Oregon,Beaverton,City Market,Q3/2014,1635470.86,280335.57
+2515,Oregon,Beaverton,City Market,Q4/2014,307787.51,59244.759999999995
+2516,Oregon,Beaverton,City Market,Q1/2015,417674.94999999995,74547.26
+2517,Oregon,Beaverton,City Market,Q2/2015,329000.29000000004,61226.28
+2518,Oregon,Beaverton,City Market,Q3/2015,546223.38,91644.65
+2519,Oregon,Beaverton,City Market,Q4/2015,357961.64,77294.12
+2520,Oregon,Beaverton,Lowes Pay N Save,Q1/2013,439587.28,74040.07999999999
+2521,Oregon,Beaverton,Lowes Pay N Save,Q2/2013,458927.38,74740.70999999999
+2522,Oregon,Beaverton,Lowes Pay N Save,Q3/2013,437947.47000000003,56242.95
+2523,Oregon,Beaverton,Lowes Pay N Save,Q4/2013,222533.12,44687.27
+2524,Oregon,Beaverton,Lowes Pay N Save,Q1/2014,172869.06,30273.79
+2525,Oregon,Beaverton,Lowes Pay N Save,Q2/2014,256725.27,32339.550000000003
+2526,Oregon,Beaverton,Lowes Pay N Save,Q3/2014,451632.14,64546.45
+2527,Oregon,Beaverton,Lowes Pay N Save,Q4/2014,418547.32,64893.36
+2528,Oregon,Beaverton,Lowes Pay N Save,Q1/2015,894580.6200000001,148643.63
+2529,Oregon,Beaverton,Lowes Pay N Save,Q2/2015,286641.12,54951.38
+2530,Oregon,Beaverton,Lowes Pay N Save,Q3/2015,375953.27,72463.3
+2531,Oregon,Beaverton,Lowes Pay N Save,Q4/2015,359261.81,60048.67
+2532,Oregon,Salem,Tony Finer Mart,Q1/2013,619568.03,106761.74
+2533,Oregon,Salem,Tony Finer Mart,Q2/2013,462532.08,57996.97
+2534,Oregon,Salem,Tony Finer Mart,Q3/2013,152684.13,31450.67
+2535,Oregon,Salem,Tony Finer Mart,Q4/2013,846348.6799999999,120957.70999999999
+2536,Oregon,Salem,Tony Finer Mart,Q1/2014,399764.12,67354.28
+2537,Oregon,Salem,Tony Finer Mart,Q2/2014,672463.27,85968.92
+2538,Oregon,Salem,Tony Finer Mart,Q3/2014,699338.3700000001,98047.6
+2539,Oregon,Salem,Tony Finer Mart,Q4/2014,487209.13,96299.57
+2540,Oregon,Salem,Tony Finer Mart,Q1/2015,1053304.14,206378.11
+2541,Oregon,Salem,Tony Finer Mart,Q2/2015,879412.7200000001,155532.91
+2542,Oregon,Salem,Tony Finer Mart,Q3/2015,809430.49,128481.91
+2543,Oregon,Salem,Tony Finer Mart,Q4/2015,1010720.75,143800.74
+2544,Oregon,Beaverton,C & R Supermarket,Q1/2013,201240.2,42292.58
+2545,Oregon,Beaverton,C & R Supermarket,Q2/2013,322486.58,45644.020000000004
+2546,Oregon,Beaverton,C & R Supermarket,Q3/2013,90859.42,18031.71
+2547,Oregon,Beaverton,C & R Supermarket,Q4/2013,202844.43,40001.65
+2548,Oregon,Beaverton,C & R Supermarket,Q1/2014,162971.82,26247.059999999998
+2549,Oregon,Beaverton,C & R Supermarket,Q2/2014,658531.09,87266.37
+2550,Oregon,Beaverton,C & R Supermarket,Q3/2014,247086.59000000003,44065.979999999996
+2551,Oregon,Beaverton,C & R Supermarket,Q4/2014,294356.69,66384.02
+2552,Oregon,Beaverton,C & R Supermarket,Q1/2015,458892.42,78837.68
+2553,Oregon,Beaverton,C & R Supermarket,Q2/2015,593714.3200000001,62919.42
+2554,Oregon,Beaverton,C & R Supermarket,Q3/2015,206900.79,37438.47
+2555,Oregon,Beaverton,C & R Supermarket,Q4/2015,386143.74,55097.96000000001
+2556,Oregon,Salem,Crisp Groceries,Q1/2013,940976.5900000001,118271.42
+2557,Oregon,Salem,Crisp Groceries,Q2/2013,489408.87,108764.67
+2558,Oregon,Salem,Crisp Groceries,Q3/2013,34348.11,7462.02
+2559,Oregon,Salem,Crisp Groceries,Q4/2013,108090.0,25555.719999999998
+2560,Oregon,Salem,Crisp Groceries,Q1/2014,0.0,0.0
+2561,Oregon,Salem,Crisp Groceries,Q2/2014,0.0,0.0
+2562,Oregon,Salem,Crisp Groceries,Q3/2014,0.0,0.0
+2563,Oregon,Salem,Crisp Groceries,Q4/2014,641307.67,77583.29
+2564,Oregon,Salem,Crisp Groceries,Q1/2015,674963.87,105099.98
+2565,Oregon,Salem,Crisp Groceries,Q2/2015,386557.33999999997,67897.14
+2566,Oregon,Salem,Crisp Groceries,Q3/2015,596480.05,91434.1
+2567,Oregon,Salem,Crisp Groceries,Q4/2015,291131.69,44274.520000000004
+2568,Oregon,Salem,Clydes Market,Q1/2013,266963.32,39368.62
+2569,Oregon,Salem,Clydes Market,Q2/2013,709299.63,101090.48000000001
+2570,Oregon,Salem,Clydes Market,Q3/2013,729201.7,117398.52
+2571,Oregon,Salem,Clydes Market,Q4/2013,326636.32,54236.5
+2572,Oregon,Salem,Clydes Market,Q1/2014,422005.92000000004,57869.869999999995
+2573,Oregon,Salem,Clydes Market,Q2/2014,388443.89,48245.67
+2574,Oregon,Salem,Clydes Market,Q3/2014,232863.02000000002,41668.689999999995
+2575,Oregon,Salem,Clydes Market,Q4/2014,379874.75,43139.5
+2576,Oregon,Salem,Clydes Market,Q1/2015,611269.0599999999,100737.17
+2577,Oregon,Salem,Clydes Market,Q2/2015,646796.53,103373.19
+2578,Oregon,Salem,Clydes Market,Q3/2015,500682.48,95100.54999999999
+2579,Oregon,Salem,Clydes Market,Q4/2015,324805.67000000004,61455.15
+2580,Oregon,Beaverton,More For Less,Q1/2013,278960.75,53016.240000000005
+2581,Oregon,Beaverton,More For Less,Q2/2013,454933.49,66098.92
+2582,Oregon,Beaverton,More For Less,Q3/2013,254735.88999999998,43516.22
+2583,Oregon,Beaverton,More For Less,Q4/2013,329579.44999999995,61138.56
+2584,Oregon,Beaverton,More For Less,Q1/2014,139042.65,17078.7
+2585,Oregon,Beaverton,More For Less,Q2/2014,62577.42,13559.86
+2586,Oregon,Beaverton,More For Less,Q3/2014,282108.41,42808.62
+2587,Oregon,Beaverton,More For Less,Q4/2014,299437.56999999995,63816.18
+2588,Oregon,Beaverton,More For Less,Q1/2015,454947.30000000005,78528.41
+2589,Oregon,Beaverton,More For Less,Q2/2015,213569.45,32938.51
+2590,Oregon,Beaverton,More For Less,Q3/2015,465666.42,84081.87
+2591,Oregon,Beaverton,More For Less,Q4/2015,382664.68999999994,77278.21
+2592,Oregon,Salem,Carlton General Store,Q1/2013,686522.67,97803.18
+2593,Oregon,Salem,Carlton General Store,Q2/2013,516487.73,75531.93
+2594,Oregon,Salem,Carlton General Store,Q3/2013,343162.31,54146.52
+2595,Oregon,Salem,Carlton General Store,Q4/2013,450165.76,92676.63
+2596,Oregon,Salem,Carlton General Store,Q1/2014,392514.02,56668.11
+2597,Oregon,Salem,Carlton General Store,Q2/2014,404493.5,70879.26000000001
+2598,Oregon,Salem,Carlton General Store,Q3/2014,359633.22000000003,62613.31999999999
+2599,Oregon,Salem,Carlton General Store,Q4/2014,620330.8300000001,121537.90000000001
+2600,Oregon,Salem,Carlton General Store,Q1/2015,489637.9,78728.02
+2601,Oregon,Salem,Carlton General Store,Q2/2015,278437.17,40553.649999999994
+2602,Oregon,Salem,Carlton General Store,Q3/2015,224280.45,38589.05
+2603,Oregon,Salem,Carlton General Store,Q4/2015,402656.19999999995,67316.39
+2604,Oregon,Salem,Daddy Rays,Q1/2013,485834.23,83161.75
+2605,Oregon,Salem,Daddy Rays,Q2/2013,262450.63,40300.24
+2606,Oregon,Salem,Daddy Rays,Q3/2013,369860.42999999993,58194.39
+2607,Oregon,Salem,Daddy Rays,Q4/2013,343454.95999999996,54772.0
+2608,Oregon,Salem,Daddy Rays,Q1/2014,547890.8799999999,82205.68000000001
+2609,Oregon,Salem,Daddy Rays,Q2/2014,451919.45,59654.1
+2610,Oregon,Salem,Daddy Rays,Q3/2014,890473.2300000002,140870.27000000002
+2611,Oregon,Salem,Daddy Rays,Q4/2014,830936.04,147788.17
+2612,Oregon,Salem,Daddy Rays,Q1/2015,843568.53,142448.56
+2613,Oregon,Salem,Daddy Rays,Q2/2015,1131898.0699999998,181409.99
+2614,Oregon,Salem,Daddy Rays,Q3/2015,484567.32999999996,95313.15
+2615,Oregon,Salem,Daddy Rays,Q4/2015,638760.48,100524.53
+2616,Oregon,Hillsboro,Stripes,Q1/2013,551230.9299999999,89197.65000000001
+2617,Oregon,Hillsboro,Stripes,Q2/2013,627914.6499999999,78279.43
+2618,Oregon,Hillsboro,Stripes,Q3/2013,233337.52000000002,39981.67
+2619,Oregon,Hillsboro,Stripes,Q4/2013,377150.3,60737.409999999996
+2620,Oregon,Hillsboro,Stripes,Q1/2014,572115.61,90044.42000000001
+2621,Oregon,Hillsboro,Stripes,Q2/2014,398971.37,69307.9
+2622,Oregon,Hillsboro,Stripes,Q3/2014,553136.85,74314.06
+2623,Oregon,Hillsboro,Stripes,Q4/2014,1628734.91,243305.99
+2624,Oregon,Hillsboro,Stripes,Q1/2015,385706.98000000004,79773.12
+2625,Oregon,Hillsboro,Stripes,Q2/2015,532145.4800000001,104922.14000000001
+2626,Oregon,Hillsboro,Stripes,Q3/2015,414105.14,72874.09
+2627,Oregon,Hillsboro,Stripes,Q4/2015,179707.2,43102.020000000004
+2628,Oregon,Beaverton,Johns Corner Store,Q1/2013,454525.86,70640.28
+2629,Oregon,Beaverton,Johns Corner Store,Q2/2013,134709.44999999998,19482.78
+2630,Oregon,Beaverton,Johns Corner Store,Q3/2013,297980.59,37213.14
+2631,Oregon,Beaverton,Johns Corner Store,Q4/2013,782504.6299999999,102925.14000000001
+2632,Oregon,Beaverton,Johns Corner Store,Q1/2014,337066.54000000004,72848.92000000001
+2633,Oregon,Beaverton,Johns Corner Store,Q2/2014,105398.73,19810.25
+2634,Oregon,Beaverton,Johns Corner Store,Q3/2014,412672.83999999997,70554.76
+2635,Oregon,Beaverton,Johns Corner Store,Q4/2014,1419724.18,257320.16999999998
+2636,Oregon,Beaverton,Johns Corner Store,Q1/2015,528355.6,104306.66
+2637,Oregon,Beaverton,Johns Corner Store,Q2/2015,444507.67,65725.65
+2638,Oregon,Beaverton,Johns Corner Store,Q3/2015,665499.83,117741.35
+2639,Oregon,Beaverton,Johns Corner Store,Q4/2015,420460.5,62619.49
